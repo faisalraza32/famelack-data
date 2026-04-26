@@ -1,7 +1,7 @@
 [
   {
-    "nanoid": "al3WKA8i9yYXx6",
-    "name": "1Almere TV",
+    "nanoid": "ypi2E7rwejj7EP",
+    "name": "1AlmereTV",
     "stream_urls": [
       "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
     ],
@@ -53,8 +53,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lQR58FY8hPI1Yk",
-    "name": "BE@TTV",
+    "nanoid": "gxLdnwNNr7kDXq",
+    "name": "BEATTV",
     "stream_urls": [
       "https://tv.beatfm.nl/live.m3u8"
     ],
@@ -76,7 +76,7 @@
       "nld"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hxElXQEHI6wIHq",
@@ -197,8 +197,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9jELoFMThXKoB",
-    "name": "Haarlem105 RTV",
+    "nanoid": "UX0UsvdjEFFpay",
+    "name": "Haarlem105 TV",
     "stream_urls": [
       "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
     ],
@@ -217,6 +217,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "nld"
     ],
     "country": "nl",
@@ -237,74 +238,87 @@
   },
   {
     "nanoid": "pIJy4qNygbTeDA",
-    "name": "InFast",
+    "name": "INFAST",
     "stream_urls": [
-      "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8"
+      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
+      "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+      "https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8",
+      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+      "https://lifestyle-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "Vl0QVZKyw8Jx7M",
+    "nanoid": "xhShEAoVCAmfV9",
     "name": "INTRAVEL",
     "stream_urls": [
       "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
-      "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8",
-      "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "aQ7FlLoPCA66dw",
+    "nanoid": "vLYBd6T3WIHsHx",
     "name": "INWILD",
     "stream_urls": [
       "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8",
+      "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ioi3DtFwnFosJO",
     "name": "InWonder",
     "stream_urls": [
-      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8",
       "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
-      "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8",
+      "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+      "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "NizIVwktpxksyc",
@@ -334,8 +348,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SyIDheQRCSJULV",
-    "name": "L1mburg TV",
+    "nanoid": "pKE0ZgARlvt46E",
+    "name": "L1 TV",
     "stream_urls": [
       "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
     ],
@@ -373,8 +387,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gqyZpR9ps80qVG",
-    "name": "LEO Middelsé TV",
+    "nanoid": "brszZyzF2c0VMk",
+    "name": "LEO Middelse TV",
     "stream_urls": [
       "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
     ],
@@ -399,10 +413,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qUy0NOK2hQdQ38",
-    "name": "LON TV",
+    "nanoid": "8nVftQpC76oxlC",
+    "name": "Lokale Omroep Zeewolde",
     "stream_urls": [
-      "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
+      "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -412,10 +426,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "12S0shaF2zjsAh",
-    "name": "LOZ (Lokale Omroep Zeewolde)",
+    "nanoid": "qUy0NOK2hQdQ38",
+    "name": "LON TV",
     "stream_urls": [
-      "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+      "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -438,8 +452,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KfaJQ0FjPIb81N",
-    "name": "Merwe TV",
+    "nanoid": "GNlR02NgwiOglp",
+    "name": "MaLive",
+    "stream_urls": [
+      "https://live.salto.nl/hls/malive_high.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UTqOJF9u8dQBzt",
+    "name": "MerweTV",
     "stream_urls": [
       "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
     ],
@@ -459,7 +486,7 @@
     "youtube_urls": [],
     "languages": [],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "cz0NSemk409jgG",
@@ -527,8 +554,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7nqRubu9natDhL",
-    "name": "Omroep Gelderland HD",
+    "nanoid": "Ro2ztK12kyMzuv",
+    "name": "Omroep Gelderland",
     "stream_urls": [
       "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
     ],
@@ -579,8 +606,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dRnsytBJsmGO6h",
-    "name": "Omroep Súdwest",
+    "nanoid": "olqIrTCB8dp00d",
+    "name": "Omroep Sudwest",
     "stream_urls": [
       "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
     ],
@@ -658,13 +685,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GcnHRx3K6PYs9j",
-    "name": "Omrop Fryslân",
+    "nanoid": "Bc0BjzWtIFlarp",
+    "name": "Omrop Fryslan",
     "stream_urls": [
       "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
+      "fry",
       "nld"
     ],
     "country": "nl",
@@ -684,8 +712,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v4lxsFawlDWyOD",
-    "name": "Open Rotterdam",
+    "nanoid": "25pB0MbXoRopRk",
+    "name": "OPEN Rotterdam TV",
     "stream_urls": [
       "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
     ],
@@ -697,8 +725,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eFozWtc9ctVlJw",
-    "name": "ORTS",
+    "nanoid": "P7GryzYlzv8Fx4",
+    "name": "ORTS TV",
     "stream_urls": [
       "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
     ],
@@ -795,6 +823,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "nld"
     ],
     "country": "nl",
@@ -838,8 +867,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wypSVAbA0JFPBr",
-    "name": "RPL TV Woerden",
+    "nanoid": "eSTJvBK9DVqXxp",
+    "name": "RPL Woerden",
     "stream_urls": [
       "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8"
     ],
@@ -932,8 +961,8 @@
     "nanoid": "bdBmeA8W9ieof9",
     "name": "RTV Noordoost Friesland",
     "stream_urls": [
-      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
-      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
+      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8",
+      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -960,19 +989,6 @@
     "name": "RTV Oost",
     "stream_urls": [
       "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pKPcdscpQHKJ4v",
-    "name": "RTV Parkstad",
-    "stream_urls": [
-      "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1060,8 +1076,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T0fk5Gpm8VF0Tn",
-    "name": "RTV Veluwezoom",
+    "nanoid": "SX4ijZgGZSePxA",
+    "name": "RTV Veluwezoom TV",
     "stream_urls": [
       "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
     ],
@@ -1125,32 +1141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "stream_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Arhd6FvJ684mYa",
-    "name": "Salto MaLive",
-    "stream_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uijzEdZpPY4boJ",
     "name": "Samen1 TV",
     "stream_urls": [
@@ -1174,11 +1164,11 @@
       "nld"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "4qAiXmvkgXlKqP",
-    "name": "Schie TV (576i)",
+    "name": "Schie TV",
     "stream_urls": [
       "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
     ],
@@ -1216,19 +1206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xhOkE32mWm3czA",
-    "name": "SOL 2",
-    "stream_urls": [
-      "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O0kpowmkTJLDCA",
     "name": "SRC TV",
     "stream_urls": [
@@ -1242,8 +1219,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3yqUEutbjyfIc5",
-    "name": "Streek TV",
+    "nanoid": "dAXeuFzPs6OaT0",
+    "name": "StreekTV",
     "stream_urls": [
       "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
       "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
@@ -1285,8 +1262,8 @@
     "nanoid": "80Bzo5gghASeEz",
     "name": "TV Ellef",
     "stream_urls": [
-      "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8",
-      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8"
+      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8",
+      "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1294,6 +1271,19 @@
     ],
     "country": "nl",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zwLGJanTObFHRP",
+    "name": "TV Rain",
+    "stream_urls": [
+      "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "nl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "yaYUxFsan9hbOE",
@@ -1501,8 +1491,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kZctHcNGqGr4Cb",
-    "name": "WOS TV",
+    "nanoid": "PqPpaJK0geUq0W",
+    "name": "WOS",
     "stream_urls": [
       "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
       "https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
@@ -1526,43 +1516,21 @@
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "lg0ULVC05kTeyK",
     "name": "XITE Hits",
     "stream_urls": [
+      "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
       "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Yyq5ZKC3IYeAjv",
-    "name": "XITE Hits Germany",
-    "stream_urls": [
-      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8sekBiy7r2BmRa",
-    "name": "XITE Hits UK",
-    "stream_urls": [
-      "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
+      "deu",
+      "eng",
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
@@ -1597,6 +1565,7 @@
     "nanoid": "Zc9qOiJNX7q0Hk",
     "name": "XITE Rock x Metal",
     "stream_urls": [
+      "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
       "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8"
     ],
     "youtube_urls": [],
@@ -1604,11 +1573,11 @@
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "lVcADaz4AhkZNS",
-    "name": "ZFM Zoetermeer",
+    "nanoid": "T6K1OzxVu2js0L",
+    "name": "ZFM Zoetermeer TV",
     "stream_urls": [
       "https://zfmzoetermeer.nl/live/master.m3u8"
     ],
@@ -1628,19 +1597,6 @@
     "youtube_urls": [],
     "languages": [
       "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "X4jo6eNxdULfDS",
-    "name": "Дождь",
-    "stream_urls": [
-      "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
     ],
     "country": "nl",
     "isGeoBlocked": false

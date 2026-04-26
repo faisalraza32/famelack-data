@@ -39,6 +39,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZH3cJ0x61gRh14",
     "name": "La Une",
     "stream_urls": [
@@ -53,7 +66,7 @@
   },
   {
     "nanoid": "8NTileZb0uFTPL",
-    "name": "MaTele",
+    "name": "Matele",
     "stream_urls": [
       "https://live.matele.be/hls/live.m3u8"
     ],
@@ -111,7 +124,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "nld"
     ],
     "country": "be",
     "isGeoBlocked": false

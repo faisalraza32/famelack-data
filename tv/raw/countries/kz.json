@@ -26,10 +26,51 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZGz9EteAP4041i",
-    "name": "Balapan TV",
+    "nanoid": "NsRP1rTNLBH991",
+    "name": "Balapan",
     "stream_urls": [
       "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3AVsF9F3MmLx0i",
+    "name": "KTK",
+    "stream_urls": [
+      "https://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+      "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5b8XYlH65LRz6N",
+    "name": "MTRK",
+    "stream_urls": [
+      "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PUtkKNBhatXQzk",
+    "name": "Qazaqstan",
+    "stream_urls": [
+      "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -46,20 +87,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FppU7q3IhJObQ8",
-    "name": "Qazaqstan TV",
-    "stream_urls": [
-      "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kaz"
+      "eng",
+      "kaz",
+      "rus"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -75,7 +105,7 @@
       "kaz"
     ],
     "country": "kz",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "TomqBXbWstBWEq",
@@ -85,33 +115,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QbAo2Ias8xQmzk",
-    "name": "КТК",
-    "stream_urls": [
-      "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-      "https://89.218.30.37/ktklive/live.hq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "APCyUHitJGQfWl",
-    "name": "МТРК",
-    "stream_urls": [
-      "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
+      "eng",
+      "kaz",
       "rus"
     ],
     "country": "kz",

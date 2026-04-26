@@ -26,11 +26,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "er9g2gU6CcPeIA",
+    "name": "Animax",
+    "stream_urls": [
+      "https://nl.utako.moe/Animax/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K2Py26x9khAHLi",
     "name": "ANN News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Mx4nbgtQE4A"
+      "https://www.youtube-nocookie.com/embed/jsptuwx7-ac"
     ],
     "languages": [
       "jpn"
@@ -83,19 +96,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/O7B6ngNgdds"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EJU67zKw2oX8W5",
-    "name": "HBC Hokkaido News 24",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H8JtFk6iQLM"
     ],
     "languages": [
       "jpn"
@@ -173,7 +173,7 @@
     "name": "KTV News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dLQ20kaVDZk"
+      "https://www.youtube-nocookie.com/embed/Thwk6h7ySS4"
     ],
     "languages": [
       "jpn"
@@ -221,30 +221,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TdiFbEP9IeC3wd",
-    "name": "NHK World Japan",
-    "stream_urls": [],
+    "nanoid": "bt1m1v4h1CmExI",
+    "name": "NHK World-Japan",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
+      "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+      "https://nhk.lls.pbs.org/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
     ],
     "languages": [
-      "eng"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8ij5TpDrKhgoPs",
-    "name": "NHK World-Japan HD",
-    "stream_urls": [
-      "https://nhk.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
+      "eng",
       "jpn"
     ],
     "country": "jp",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vMc3oAwSMrTDCX",
@@ -286,24 +279,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PjUU6ZmfuLbOka",
-    "name": "RCC News 24",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yn5AKW2dFG4"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dS0Hi9Oo1lT24W",
     "name": "RKB News 24",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/evINttohYCA"
+      "https://www.youtube-nocookie.com/embed/bZwHNNOF-Gc"
     ],
     "languages": [
       "jpn"
@@ -422,7 +402,7 @@
     "name": "YTV News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tMG6y40anXg"
+      "https://www.youtube-nocookie.com/embed/7V7q8REJcV0"
     ],
     "languages": [
       "jpn"

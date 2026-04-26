@@ -91,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JLqZ7picOIRrVI",
-    "name": "Jordan Satellite Channel",
-    "stream_urls": [
-      "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u6ZkGLLqixazm2",
     "name": "Jordan Songs",
     "stream_urls": [
@@ -127,7 +114,7 @@
       "ara"
     ],
     "country": "jo",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "qKAl8NiXFdyK7W",
@@ -143,8 +130,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n1NVXrRoMu2hbw",
-    "name": "Melody FM Jordan",
+    "nanoid": "30l6X98ALn4Bjb",
+    "name": "Jordan TV",
+    "stream_urls": [
+      "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8JZH2jVeoWilfK",
+    "name": "Melody FM",
     "stream_urls": [
       "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
     ],

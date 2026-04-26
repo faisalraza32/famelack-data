@@ -29,8 +29,8 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "stream_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8",
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -44,6 +44,7 @@
     "name": "Az Star TV",
     "stream_urls": [
       "https://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+      "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -106,42 +107,44 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3yOkUIhwGzemcz",
-    "name": "Canal Savoir",
+    "nanoid": "NrTK4ahuPqgFRE",
+    "name": "CBC News Network",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
+      "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+      "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "NufmSZI2dWYsVg",
+    "name": "CFHD-DT",
+    "stream_urls": [
+      "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p0zKKJn9B3MYSH",
+    "name": "CFTU-DT",
     "stream_urls": [
       "https://hls.savoir.media/live/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4Hpsle8MVRjnlU",
-    "name": "CBC News",
-    "stream_urls": [
-      "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
-      "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "osyQJg9tbrCXvI",
-    "name": "CBC News Network",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -170,7 +173,7 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vtr0l4afegewa9",
@@ -225,10 +228,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vzmtZPIdnHIMbY",
-    "name": "Cowboy Channel",
+    "nanoid": "lvoDUBhVQd9VsC",
+    "name": "CJON-DT",
     "stream_urls": [
-      "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
+      "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tfhLdJUxaIEPI8",
+    "name": "CKNO-FM",
+    "stream_urls": [
+      "https://videostream.jpbgdigital.com/NOWTV.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -271,6 +287,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "tam"
     ],
     "country": "ca",
@@ -291,9 +308,10 @@
   },
   {
     "nanoid": "RzzPNaiJrn9Oe1",
-    "name": "Feva TV",
+    "name": "FEVA TV",
     "stream_urls": [
-      "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8"
+      "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+      "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu"
     ],
     "youtube_urls": [],
     "languages": [
@@ -306,8 +324,7 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -357,7 +374,7 @@
   },
   {
     "nanoid": "N7y193rYKVUHc8",
-    "name": "GTN Canada (1080i)",
+    "name": "GTN Canada",
     "stream_urls": [
       "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
     ],
@@ -366,21 +383,7 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D9wYQdvH3cwnxL",
-    "name": "Gusto",
-    "stream_urls": [
-      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
-      "https://gusto-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Pb2kJOQ71503Nc",
@@ -399,6 +402,7 @@
     "nanoid": "bhT3j01Nh3aRCQ",
     "name": "Hard Knocks",
     "stream_urls": [
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
       "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
     ],
     "youtube_urls": [],
@@ -409,11 +413,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JGmZB6n8iu1FW8",
-    "name": "Haunt TV",
+    "nanoid": "nBBe5iPr7V9NZr",
+    "name": "HauntTV",
     "stream_urls": [
-      "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
+      "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
+      "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+      "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8",
+      "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+      "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -437,9 +445,11 @@
     "nanoid": "2YbTSpvp03DtE4",
     "name": "Homeful",
     "stream_urls": [
-      "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8",
       "https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8",
-      "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8"
+      "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+      "https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8",
+      "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+      "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -462,21 +472,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KAiP4M6j6muoPd",
-    "name": "ICI Montreal",
-    "stream_urls": [
-      "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VW8nguM4FsiBz7",
-    "name": "ICI RDI",
+    "name": "Ici RDI",
     "stream_urls": [
       "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
     ],
@@ -489,7 +486,7 @@
   },
   {
     "nanoid": "j79baqwQIoh0JH",
-    "name": "icnet 1",
+    "name": "ICnet 1",
     "stream_urls": [
       "https://icnet1hls.wns.live/hls/stream.m3u8"
     ],
@@ -502,7 +499,7 @@
   },
   {
     "nanoid": "4aRVEByvjrpcdk",
-    "name": "icnet 2",
+    "name": "ICnet 2",
     "stream_urls": [
       "https://icnet2hls.wns.live/hls/stream.m3u8"
     ],
@@ -538,7 +535,7 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "0bMKdIaIAwnMdw",
@@ -564,18 +561,19 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "stream_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -632,33 +630,31 @@
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
-      "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lQWrqWxPSBgWUI",
-    "name": "Love Nature 4K",
-    "stream_urls": [
+      "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
       "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "bul",
+      "ces",
+      "eng",
+      "hun",
+      "rus",
+      "spa",
+      "tur",
+      "zho"
     ],
     "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "5uo7BGlCPn5nST",
     "name": "Love Pets",
     "stream_urls": [
-      "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8"
+      "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+      "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8",
+      "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
+      "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -701,7 +697,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ell"
+      "ell",
+      "eng",
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -720,43 +718,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lw6jSScbMN0yre",
-    "name": "Nature Time France",
+    "nanoid": "kc1rOesWp3ooeg",
+    "name": "NatureTime",
     "stream_urls": [
+      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+      "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+      "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+      "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
       "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kc1rOesWp3ooeg",
-    "name": "NatureTime",
-    "stream_urls": [
-      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
-      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
-      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
       "eng",
+      "fra",
       "spa"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XVgAGRmSpMBubT",
-    "name": "Newfoundland Television",
-    "stream_urls": [
-      "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -795,19 +772,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NlirpdErEhcq3u",
-    "name": "Now TV 102.3FM Edmonton (CKNO-FM)",
-    "stream_urls": [
-      "https://videostream.jpbgdigital.com/NOWTV.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPKmsmU04xl2Q3",
     "name": "NTV+",
     "stream_urls": [
@@ -838,10 +802,13 @@
     "nanoid": "8qNuUvk67ZKjp5",
     "name": "Qello Concerts by Stingray",
     "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+      "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -898,10 +865,52 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sMtLcZJ0VSsWq6",
+    "name": "Stingray Classic Rock",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5t53vL5oPCm3CM",
+    "name": "Stingray Classica",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
+      "spa"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "xfRnghclKAVK1r",
     "name": "Stingray CMusic",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tGCcprlVTCHu3P",
+    "name": "Stingray DJAZZ",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -937,35 +946,80 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pvJhcGmeEkVjBx",
+    "name": "Stingray Everything '80s",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NHOjcsTXpu7xp8",
+    "name": "Stingray Flashback 70's",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2HLsVyNyjqsi0C",
     "name": "Stingray Greatest Hits",
     "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+      "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pYy3yuvkXW9VTm",
-    "name": "Stingray Hitlist",
+    "nanoid": "8nzzjYF4s0j9Xx",
+    "name": "Stingray Hit List",
     "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bGBVYmklyH3Rjz",
+    "nanoid": "OtWVW2ZAoZYZEt",
     "name": "Stingray Holidayscapes",
     "stream_urls": [
       "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J1T4cNu5RBkAKP",
+    "name": "Stingray Hot Country",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -983,13 +1037,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "apMu1i3Pub5wzT",
+    "name": "Stingray Karaoke",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MTAb38GV9XXOMg",
     "name": "Stingray Naturescape",
     "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng",
+      "tur"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1007,11 +1078,37 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bZP0GZceldYWok",
+    "name": "Stingray Pop Adult",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OXr6CABR0yIRQF",
     "name": "Stingray Remember the 80s",
     "stream_urls": [
-      "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "25ZNUn4YbArAJM",
+    "name": "Stingray Rock Alternative",
+    "stream_urls": [
+      "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1084,8 +1181,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SYD1wPNECNWTz5",
-    "name": "Stingray Today's KPOP",
+    "nanoid": "wrMyyZ5wXg4rn0",
+    "name": "Stingray Today's K-Pop",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
     ],
@@ -1138,7 +1235,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Qcezsr2bNOE"
+      "https://www.youtube-nocookie.com/embed/RWNtJ3qNyzE"
     ],
     "languages": [
       "eng"
@@ -1151,7 +1248,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3OZ6hEwsVvM"
+      "https://www.youtube-nocookie.com/embed/oQN6zJfbmis"
     ],
     "languages": [
       "eng"
@@ -1164,7 +1261,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/56q9TFoxwsc"
+      "https://www.youtube-nocookie.com/embed/tvI3_QkFf_E"
     ],
     "languages": [
       "eng"
@@ -1173,27 +1270,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rX9UmgbTzSMtQs",
-    "name": "TAG TV",
+    "nanoid": "CogDGXOfoZLTPT",
+    "name": "The Cowboy Channel Canada",
     "stream_urls": [
-      "https://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+      "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "hin"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DsGUoe2MbJmXQZ",
-    "name": "TamilVision-TV",
-    "stream_urls": [
-      "https://live.cmr24.fm/TVI/HD/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1206,19 +1290,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Yi8DfPzksOTug8",
-    "name": "The Shopping Channel",
-    "stream_urls": [
-      "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1288,6 +1359,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DR294yaoAeNjE4",
+    "name": "TSC",
+    "stream_urls": [
+      "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+      "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P1nM4FBKgqLCGY",
     "name": "TSN The Ocho",
     "stream_urls": [
@@ -1311,14 +1396,14 @@
       "pan"
     ],
     "country": "ca",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "bXKVlszQEGdoup",
     "name": "TV Témis",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kJA28sCZcSg"
+      "https://www.youtube-nocookie.com/embed/TzWpGocYzKo"
     ],
     "languages": [
       "fra"
@@ -1353,8 +1438,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wQ9GTRyYVowsvi",
-    "name": "WCGtv Public",
+    "nanoid": "yfBSi8T77pzJ7v",
+    "name": "WCGtv",
     "stream_urls": [
       "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
     ],

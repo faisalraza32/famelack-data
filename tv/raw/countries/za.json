@@ -30,7 +30,7 @@
     "name": "AnewZ",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mAy9pG3HZKo"
+      "https://www.youtube-nocookie.com/embed/Y3Hng_fVj1s"
     ],
     "languages": [
       "eng"
@@ -46,6 +46,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "afr",
       "eng"
     ],
     "country": "za",
@@ -124,6 +125,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "afr",
       "eng"
     ],
     "country": "za",
@@ -169,8 +171,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XUS0HMZ6C3y9v9",
-    "name": "Redemption TV Ministry",
+    "nanoid": "7wQenWxLsYgdwu",
+    "name": "Redemption Television Ministry",
     "stream_urls": [
       "https://live.nixsat.com/play/rtm/index.m3u8"
     ],
@@ -202,10 +204,17 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "nbl",
+      "sfs",
+      "ssw",
+      "tso",
+      "ven",
+      "xho",
+      "zul"
     ],
     "country": "za",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "MbDAAgrzqTFxUc",
@@ -218,7 +227,7 @@
       "eng"
     ],
     "country": "za",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "oLnLTQ4nnHeCAZ",
@@ -264,16 +273,17 @@
     "name": "WildEarth",
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
-      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "za",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   }
 ]

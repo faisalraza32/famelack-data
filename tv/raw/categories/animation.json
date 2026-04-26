@@ -1,11 +1,13 @@
 [
   {
-    "nanoid": "OVN59PA5eqzvoQ",
-    "name": "3ABN Kids Network",
+    "nanoid": "EeCJey6cUBdlrr",
+    "name": "3ABN Kids",
     "stream_urls": [
       "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iuDDkU8WLsU"
+    ],
     "languages": [
       "eng"
     ],
@@ -52,17 +54,31 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BGpCMpAK7egFPE",
-    "name": "Animax Asia India",
+    "nanoid": "er9g2gU6CcPeIA",
+    "name": "Animax",
     "stream_urls": [
-      "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+      "https://nl.utako.moe/Animax/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "jpn"
     ],
-    "country": "sg",
+    "country": "jp",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ovLztJmdf9whJG",
+    "name": "Animax Asia",
+    "stream_urls": [
+      "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "country": "sg",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hkDzNHa7Mm4MEd",
@@ -92,7 +108,7 @@
   },
   {
     "nanoid": "6jwIdmT15n1Yze",
-    "name": "ANIME x HIDIVE",
+    "name": "Anime x HIDIVE",
     "stream_urls": [
       "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
@@ -121,7 +137,7 @@
     "name": "Aqua Teen Hunger Force",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i0NF9y5SalM"
+      "https://www.youtube-nocookie.com/embed/E5kUFSNV8sg"
     ],
     "languages": [
       "eng"
@@ -143,19 +159,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6huapTHn6MUgAQ",
-    "name": "Banijay Mr Bean Animé",
-    "stream_urls": [
-      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fruS79xWb73ha2",
     "name": "Barney the Dinosaur",
     "stream_urls": [],
@@ -166,19 +169,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3zs2UMlidApgeb",
-    "name": "Blues TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -273,6 +263,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DrH47QhumQTMmM",
+    "name": "CONtv: Yu-Gi-Oh! GX (Deutsch)",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3XNv-wWH5HE"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xhpSHNk65C34T5",
     "name": "Disney Channel: Gravity Falls",
     "stream_urls": [],
@@ -286,8 +289,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9Vi7dWXxMFcp0J",
-    "name": "Disney Jr. Latin America South",
+    "nanoid": "aDVjvDueowqzIg",
+    "name": "Disney Jr. Latin America",
     "stream_urls": [
       "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
     ],
@@ -313,7 +316,7 @@
   },
   {
     "nanoid": "Fho666tDNHtuPI",
-    "name": "EnerGeek Fan",
+    "name": "EnerGeek FAN",
     "stream_urls": [
       "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
     ],
@@ -345,7 +348,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "jap"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -390,19 +394,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ys1fR7qaVevN2A",
-    "name": "Gumball",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5YtwjYlglp4KTy",
     "name": "Gumball",
     "stream_urls": [],
@@ -413,6 +404,19 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ys1fR7qaVevN2A",
+    "name": "Gumball",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
     "isGeoBlocked": false
   },
   {
@@ -468,6 +472,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6uP6CNEGYjRRQY",
     "name": "Kanade",
     "stream_urls": [
@@ -475,6 +492,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "jpn",
       "spa"
     ],
     "country": "cl",
@@ -494,16 +512,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mi17BkbSFMtULi",
-    "name": "Kuriakos Kids",
+    "nanoid": "Jzx7zjDJMZVMTI",
+    "name": "KMBY-LD 27.5",
     "stream_urls": [
-      "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "por"
+      "eng"
     ],
-    "country": "pt",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -546,42 +564,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R6VpE6L98QcSep",
-    "name": "Mr. Bean Animated",
+    "nanoid": "Yl0RW3A7i4SX1J",
+    "name": "Mr Bean Animated",
     "stream_urls": [
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
       "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "suq6mp1ymDEDbo",
-    "name": "Mr. Bean Anime Italy",
-    "stream_urls": [
-      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz39SbfxEaAf4G",
-    "name": "Mr. Bean Anime Spain",
-    "stream_urls": [
-      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
+      "eng",
+      "fra",
+      "ita",
       "spa"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gcKdwQBnRSpRrD",
+    "name": "Multimania",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -592,7 +607,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "deu",
+      "eng",
+      "por"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -651,6 +668,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PyldYXsoAXUikk",
+    "name": "Pingviins",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "stream_urls": [],
@@ -680,8 +710,8 @@
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "stream_urls": [
-      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
-      "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
+      "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8",
+      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -728,6 +758,20 @@
     ],
     "country": "fr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jVAavKgp3OBX31",
+    "name": "Solnce",
+    "stream_urls": [
+      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "pApkFb67wcPTJl",
@@ -897,47 +941,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gJChs4RXWcqghm",
-    "name": "Мультимания",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MCj2Vyne0bnAk3",
-    "name": "Пингвин",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Uizi8HMPFF6Ku",
-    "name": "Солнце",
-    "stream_urls": [
-      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

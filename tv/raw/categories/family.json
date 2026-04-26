@@ -81,8 +81,8 @@
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "stream_urls": [
-      "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
       "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
+      "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
       "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -109,10 +109,10 @@
     "nanoid": "WfWOCQye5PaNeZ",
     "name": "Estrella Games",
     "stream_urls": [
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
       "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8"
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+      "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -120,6 +120,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
+    "stream_urls": [
+      "https://video.ejeserver.com/live/mcitelevision.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "O7kNo7GEugTsdZ",
@@ -162,66 +176,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hfwTzzqbXODdPh",
-    "name": "Rakuten TV Family Movies Finland",
-    "stream_urls": [
-      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "47gMxXtvKDDhIZ",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GM8ISh0gwWKywf",
-    "name": "Rakuten TV Family Movies Italy",
-    "stream_urls": [
-      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "urCoNCEQ0JVzsM",
-    "name": "Rakuten TV Family Movies Spain",
-    "stream_urls": [
-      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CSJ9U3CaF9Bkyz",
-    "name": "Rakuten TV Family Movies UK",
+    "nanoid": "fBctZ7jgGPMTsZ",
+    "name": "Rakuten TV Family Movies",
     "stream_urls": [
       "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "deu",
+      "eng",
+      "fin",
+      "ita",
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -247,6 +213,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "rus",
       "uzb"
     ],
     "country": "uz",
@@ -264,6 +231,32 @@
     ],
     "country": "za",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q2BhpM1IToL6dc",
+    "name": "STS",
+    "stream_urls": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "d8wK3YuIEkuIYv",
+    "name": "STS Love",
+    "stream_urls": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Am4Jb6RFmtHHBI",
@@ -292,19 +285,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hHJ75oA0QESCWc",
-    "name": "The Pet Collective",
-    "stream_urls": [
-      "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
     "stream_urls": [
@@ -328,19 +308,6 @@
       "fra"
     ],
     "country": "mq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZWd4go9om2ldn",
-    "name": "TV Paraense",
-    "stream_urls": [
-      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {

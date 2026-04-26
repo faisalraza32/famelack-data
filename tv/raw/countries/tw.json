@@ -117,10 +117,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ij10cHMBBd4XeY",
-    "name": "GOOD TV CH1 綜合台",
+    "nanoid": "o7kWiawYqRU0mj",
+    "name": "Good 2",
     "stream_urls": [
-      "https://live.streamingfast.net/osmflivech1.m3u8"
+      "https://live.streamingfast.net/osmflivech2.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -130,10 +130,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0YVHxDTXA7CGGH",
-    "name": "GOOD TV CH2 真理台",
+    "nanoid": "9eN6GxYn3h5Pnb",
+    "name": "Good TV",
     "stream_urls": [
-      "https://live.streamingfast.net/osmflivech2.m3u8"
+      "https://live.streamingfast.net/osmflivech1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -260,18 +260,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j7NCdwXwRiub6P",
-    "name": "TVBS NEWS",
+    "nanoid": "6dwKWQTFDuhIU6",
+    "name": "TVBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc",
-      "https://www.youtube-nocookie.com/embed/2mCSYvcfhtc"
+      "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc"
     ],
     "languages": [
       "zho"
     ],
     "country": "tw",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ylsl7nMp3aqQ8H",
@@ -293,6 +292,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/lEXITHxcagI"
     ],
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Dll7iEE7yiI7N",
+    "name": "WXTV",
+    "stream_urls": [
+      "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "zho"
     ],
@@ -345,19 +357,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ADDSmXoPDY8"
     ],
-    "languages": [
-      "zho"
-    ],
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zQNk8smIwQJMmv",
-    "name": "唯心電視",
-    "stream_urls": [
-      "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "zho"
     ],

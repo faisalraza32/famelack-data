@@ -13,20 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O8knzVaQwPKnWC",
-    "name": "Al Arabiya Al Hadath",
-    "stream_urls": [
-      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-      "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IFQghqsvUOnfz9",
     "name": "Al Arabiya English",
     "stream_urls": [
@@ -48,6 +34,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/yYJjtr3fbZE"
     ],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O5Ua3BgtrfnWGn",
+    "name": "Al Hadath",
+    "stream_urls": [
+      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -207,6 +207,8 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "ara",
+      "eng",
       "fra"
     ],
     "country": "sa",
@@ -233,7 +235,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "ara",
+      "eng",
+      "fra"
     ],
     "country": "sa",
     "isGeoBlocked": false
@@ -275,7 +279,7 @@
       "ara"
     ],
     "country": "sa",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AQGmKDckGE5Qe6",

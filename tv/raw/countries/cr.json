@@ -1,7 +1,7 @@
 [
   {
     "nanoid": "fp34BcAXOlbIfX",
-    "name": "¡OPA! (1080i)",
+    "name": "¡OPA!",
     "stream_urls": [
       "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
     ],
@@ -10,7 +10,7 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "3gZO8yQ0WOkQ8B",
@@ -36,7 +36,7 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "H8TtlIKgrW2bwo",
@@ -49,15 +49,15 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
       "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -96,13 +96,24 @@
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
+    "stream_urls": [
+      "https://latamvdo.com:3870/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -110,7 +121,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -124,19 +135,6 @@
     "name": "Colosal TV",
     "stream_urls": [
       "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -166,6 +164,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -231,6 +230,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -250,8 +250,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "giLHOwP4FD8IiF",
-    "name": "Limón TV",
+    "nanoid": "YEWQw0DloTzS1o",
+    "name": "Limon TV",
     "stream_urls": [
       "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
     ],
@@ -289,8 +289,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K2jiXD7UiZELMV",
-    "name": "Nicoya TV",
+    "nanoid": "L1OBT7Lnf5SKDh",
+    "name": "NicoyaTV",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
     ],
@@ -331,7 +331,6 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
       "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -342,8 +341,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
+    "nanoid": "HYkbd92n6SC6wf",
+    "name": "San Jose TV",
     "stream_urls": [
       "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
@@ -436,15 +435,14 @@
     "nanoid": "0dNDSI0p6Xtcvm",
     "name": "TeleMas",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
-      "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
+      "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "nCrZkPwSbsCSnz",
@@ -457,7 +455,7 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "aeI6TVNDKNvZiP",
@@ -551,21 +549,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CLjMxTVbFP2ZHP",
-    "name": "Zurquí TV",
+    "nanoid": "1lxmOusZyEa4Zg",
+    "name": "Zurqui TV",
     "stream_urls": [
       "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
     ],

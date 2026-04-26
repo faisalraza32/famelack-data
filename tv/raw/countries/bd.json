@@ -26,11 +26,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FjKVg1Xdb8CtFR",
+    "nanoid": "AgfCNepngSlM7x",
     "name": "Channel 24",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wp9gzJEQGlc"
+      "https://www.youtube-nocookie.com/embed/YIBA0-ZdN7o"
     ],
     "languages": [
       "ben"
@@ -39,8 +39,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wPKzw9xyYinfk2",
-    "name": "DBC NEWS",
+    "nanoid": "mxpvI5Qy87eBeF",
+    "name": "DBC News",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/yAkh4TX7PwE"
@@ -52,9 +52,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w8Bp8ozrn2e1YZ",
+    "nanoid": "S9KasrDktK2huz",
     "name": "Desh TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XVPubiGWI_Q"
     ],
@@ -78,7 +80,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rMsmNDEeM1gRlB",
+    "nanoid": "su2eDwMfYQsEMR",
     "name": "Ekhon TV",
     "stream_urls": [],
     "youtube_urls": [
@@ -95,7 +97,7 @@
     "name": "Independent Television",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/luy2r7YQLts"
+      "https://www.youtube-nocookie.com/embed/epya2A1zdrM"
     ],
     "languages": [
       "ben"
@@ -104,7 +106,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B9n020aED6O0Uz",
+    "nanoid": "PO6iQaxkIAJ3jh",
     "name": "Jamuna TV",
     "stream_urls": [],
     "youtube_urls": [
@@ -122,9 +124,7 @@
     "stream_urls": [
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SWwZXPkPG54"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ben"
     ],
@@ -138,6 +138,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tbkWU88p5ks"
     ],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jRNbdDq68JaIxU",
+    "name": "Somoy News TV",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ben"
     ],

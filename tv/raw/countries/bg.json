@@ -52,8 +52,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dFVfkSRxGNsYew",
-    "name": "The Voice TV",
+    "nanoid": "rq3OJITyKdZXB9",
+    "name": "Magic TV",
+    "stream_urls": [
+      "https://bss1.neterra.tv/magictv/magictv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rCOmwF4pnlWlvg",
+    "name": "The Voice",
     "stream_urls": [
       "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
     ],
@@ -95,19 +108,6 @@
     "name": "Tiankov Orient Folk",
     "stream_urls": [
       "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fwm1YJJu2dW30c",
-    "name": "Travel TV",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/travel/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

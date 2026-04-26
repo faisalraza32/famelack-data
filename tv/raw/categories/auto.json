@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "Hvqcyi1KP5PsvX",
-    "name": "Banijay Engine: Full Custom Garage",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1cPc_EA7tOU"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gype1Rdsg8nVpE",
     "name": "Canal Motor",
     "stream_urls": [
@@ -21,7 +8,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "nor"
     ],
     "country": "no",
     "isGeoBlocked": false
@@ -41,7 +29,7 @@
   },
   {
     "nanoid": "tVKEKu2ttkc0Bj",
-    "name": "Drive (576i)",
+    "name": "Drive",
     "stream_urls": [
       "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
     ],
@@ -53,8 +41,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgGzxbZMFfzTB1",
-    "name": "Fun Roads TV",
+    "nanoid": "vADDMdGwASejWG",
+    "name": "Fun Roads",
     "stream_urls": [
       "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
     ],
@@ -79,35 +67,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oS8yaG00faaZ9t",
+    "name": "Goodwood Road & Racing",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gCRWxeUpTZs"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
-      "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8",
-      "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "stream_urls": [
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "4A8SDIwNHIzU1U",
-    "name": "Motorvision.tv (French)",
+    "nanoid": "5zsvZbp5i40Gds",
+    "name": "Motorvision+",
     "stream_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
     ],
@@ -119,9 +122,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zOK01BbVJx3bBU",
-    "name": "POWERNATION",
+    "nanoid": "tUYx8kteikm3hV",
+    "name": "PowerNation TV",
     "stream_urls": [
+      "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
+      "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
       "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
     ],
     "youtube_urls": [],
@@ -135,8 +140,8 @@
     "nanoid": "ibnE8ejnPqbYoZ",
     "name": "Top Gear",
     "stream_urls": [
-      "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+      "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

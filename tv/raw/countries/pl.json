@@ -1,7 +1,7 @@
 [
   {
-    "nanoid": "eUdFR37xIskeb6",
-    "name": "4 Fun Kids (576i) []",
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
     "stream_urls": [
       "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
     ],
@@ -16,21 +16,8 @@
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
-      "https://stream.4fun.tv:8888/hls/4f.m3u8",
-      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "U5fWKmfURNTCwd",
-    "name": "13 Ulica",
-    "stream_urls": [
-      "https://lowa8026-cmyk.github.io/13Ulica.m3u8"
+      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -92,6 +79,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "stream_urls": [
+      "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DHR1El8JiIdfUH",
     "name": "BTB 3",
     "stream_urls": [
@@ -105,14 +106,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgdcsAoxUBnS3U",
-    "name": "BTB HD",
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
     "stream_urls": [
-      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
-      "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+      "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "pol"
     ],
     "country": "pl",
@@ -126,6 +127,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "pol"
     ],
     "country": "pl",
@@ -177,19 +179,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/G9hx5Al3vxM"
     ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "stream_urls": [
-      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
@@ -326,19 +315,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CnUt0NLbpqvK8s",
-    "name": "Polsat Rodzina",
-    "stream_urls": [
-      "https://lowa8026-cmyk.github.io/PolsatRodzina.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "stream_urls": [
@@ -360,19 +336,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yVHVo5RwmcKcvS",
-    "name": "Radio Czwórka",
-    "stream_urls": [
-      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -440,26 +403,13 @@
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "7E4pi94NmbOia5",
-    "name": "Super Express TV (1080i)",
+    "name": "Super Express TV",
     "stream_urls": [
       "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1tR7VJn14clZ7t",
-    "name": "Szlagier TV",
-    "stream_urls": [
-      "https://vefgpbwcjjjbxfng.naszatv.pl/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -512,7 +462,7 @@
     "name": "Telewizja Gorzów",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xmnbTpZpxhs"
+      "https://www.youtube-nocookie.com/embed/S2FyrF9-7IQ"
     ],
     "languages": [
       "pol"
@@ -667,37 +617,26 @@
     "nanoid": "eR7HsNDqvDnpND",
     "name": "TNA Wrestling Channel",
     "stream_urls": [
-      "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8"
+      "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8",
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "rg1mqweNVc3OwT",
     "name": "TOP Barca",
     "stream_urls": [
-      "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
+      "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+      "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zm99zgCQP8EGKf",
-    "name": "Top Movies Polska",
-    "stream_urls": [
-      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -742,19 +681,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XLkhwsgfpyY"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aY6u7qwNMI1Wgm",
     "name": "TVK Stella",
     "stream_urls": [
@@ -771,20 +697,8 @@
     "nanoid": "Se7x9HGaZbNY8X",
     "name": "TVP Info",
     "stream_urls": [
-      "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q4gXyPMnYT6C64",
-    "name": "TVP Kultura",
-    "stream_urls": [
-      "https://lowa8026-cmyk.github.io/TVPKultura.m3u8"
+      "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -797,7 +711,8 @@
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -810,7 +725,8 @@
     "nanoid": "2NOHQqe5XXGwtZ",
     "name": "TVP World",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -853,6 +769,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "pol"
     ],
     "country": "pl",
@@ -862,8 +779,8 @@
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "stream_urls": [
-      "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
-      "https://lowa8026-cmyk.github.io/WPolscePL.m3u8"
+      "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
+      "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -886,8 +803,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UeRJuogpYTAdQE",
-    "name": "World Billiards TV",
+    "nanoid": "MJU7VJSTDePIik",
+    "name": "World Billiards",
     "stream_urls": [
       "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
     ],

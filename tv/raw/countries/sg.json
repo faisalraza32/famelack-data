@@ -1,16 +1,17 @@
 [
   {
-    "nanoid": "BGpCMpAK7egFPE",
-    "name": "Animax Asia India",
+    "nanoid": "ovLztJmdf9whJG",
+    "name": "Animax Asia",
     "stream_urls": [
       "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "jpn"
     ],
     "country": "sg",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "u2iS7uczBAriSJ",
@@ -62,7 +63,7 @@
       "eng"
     ],
     "country": "sg",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "b3SY5CGeJGKaQq",
@@ -78,7 +79,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIf0E36PVxiFIV",
+    "nanoid": "WGiKSjCar1BvSz",
     "name": "CNA International",
     "stream_urls": [],
     "youtube_urls": [
@@ -91,10 +92,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
+    "nanoid": "HJhyKYuHh72Bmv",
+    "name": "CNA Originals",
     "stream_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
+      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -102,6 +104,20 @@
     ],
     "country": "sg",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G00HUpBKHxckzh",
+    "name": "CNBC Asia",
+    "stream_urls": [
+      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
+      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Kp9Lp5SBULDiat",
@@ -114,13 +130,16 @@
       "eng"
     ],
     "country": "sg",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "y1OGn4C9pf6ycf",
     "name": "ZooMoo",
     "stream_urls": [
-      "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8"
+      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

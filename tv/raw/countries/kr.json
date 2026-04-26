@@ -1,20 +1,7 @@
 [
   {
-    "nanoid": "ZgQ9XQCbJsGM3Q",
-    "name": " YTN",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aZyD6EPl6KU"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7Nrb5k66iwjlCb",
-    "name": "ABN TV",
+    "nanoid": "D8DiLY4WZDbVsD",
+    "name": "ABN",
     "stream_urls": [
       "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
     ],
@@ -39,24 +26,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dUpWKGyHnD6gLk",
-    "name": "Arirang",
-    "stream_urls": [
-      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tbc3pRPpRtjmFA",
     "name": "Arirang Radio",
     "stream_urls": [
-      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
       "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
       "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
       "https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
       "https://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
@@ -82,25 +56,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qlphvlREUfyRoa",
+    "nanoid": "HeXayd4ifeh0ao",
     "name": "Arirang TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+      "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
     ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VH0IgtCBooVGmZ",
-    "name": "Arirang TV HD",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_arirang/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -108,8 +80,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1wOSDCV4FzeDAo",
-    "name": "Arirang TV UN",
+    "nanoid": "MLoSafen2Et7rW",
+    "name": "Arirang UN",
     "stream_urls": [
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
     ],
@@ -160,8 +132,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h6sGUfEb8F8FM3",
-    "name": "CJ OnStyle Plus",
+    "nanoid": "KcvC3PUpYdSkC2",
+    "name": "CJ OnStyle+",
     "stream_urls": [
       "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
     ],
@@ -199,8 +171,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NpUlbVPgoMC0BT",
-    "name": "EBS 1",
+    "nanoid": "IvsuFrM7fgKeFe",
+    "name": "EBS 1TV",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
       "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
@@ -213,8 +185,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p7eWwPLOhL5XwZ",
-    "name": "EBS 2",
+    "nanoid": "mMfQkG8CWfVeNj",
+    "name": "EBS 2TV",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
     ],
@@ -226,21 +198,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0ReKeQwwgRaYJE",
-    "name": "EBS E",
+    "nanoid": "TH2UspcIuapB4I",
+    "name": "EBS English",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "kor"
     ],
     "country": "kr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "mkS2euN6WoaBGB",
-    "name": "EBS kids",
+    "name": "EBS Kids",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
     ],
@@ -252,8 +225,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9AzTyi86zrW0vK",
-    "name": "EBS+ 1",
+    "nanoid": "kn5TVoJjDEx7yb",
+    "name": "EBS Plus 1",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
     ],
@@ -265,14 +238,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rln1RmOF4GgHqy",
-    "name": "EBS+ 2",
+    "nanoid": "ODIhPYL5EPIjtl",
+    "name": "EBS Plus 2",
     "stream_urls": [
       "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "kor"
     ],
     "country": "kr",
     "isGeoBlocked": false
@@ -304,8 +278,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PwiAIPffasG0wh",
-    "name": "Gongyoung Shopping",
+    "nanoid": "BHUk7W2sHiMZn9",
+    "name": "Gongyoung Home Shopping",
     "stream_urls": [
       "https://etv.publichs.com/live5.stream/playlist.m3u8"
     ],
@@ -343,10 +317,114 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NJ6pWSSyTgFCxv",
-    "name": "GugakTV 국악방송",
+    "nanoid": "cqIhg7ovb7n2hP",
+    "name": "Gugak TV",
     "stream_urls": [
       "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hJP0GSnYM15Xax",
+    "name": "HLAJ-DTV",
+    "stream_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LeEKq1Wp81fOe3",
+    "name": "HLAN-DTV",
+    "stream_urls": [
+      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pnA1ESNuQBhdp0",
+    "name": "HLAT-DTV",
+    "stream_urls": [
+      "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GCDtsdmWOrJKEn",
+    "name": "HLCQ-DTV",
+    "stream_urls": [
+      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jOYpv2cv2xRFLe",
+    "name": "HLCT-DTV",
+    "stream_urls": [
+      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pl6NNNGCvJKobd",
+    "name": "HLDH-DTV",
+    "stream_urls": [
+      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hI9SMCGhwuM1Tn",
+    "name": "HLDP-DTV",
+    "stream_urls": [
+      "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "klJTuuuc9Rkoag",
+    "name": "HLKJ-DTV",
+    "stream_urls": [
+      "https://123.140.197.22/stream/1/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -382,8 +460,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1xSzaZqPtNC9v8",
-    "name": "Hyundai Home Shopping Plus",
+    "nanoid": "UShqKN6AAa2tbY",
+    "name": "Hyundai Home Shopping + Shop",
     "stream_urls": [
       "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
     ],
@@ -395,11 +473,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z5dt0NMdPPY3fJ",
-    "name": "KBS News",
+    "nanoid": "lwmY0Z7pYKqTi3",
+    "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d_CD1rF1RqU"
+      "https://www.youtube-nocookie.com/embed/mgcbfHp1QcY"
     ],
     "languages": [
       "kor"
@@ -415,6 +493,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "kor"
     ],
     "country": "kr",
@@ -434,8 +513,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g3OLRIXo3TVOmX",
-    "name": "Korea TV",
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
     "stream_urls": [
       "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
     ],
@@ -473,58 +552,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fU7mUMEnsqINVT",
-    "name": "MBC Chuncheon (춘천 MBC)",
-    "stream_urls": [
-      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KfP1wxKWGNerV7",
-    "name": "MBC Daegu (대구 MBC)",
-    "stream_urls": [
-      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CVYe8DrHATgn7K",
-    "name": "MBC Daejeon (대전 MBC)",
-    "stream_urls": [
-      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "stream_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "stream_urls": [],
@@ -538,21 +565,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "znJBZTlOJRrNOH",
-    "name": "MBC Yeosu (여수 MBC)",
-    "stream_urls": [
-      "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FkEZ1qiww38D8n",
-    "name": "NBS Korea Agricultural Broadcasting",
+    "nanoid": "miOqdRnG0LrRce",
+    "name": "NBS",
     "stream_urls": [
       "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
     ],
@@ -590,23 +604,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fjuljf7xVUPuM",
-    "name": "NS Shop Plus",
+    "nanoid": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
     "stream_urls": [
       "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dniHBftPCZaKkW",
-    "name": "OBS Gyeongin TV (OBS경인TV)",
-    "stream_urls": [
-      "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -633,7 +634,7 @@
     "name": "Pororo 뽀로로",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ArZ1iH2z4II"
+      "https://www.youtube-nocookie.com/embed/VYH_9n5vceI"
     ],
     "languages": [
       "kor"
@@ -659,34 +660,8 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xhHUqXf3t3E"
+      "https://www.youtube-nocookie.com/embed/U_PK_muBnjo"
     ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hzRty45Ba6bXh8",
-    "name": "SBS JIBS",
-    "stream_urls": [
-      "https://123.140.197.22/stream/1/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HOw52hxLJ6meLM",
-    "name": "SBS KBC",
-    "stream_urls": [
-      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "kor"
     ],
@@ -707,21 +682,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sYuOJDPKgUlbEP",
-    "name": "SBS UBC",
-    "stream_urls": [
-      "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CyzmTDSgy94fJZ",
-    "name": "Shinsegae Shopping TV",
+    "nanoid": "fnE13NFNokanvE",
+    "name": "Shinsegae TV Shopping",
     "stream_urls": [
       "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
     ],
@@ -746,8 +708,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2HZMrsMvWjfCCr",
-    "name": "TBS Seoul",
+    "nanoid": "WiOl654PXu3URa",
+    "name": "TBS TV",
     "stream_urls": [
       "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"
     ],
@@ -829,6 +791,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6QZ_qc75ihU"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3pO0aRXNlwoN13",
+    "name": "YTN",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aZyD6EPl6KU"
     ],
     "languages": [
       "kor"

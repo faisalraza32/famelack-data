@@ -1,9 +1,22 @@
 [
   {
-    "nanoid": "gOima8j8Qx8bOX",
-    "name": "3Cat El búnquer",
+    "nanoid": "P0SviESIGjVMCR",
+    "name": "3Cat El bunquer",
     "stream_urls": [
       "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MsBPAtiznwuBpL",
+    "name": "3Cat Plats bruts",
+    "stream_urls": [
+      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -23,6 +36,19 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C7SK0S2RgKNZGi",
+    "name": "AFV",
+    "stream_urls": [
+      "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -65,23 +91,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvGqqPEzc8FT4E",
-    "name": "America’s Funniest Home Videos",
-    "stream_urls": [
-      "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
+      "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -104,8 +118,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OoTZbjtjjfRPgJ",
-    "name": "Camera Smile",
+    "nanoid": "grFQ56oSZAzAyP",
+    "name": "Camera Smile TV",
     "stream_urls": [
       "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8"
     ],
@@ -146,9 +160,9 @@
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8",
       "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
-      "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8"
+      "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -182,19 +196,6 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q6wDHNgUCUnAZX",
-    "name": "FailArmy",
-    "stream_urls": [
-      "https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "LAzGmzfDmBkZX9",
@@ -233,19 +234,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qy6bcbSL050Vab",
-    "name": "Humor Mill",
-    "stream_urls": [
-      "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -291,15 +279,18 @@
     "nanoid": "3VQ70bm6nYhxs7",
     "name": "Mr Bean Live Action",
     "stream_urls": [
+      "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0c4Jvigf5dKNp",
+    "nanoid": "dxnKUj9ETMWcSX",
     "name": "Mystery Science Theater 3000",
     "stream_urls": [
       "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
@@ -378,6 +369,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YW9mMgyWQ1A"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "stream_urls": [
@@ -408,7 +412,9 @@
     "nanoid": "yenlo48DOLbqmP",
     "name": "The Chat Show Channel",
     "stream_urls": [
-      "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
+      "https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -421,8 +427,8 @@
     "nanoid": "613B4maEJO1ust",
     "name": "The Conners",
     "stream_urls": [
-      "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8",
+      "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

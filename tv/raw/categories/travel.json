@@ -7,7 +7,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "spa"
     ],
     "country": "aw",
     "isGeoBlocked": false
@@ -72,6 +73,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "spa"
     ],
     "country": "cl",
@@ -85,22 +87,10 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -130,8 +120,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgGzxbZMFfzTB1",
-    "name": "Fun Roads TV",
+    "nanoid": "vADDMdGwASejWG",
+    "name": "Fun Roads",
     "stream_urls": [
       "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
     ],
@@ -144,7 +134,7 @@
   },
   {
     "nanoid": "qR0alRDphlQYmL",
-    "name": "Glazami Turista (576i)",
+    "name": "Glazami Turista",
     "stream_urls": [
       "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
     ],
@@ -182,18 +172,20 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Vl0QVZKyw8Jx7M",
+    "nanoid": "xhShEAoVCAmfV9",
     "name": "INTRAVEL",
     "stream_urls": [
       "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "IpMm8lGTn8YwfA",
@@ -209,34 +201,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "50fISDUbgXCYss",
-    "name": "Living Asia Channel",
-    "stream_urls": [
-      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "goNrMuzefDwskd",
-    "name": "Maldives TV",
-    "stream_urls": [
-      "https://lana.psm.mv/live/mtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "mv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SrSwb0EO4eIb8x",
-    "name": "NOTV New Orleans TV",
+    "nanoid": "3yNWqHOzbbpO53",
+    "name": "KNOV-CD 41.1",
     "stream_urls": [
       "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8"
     ],
@@ -248,7 +214,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u0r5JHswrz2Ecq",
+    "nanoid": "50fISDUbgXCYss",
+    "name": "Living Asia Channel",
+    "stream_urls": [
+      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+      "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IG7KP9uOfXV0Z7",
     "name": "OEPM TV",
     "stream_urls": [
       "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
@@ -274,6 +255,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
     "stream_urls": [
@@ -290,7 +284,8 @@
     "nanoid": "cfBOOiTtczD84z",
     "name": "Space Live powered by sen",
     "stream_urls": [
-      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
+      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
+      "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -310,32 +305,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fwm1YJJu2dW30c",
-    "name": "Travel TV",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/travel/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b84zpXhOp5BzZX",
-    "name": "Travelxp HD",
-    "stream_urls": [
-      "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -365,8 +334,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c08ifxNqd6Qy1Y",
-    "name": "TV Paraná Turismo",
+    "nanoid": "AOuzDU3o0FoYy3",
+    "name": "TV Parana Turismo",
     "stream_urls": [
       "https://200.189.113.201/hls/tve.m3u8"
     ],
@@ -375,19 +344,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1ONog0eu0K0fg5",
-    "name": "TV Sayohi",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/16/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
     "isGeoBlocked": false
   },
   {

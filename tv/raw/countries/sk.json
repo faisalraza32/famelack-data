@@ -16,7 +16,9 @@
     "nanoid": "Hgr2Yg9Zm1Cgi3",
     "name": "ducktv",
     "stream_urls": [
-      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8"
+      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+      "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
     ],
     "youtube_urls": [],
     "languages": [
@@ -52,8 +54,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "85pSoxn45bzQIV",
-    "name": "Régió TV",
+    "nanoid": "s95t8oupUnsMzq",
+    "name": "NZTV",
+    "stream_urls": [
+      "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wLfWojGhPQzL73",
+    "name": "Regio TV",
     "stream_urls": [
       "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8"
     ],
@@ -78,23 +93,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YZDUiqkX55pfU6",
-    "name": "Televízia Močenok",
+    "nanoid": "LO7rHSgznxpZgY",
+    "name": "Televizia Mocenok",
     "stream_urls": [
       "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "unXVpvqIK8hbaG",
-    "name": "Televízia OSEM",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_osem/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -183,19 +185,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7ID5AwZcoEU92T",
-    "name": "TV Nové Zámky",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KDBDQ4u8C3aqtH",
     "name": "TV NRSR",
     "stream_urls": [
@@ -209,8 +198,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XgnR8hLQJIc6fL",
-    "name": "TV Ružinov",
+    "nanoid": "WVRilFjwdG21N5",
+    "name": "TV Ruzinov",
     "stream_urls": [
       "https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
     ],
@@ -226,6 +215,19 @@
     "name": "TV Vita",
     "stream_urls": [
       "https://dash3.antik.sk/live/test_vita/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eX6VWtWd3zsQ1v",
+    "name": "TV8",
+    "stream_urls": [
+      "https://dash3.antik.sk/live/test_osem/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

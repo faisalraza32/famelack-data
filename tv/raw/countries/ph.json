@@ -22,7 +22,23 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "k6kILJ1P88D8yy",
+    "name": "CLTV 36",
+    "stream_urls": [
+      "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "pam",
+      "tgl"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -57,11 +73,13 @@
     "nanoid": "50fISDUbgXCYss",
     "name": "Living Asia Channel",
     "stream_urls": [
-      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+      "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "tgl"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -70,7 +88,8 @@
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
     "stream_urls": [
-      "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+      "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -87,7 +106,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "tgl"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -119,8 +139,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "37vmbtIfcziJUV",
-    "name": "PTV 4",
+    "nanoid": "zQHj8k3lfZHYDd",
+    "name": "PTV",
     "stream_urls": [
       "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
     ],

@@ -3,9 +3,9 @@
     "nanoid": "50BgEa7NMm2duG",
     "name": "America's Test Kitchen",
     "stream_urls": [
-      "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
       "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8"
+      "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -28,8 +28,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7IaAUT7wdg4ZfY",
-    "name": "bon appétit",
+    "nanoid": "cfDYrj4f7xSqqH",
+    "name": "bon appetit",
     "stream_urls": [
       "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
     ],
@@ -119,8 +119,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D1MvvcVgYcHLBj",
-    "name": "Gordon Ramsay",
+    "nanoid": "LmsSgThYErX3rA",
+    "name": "Gordon Ramsay's Hell's Kitchen",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8"
     ],
@@ -129,20 +129,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D9wYQdvH3cwnxL",
-    "name": "Gusto",
-    "stream_urls": [
-      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
-      "https://gusto-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -173,7 +159,7 @@
   },
   {
     "nanoid": "FduEDCfi40g7V8",
-    "name": "In the kitchen",
+    "name": "In the Kitchen",
     "stream_urls": [
       "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
     ],
@@ -224,15 +210,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hAcFI08ZNbAHCM",
+    "nanoid": "XEX2u0X4NRKT1F",
     "name": "Tastemade",
     "stream_urls": [
       "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
       "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
-      "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8"
+      "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
+      "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8",
+      "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
+      "deu",
       "eng"
     ],
     "country": "us",

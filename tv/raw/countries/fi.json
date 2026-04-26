@@ -22,7 +22,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LFEZiBCKA07F1H",
+    "nanoid": "J7RQA4WoEvPkLl",
     "name": "Come Dine With Me",
     "stream_urls": [
       "https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8"
@@ -46,8 +46,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f8OcMZj8nk12cd",
-    "name": "JRTV Järviradio",
+    "nanoid": "khHjtS0a6tOj4o",
+    "name": "JRTV Jarviradio",
     "stream_urls": [
       "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
     ],
@@ -85,8 +85,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z3QTyvg0mqUEif",
-    "name": "NärTV",
+    "nanoid": "RDsjWhSWVAr0bK",
+    "name": "Nar-TV",
     "stream_urls": [
       "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8"
     ],
@@ -101,6 +101,7 @@
     "nanoid": "DSxOBANqbGCYcT",
     "name": "Navahang TV",
     "stream_urls": [
+      "https://hls.navahang.live/hls/stream.m3u8",
       "https://simahls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
@@ -174,34 +175,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QkAeXYqD57Cduc",
-    "name": "YLE TV 1",
-    "stream_urls": [
-      "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "532XJLmRxgJkDu",
-    "name": "YLE TV 2",
-    "stream_urls": [
-      "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gAbt2rH6T2mSLN",
-    "name": "YLE TV Teema & Fem",
+    "nanoid": "TpuV7cZ7ley7jL",
+    "name": "Yle Teema & Fem",
     "stream_urls": [
       "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8"
     ],
@@ -210,6 +185,32 @@
       "fin"
     ],
     "country": "fi",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "yckusHOMD6vE3i",
+    "name": "Yle TV1",
+    "stream_urls": [
+      "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "2j4i6yHaNK9dPs",
+    "name": "Yle TV2",
+    "stream_urls": [
+      "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": true
   }
 ]

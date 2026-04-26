@@ -39,8 +39,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qtsvyZ238Pd7nc",
-    "name": "MusawaChannel",
+    "nanoid": "ZCiUSJXZU6vxjw",
+    "name": "Musawa Channel",
     "stream_urls": [
       "https://pbc.furrera.ps/musawahd/index.m3u8"
     ],
@@ -81,8 +81,8 @@
     "nanoid": "fwZ0THu9CrthiO",
     "name": "Palestine Satellite Channel",
     "stream_urls": [
-      "https://pbc.furrera.ps/palestinehd/index.m3u8",
-      "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
+      "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+      "https://pbc.furrera.ps/palestinehd/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -90,6 +90,19 @@
     ],
     "country": "ps",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JNDKGXOqR8Ky21",
+    "name": "Palestine Today",
+    "stream_urls": [
+      "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ps",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "szNEw4C0KNRO1w",
