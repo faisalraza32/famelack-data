@@ -198,33 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7qGhasB50o3IN0",
-    "name": "Curiosity NOW",
-    "stream_urls": [
-      "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dsP2vFghVIv6Kj",
-    "name": "Da Vinci Asia",
-    "stream_urls": [
-      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "vie"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6A5ze3h8nnCjde",
     "name": "Dark Monkey Music: Dark Minimal Techno Trip",
     "stream_urls": [],
@@ -331,35 +304,64 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vGry1wtSd3d8lw",
-    "name": "DW",
+    "nanoid": "yDe8P2yjEx9yM2",
+    "name": "DW Arabic",
+    "stream_urls": [
+      "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lpYmUDR5HpXALT",
+    "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
-      "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
-      "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
       "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
+    ],
     "languages": [
-      "ara",
-      "eng",
-      "rus",
-      "spa"
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "T1qgpA3LWRh4Lf",
-    "name": "DW Español",
-    "stream_urls": [],
+    "nanoid": "H4HR8svz54XngH",
+    "name": "DW Espanol",
+    "stream_urls": [
+      "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
     ],
     "languages": [
       "spa"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ptE116wUMswJaQ",
+    "name": "DW Russian",
+    "stream_urls": [
+      "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
+    ],
+    "languages": [
+      "rus"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -789,8 +791,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GkJjjR9D6Vw9BC",
-    "name": "MDR Fernsehen",
+    "nanoid": "mUa6AudaIQeV3S",
+    "name": "MDR Fernsehen Thuringen",
     "stream_urls": [
       "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
     ],
@@ -802,20 +804,7 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "VV5nh58QSIjuA6",
-    "name": "More Than Sports TV",
-    "stream_urls": [
-      "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E00cpYmcTm5FiQ",
+    "nanoid": "ojY3PgU9rwk9x4",
     "name": "Motorvision",
     "stream_urls": [
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
@@ -855,27 +844,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nSKKagLIpNXooQ",
+    "nanoid": "4YOpv1CYox1W50",
     "name": "Naruto Germany",
     "stream_urls": [
       "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z6guN3S2lbqSQy",
-    "name": "NDR Fernsehen International",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8",
-      "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -909,7 +884,6 @@
     "nanoid": "dqYeIYeXXFZBkI",
     "name": "Niederbayern TV Landshut",
     "stream_urls": [
-      "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
       "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8"
     ],
     "youtube_urls": [],
@@ -1216,6 +1190,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jrhvPj9Sfa0uyr",
+    "name": "Rakuten TV Family Movies Germany",
+    "stream_urls": [
+      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
     "stream_urls": [
@@ -1230,7 +1217,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wzGJSCy2AvoKPw",
+    "nanoid": "D4fjmuUPITRfet",
     "name": "rbb Fernsehen",
     "stream_urls": [
       "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
@@ -1240,7 +1227,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eDxTJNmoxWEurz",
@@ -1559,6 +1546,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "stream_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fPZSt9vCYtA22m",
     "name": "SWR 3 Visual Radio",
     "stream_urls": [
@@ -1759,22 +1759,142 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xafAIlECB4fMek",
-    "name": "WDR Fernsehen",
+    "nanoid": "VX0nmnBQ8D5Pdv",
+    "name": "WDR Fernsehen Aachen",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kpnjh9YYciFo9a",
+    "name": "WDR Fernsehen Bielefeld",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "9bq9EK8pK09oGU",
+    "name": "WDR Fernsehen Bonn",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "syMY9oojgpG8KI",
+    "name": "WDR Fernsehen Dortmund",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "mhLwW0aVVzdJ90",
+    "name": "WDR Fernsehen Duisburg",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Gt6McIqzqsAgE1",
+    "name": "WDR Fernsehen Düsseldorf",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "6Lz1ceHetsyoUa",
+    "name": "WDR Fernsehen Essen",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HOEGJfbN2vEljn",
+    "name": "WDR Fernsehen Köln",
     "stream_urls": [
       "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8",
       "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8",
       "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "wxs1H0scf0XK4q",
+    "name": "WDR Fernsehen Münster",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dEZtPa59baOyrW",
+    "name": "WDR Fernsehen Siegen",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dC86JbiDgYV1qp",
+    "name": "WDR Fernsehen Wuppertal",
+    "stream_urls": [
+      "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1808,15 +1928,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rbcaed64dSHjvH",
+    "nanoid": "79fVSOpRIHlsyq",
     "name": "World of Freesports",
     "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sdSeYOOTM2qvju",
+    "name": "World of Freesports",
+    "stream_urls": [
       "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MTSj2olhZiM1t9",
+    "name": "XITE Hits Germany",
+    "stream_urls": [
+      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false

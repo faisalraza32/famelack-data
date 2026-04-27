@@ -7,7 +7,9 @@
       "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/e2RgSa1Wt5o"
+    ],
     "languages": [
       "ara"
     ],
@@ -30,30 +32,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIaAqLMCDH73r4",
-    "name": "Al Jazeera",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
-      "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
-      "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
-      "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
-      "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
-      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara",
-      "eng"
-    ],
-    "country": "qa",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "o5kbiFCgZZTyJH",
     "name": "Al Jazeera 2",
     "stream_urls": [
@@ -62,6 +40,46 @@
     "youtube_urls": [],
     "languages": [
       "ara"
+    ],
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mIaAqLMCDH73r4",
+    "name": "Al Jazeera Arabic",
+    "stream_urls": [
+      "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+      "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+      "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+      "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+      "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "qa",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "uBMBUsrNVel77O",
+    "name": "Al Jazeera English",
+    "stream_urls": [
+      "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
+    ],
+    "languages": [
+      "eng"
     ],
     "country": "qa",
     "isGeoBlocked": false
@@ -183,7 +201,8 @@
     "nanoid": "nRS5DLp96YBtfJ",
     "name": "Qatar Television 2",
     "stream_urls": [
-      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8"
+      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+      "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

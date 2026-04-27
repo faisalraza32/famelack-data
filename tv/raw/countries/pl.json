@@ -16,7 +16,6 @@
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
-      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
       "https://stream.4fun.tv:8888/hls/4f.m3u8"
     ],
     "youtube_urls": [],
@@ -28,7 +27,7 @@
   },
   {
     "nanoid": "XCeIlVYmtUB3hr",
-    "name": "American Crime Channel",
+    "name": "American Crime Channel Poland",
     "stream_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104"
     ],
@@ -148,7 +147,7 @@
   },
   {
     "nanoid": "QPykxNCJ0OXJFT",
-    "name": "Buzzfeed Unsolved",
+    "name": "Buzzfeed Unsolved FAST",
     "stream_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099"
     ],
@@ -181,6 +180,19 @@
     ],
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MsdbQSAkSSWayB",
+    "name": "DAZN Combat Poland",
+    "stream_urls": [
+      "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -289,7 +301,7 @@
   },
   {
     "nanoid": "eNWb8bLZwMFVpE",
-    "name": "NewsWorld",
+    "name": "NewsWorld FAST",
     "stream_urls": [
       "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"
     ],
@@ -315,6 +327,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9fqsOnS7piqaUr",
+    "name": "Now 90s & 00s",
+    "stream_urls": [
+      "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+      "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb513f19657460909bce2167d0d334dd844c3bdd0b61cb3071aa448f049f4b1bdae5a5d3ec4ae47821c04d873d5f66411f21c118dc7c1fc7c76adf046727486b9b9ab265d9896450f08d597562ac7b1c51e00e07c47100238ebb4e5dd670e7295243a5583f5063c0bf5fab704fc1d50bd8767dd8a9d963317c383ea57e657305d692dfd07777ae0eb3876a0ac47116b2a063f3e669dea0488f5371ac408451dfcdb0def92098b6937091938145c78e2062208d51b3b0e4ebc3a2a1ecfe51622a3b40f4ac83fb010c87554a4fc219aad541d21cd480298d6178ee4ec80fcc11846fb806aee50ef1fce09f6f4e3badc85e3a67b2f3fadba9657ded2fbb85ecde7873d6a7462809992dfe2b393d96f2d35bd59145d8e651e8de0e3c36c4834a9299c0e1bee1f705f642ffc9ff963255401972258353a78864d869fc76acdc1c28580d69a2985cc8839b321d6d4d8f8c5b942313b6d58e89bd566e2a01dfdb52cdbf8ef6cea6a54bcf99790ab8c7b3a23d0c/85/1920x1080_4716800/index.m3u8",
+      "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "stream_urls": [
@@ -329,7 +356,7 @@
   },
   {
     "nanoid": "PgSQJkjlJAZPaq",
-    "name": "RACER International",
+    "name": "RACER International FAST",
     "stream_urls": [
       "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
     ],
@@ -354,6 +381,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uro7Gvibaed6g8",
+    "name": "Rakuten Viki Poland",
+    "stream_urls": [
+      "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VLsNSTHCvxn0JN",
     "name": "Remonty TV",
     "stream_urls": [
@@ -368,7 +421,7 @@
   },
   {
     "nanoid": "bYyllb5PVIf1uE",
-    "name": "Royalworld",
+    "name": "Royalworld FAST",
     "stream_urls": [
       "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8"
     ],
@@ -406,8 +459,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "sXIYhdVUv4mPZv",
+    "name": "Strongman Champions League",
+    "stream_urls": [
+      "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7E4pi94NmbOia5",
-    "name": "Super Express TV",
+    "name": "Super Express TV FAST",
     "stream_urls": [
       "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8"
     ],
@@ -458,19 +522,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S2FyrF9-7IQ"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "stream_urls": [
@@ -503,19 +554,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_WfqynQRsoE"
     ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lZ08XnHwjKG7mF",
-    "name": "Telewizja Regionalna Zary",
-    "stream_urls": [
-      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
@@ -566,7 +604,7 @@
     "name": "Telewizja wPolsce",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YNqeMjq3E5A"
+      "https://www.youtube-nocookie.com/embed/CINoVvpEAyk"
     ],
     "languages": [
       "pol"
@@ -602,7 +640,7 @@
   },
   {
     "nanoid": "EgbF9TJv7t7rWC",
-    "name": "The Reuters 60",
+    "name": "The Reuters 60 FAST",
     "stream_urls": [
       "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8"
     ],
@@ -668,12 +706,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8WHhXW6sorajRc",
-    "name": "TV Regionalna Lubin",
-    "stream_urls": [
-      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8"
+    "nanoid": "2SfhuUEazfjthW",
+    "name": "TV Relax",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/CCaVL50IWoE"
     ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
@@ -791,7 +829,7 @@
   },
   {
     "nanoid": "XEnaPj4TUOsp8a",
-    "name": "wedotv Auta",
+    "name": "wedotv Auta FAST",
     "stream_urls": [
       "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8"
     ],
@@ -807,6 +845,19 @@
     "name": "World Billiards",
     "stream_urls": [
       "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B03jGEe29rjEvW",
+    "name": "World Poker Tour Poland",
+    "stream_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102"
     ],
     "youtube_urls": [],
     "languages": [

@@ -40,19 +40,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "stream_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y2dtfZFJHxfB6A",
     "name": "AMP 2",
     "stream_urls": [
@@ -117,19 +104,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "bYTvtLA2rlhnbu",
@@ -229,9 +203,7 @@
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6ge6o7sni7U"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -285,7 +257,9 @@
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6snZ0b6b9ec"
+    ],
     "languages": [
       "tur"
     ],
@@ -316,6 +290,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0QTowwNml7pc3D",
+    "name": "Costa Rica Channel",
+    "stream_urls": [
+      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -391,7 +378,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YI307ZCu9XwVbE",
+    "nanoid": "b4DxI8ch5wAZzU",
     "name": "EBS",
     "stream_urls": [
       "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
@@ -401,7 +388,7 @@
       "amh",
       "eng"
     ],
-    "country": "us",
+    "country": "et",
     "isGeoBlocked": false
   },
   {
@@ -419,8 +406,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qrNDt0itJuOiuA",
-    "name": "El 33",
+    "nanoid": "pILTgjKOONeKEW",
+    "name": "El 33 Originals",
     "stream_urls": [
       "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
       "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
@@ -430,7 +417,7 @@
       "cat"
     ],
     "country": "es",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "f5Yx0yGiPGMvvv",
@@ -484,19 +471,6 @@
       "mal"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -631,21 +605,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -959,19 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V3b7nvXml8zERG",
-    "name": "Paci Contemporary Channel",
-    "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DKHLUT1IqpMkXM",
     "name": "Presumiendo Mexico",
     "stream_urls": [
@@ -1008,32 +954,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1167,6 +1087,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4VBfGEAGOsSdAE",
+    "name": "Tra Vinh TV",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "SQGH8tX9KocSpb",
     "name": "Trishul Broadcasting Network",
     "stream_urls": [
@@ -1283,19 +1214,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fcllzx7ENtLcnw",
-    "name": "UMSA TVU LP",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {
