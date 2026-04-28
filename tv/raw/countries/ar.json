@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "OuXJk2O3QtFOgh",
-    "name": "24/7 Canal de Noticias",
-    "stream_urls": [
-      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "85ztx3BoONTxVD",
     "name": "A24",
     "stream_urls": [],
@@ -95,6 +82,19 @@
     "name": "Beats Radio",
     "stream_urls": [
       "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j3vzvoCXC33jhr",
+    "name": "Bravo TV",
+    "stream_urls": [
+      "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
     ],
     "youtube_urls": [],
     "languages": [
@@ -302,7 +302,8 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "stream_urls": [
-      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -377,6 +378,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pGg9E7GpQgpIle",
+    "name": "Canal 11 de la Costa",
+    "stream_urls": [
+      "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "stream_urls": [],
@@ -434,7 +448,9 @@
     "stream_urls": [
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kWmZrqOr_t0"
+    ],
     "languages": [
       "spa"
     ],
@@ -678,6 +694,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uPm2nPDtQYs"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "stream_urls": [],
@@ -747,7 +776,7 @@
     "name": "El Tres TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-bY4UxZDXmY"
+      "https://www.youtube-nocookie.com/embed/Quosqy2IEHA"
     ],
     "languages": [
       "spa"
@@ -1057,6 +1086,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "15KFLuGTzrHWsE",
+    "name": "Telecinco",
+    "stream_urls": [
+      "https://videohd.live:19360/8016/8016.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Go5SKBRSJ9PYYw",
     "name": "Telediario Digital",
     "stream_urls": [],
@@ -1109,6 +1151,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nc0pgDvnPNWdj8",
+    "name": "Telenord",
+    "stream_urls": [
+      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C4INN3f93tsfyG",
     "name": "Televisión Pública",
     "stream_urls": [],
@@ -1135,10 +1190,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y5rT2vxc7ZhUkg",
-    "name": "TV Solidaria",
+    "nanoid": "H7hqVpOhxTx8VO",
+    "name": "TV Mana Argentina",
     "stream_urls": [
-      "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8"
+      "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

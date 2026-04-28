@@ -3,8 +3,8 @@
     "nanoid": "wTystWTy0dOy6P",
     "name": "ABC News Live",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
-      "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8"
+      "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/iipR5yUp36o"
@@ -16,35 +16,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "mIaAqLMCDH73r4",
-    "name": "Al Jazeera Arabic",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
-      "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
-      "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
-      "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
-      "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "qa",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "uBMBUsrNVel77O",
     "name": "Al Jazeera English",
     "stream_urls": [
-      "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
-      "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
       "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8"
+      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+      "https://cdn-7.pishow.tv/live/429/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
@@ -73,12 +50,10 @@
     "nanoid": "1sgSucEcZPpZQV",
     "name": "CBS News 24/7",
     "stream_urls": [
-      "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
-      "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+      "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+      "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qiTIWfyiX7w"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -90,8 +65,8 @@
     "name": "CGTN",
     "stream_urls": [
       "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
-      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
-      "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
@@ -121,7 +96,6 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
       "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
@@ -138,19 +112,9 @@
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
       "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-      "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8"
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Ap-UM1O9RBU"
@@ -162,24 +126,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pn8d6Kp8Ggslkw",
-    "name": "i24NEWS English USA",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UdRIAOyYXAE"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kcakyT2as7MH2V",
     "name": "LiveNOW from FOX",
     "stream_urls": [
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
-      "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8"
+      "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/C96oohpWBGw"
@@ -194,10 +146,9 @@
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "stream_urls": [
-      "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
       "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-      "https://nhk.lls.pbs.org/index.m3u8"
+      "https://nhk.lls.pbs.org/index.m3u8",
+      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
@@ -229,8 +180,8 @@
     "name": "Scripps News",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
-      "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-      "https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8"
+      "https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8",
+      "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -256,8 +207,8 @@
     "nanoid": "egFyCvci4RMv2r",
     "name": "TRT World",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
-      "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+      "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/1VUhRQpz_9o"
@@ -272,14 +223,9 @@
     "nanoid": "hbdW5jPBuqVJNb",
     "name": "WION",
     "stream_urls": [
-      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
-      "https://wion-klowdtv.amagi.tv/playlist.m3u8"
+      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
+      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"

@@ -120,19 +120,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GgXVbdK2cjuBg",
-    "name": "Alanya Posta TV",
-    "stream_urls": [
-      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mmz7MUwsZ62HWK",
     "name": "Almahriah TV",
     "stream_urls": [
@@ -393,6 +380,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-rl0PFwQsEc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GcJmEq9rilBOie",
+    "name": "Deniz Postasi TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -955,19 +955,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oYLz4JWGWtAe6e",
-    "name": "Lider Haber",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KR7PCO40GW4"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sIsIH2RBxpGiQq",
     "name": "Life TV",
     "stream_urls": [
@@ -1140,8 +1127,8 @@
     "nanoid": "AGEdurc99puGj1",
     "name": "Power TV",
     "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-      "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8"
+      "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1193,8 +1180,8 @@
     "nanoid": "h3VH5nC3Ffse2G",
     "name": "PowerTurk TV",
     "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
-      "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
+      "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1443,6 +1430,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "stream_urls": [
@@ -1527,8 +1527,8 @@
     "nanoid": "egFyCvci4RMv2r",
     "name": "TRT World",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
-      "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+      "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/1VUhRQpz_9o"

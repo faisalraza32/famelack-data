@@ -55,9 +55,9 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
       "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -71,6 +71,19 @@
     "name": "Canal 1",
     "stream_urls": [
       "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -302,10 +315,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4hISVyUvSKd79p",
-    "name": "Norte Informativo TV",
+    "nanoid": "gVTlfz80oD0tzA",
+    "name": "Quince UCR",
     "stream_urls": [
-      "https://videohd.live:19360/8076/8076.m3u8"
+      "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -315,10 +328,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gVTlfz80oD0tzA",
-    "name": "Quince UCR",
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
     "stream_urls": [
-      "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -488,45 +501,6 @@
     "name": "Video Tour Channel",
     "stream_urls": [
       "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

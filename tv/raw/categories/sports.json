@@ -17,8 +17,8 @@
     "name": "ACC Digital Network",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8",
-      "https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8",
-      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+      "https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -158,19 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Belarus-5",
-    "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M4nYho03XLslkh",
     "name": "Billiard TV",
     "stream_urls": [
@@ -240,9 +227,9 @@
     "nanoid": "cRWaAoFcT7OCt9",
     "name": "DD Sports",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/13/master.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
+      "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -256,10 +243,8 @@
     "name": "DP World Tour",
     "stream_urls": [
       "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
-      "https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8",
-      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.vf=EHEabFVWNva",
-      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8"
+      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -392,9 +377,9 @@
     "nanoid": "c9pnrtpK60eR4M",
     "name": "FITE 24/7",
     "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8",
       "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
-      "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060"
+      "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060",
+      "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -588,19 +573,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YXhIUBVYB9tHBa",
-    "name": "HTV Sports",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -692,6 +664,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H7YKUTmTDg1xzR",
+    "name": "M-Net Sport",
+    "stream_urls": [
+      "https://live.mnet.mk/hls/mnet-sport.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mkd"
+    ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -801,20 +786,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -969,9 +940,9 @@
     "nanoid": "eJrCmsSX7xmegj",
     "name": "Racer Network",
     "stream_urls": [
+      "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
       "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8",
-      "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8",
-      "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8"
+      "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1011,8 +982,8 @@
     "nanoid": "znLSEaZWfm2KZE",
     "name": "Red Bull TV",
     "stream_urls": [
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1199,6 +1170,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5f6bpRedKmTZgN",
+    "name": "TDM Sports",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "mo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4Me0RU4rvtok1Y",
     "name": "Tele Rebelde",
     "stream_urls": [
@@ -1228,9 +1212,8 @@
     "nanoid": "Li2QUIWlgtJ1VE",
     "name": "Tennis Channel",
     "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1238,6 +1221,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MoxZ4VGCEYwUa4",
+    "name": "Tigo Sports",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8160/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1320,6 +1316,19 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aE41LbUT8Fnd7w",
+    "name": "Turf Movil",
+    "stream_urls": [
+      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -1471,6 +1480,32 @@
     "name": "Unbeaten",
     "stream_urls": [
       "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qoUkakDtbgDtaT",
+    "name": "Vital Drive",
+    "stream_urls": [
+      "https://tv.a21network.ru/stream/37909/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AuMbxXj62GSpIG",
+    "name": "W14DK-D 14.5",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

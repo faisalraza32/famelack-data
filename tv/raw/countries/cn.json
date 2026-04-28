@@ -122,8 +122,8 @@
     "name": "CGTN",
     "stream_urls": [
       "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
-      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
-      "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
@@ -154,8 +154,8 @@
     "name": "CGTN Documentary",
     "stream_urls": [
       "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
-      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -434,10 +434,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2Fb8Um99xfgPRq",
+    "name": "上虞3新商都",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZMTYKvEKk1dmYw",
+    "name": "上虞經濟文化",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "stream_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gpT2C61YO4gJy",
+    "name": "余姚姚江文化",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z6LINyrJx59mNs",
+    "name": "余姚新闻综合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -522,19 +566,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0REjP55mYk4y0F",
-    "name": "小猪佩奇 中文官方 - Peppa Pig",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y3VePiefsns"
-    ],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9wRBNHe95BnBON",
     "name": "嵊州综合",
     "stream_urls": [
@@ -577,17 +608,6 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "stream_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "2D80wABwXq6SL0",

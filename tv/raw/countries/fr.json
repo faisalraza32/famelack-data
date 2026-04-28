@@ -141,19 +141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SFsrKozwjoLj8R",
-    "name": "B SMART",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fioZ3EmNJQs"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "stream_urls": [
@@ -294,8 +281,8 @@
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "stream_urls": [
-      "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE"
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
+      "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -373,6 +360,7 @@
     "nanoid": "8sVssR2O9ofmMl",
     "name": "BFM2",
     "stream_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
       "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
     ],
     "youtube_urls": [],
@@ -734,14 +722,9 @@
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "stream_urls": [
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8"
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -754,19 +737,9 @@
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
       "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-      "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8"
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Ap-UM1O9RBU"
@@ -793,14 +766,8 @@
     "name": "France 24 French",
     "stream_urls": [
       "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
+      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/l8PMl7tUDIE"
@@ -1217,6 +1184,28 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
+    "stream_urls": [
+      "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "stream_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1cCEN7WNbjDun",
     "name": "Revry Europe (Frequency backend)",
     "stream_urls": [
@@ -1365,19 +1354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PNF9zodERQr3Zm",
-    "name": "SQOOL TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zlAodTwD4Qc"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PSsEgUNjn9R4KH",
     "name": "Tech & Co",
     "stream_urls": [],
@@ -1448,7 +1424,6 @@
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1479,13 +1454,7 @@
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8",
-      "https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
-      "https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8"
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1551,6 +1520,19 @@
     "name": "ViaMatele",
     "stream_urls": [
       "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vfl8587p5Rbn09",
+    "name": "viaTelePaese",
+    "stream_urls": [
+      "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

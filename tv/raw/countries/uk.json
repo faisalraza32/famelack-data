@@ -150,11 +150,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "il2nOFg4MhHcyB",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
-      "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -221,6 +234,32 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BblW1Y0Gk79TU4",
+    "name": "BBC Three",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EohUZfaHu9Fw27",
+    "name": "BBC Two",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -733,10 +772,7 @@
     "stream_urls": [
       "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8",
       "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
-      "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
-      "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8",
-      "https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8"
+      "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/QliL4CGc7iY"
@@ -791,8 +827,8 @@
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies UK",
     "stream_urls": [
-      "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8"
+      "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
+      "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -805,8 +841,8 @@
     "nanoid": "fROG7Xv2Vlx2Vb",
     "name": "GREAT! romance UK",
     "stream_urls": [
-      "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
+      "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
+      "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -965,19 +1001,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KgPGrtRlf7Ua6o",
-    "name": "IBC Tamil",
-    "stream_urls": [
-      "https://ibc.massstream.net/IBC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zArqxM7ctlhm8i",
     "name": "Ideal World",
     "stream_urls": [],
@@ -1031,9 +1054,8 @@
     "name": "Iran International",
     "stream_urls": [
       "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
-      "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "https://live.playstop.me/1816184091/index.m3u8",
-      "https://live.playstop.me/LS-63503-4/index.m3u8"
+      "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wk0uvX60fxg"
@@ -1075,19 +1097,6 @@
     "youtube_urls": [],
     "languages": [
       "fas"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ShZM1jb9O7Uguf",
-    "name": "Kanshi TV",
-    "stream_urls": [
-      "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1225,8 +1234,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
-      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1287,10 +1295,9 @@
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "stream_urls": [
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1456,9 +1463,8 @@
     "name": "Mythbusters UK",
     "stream_urls": [
       "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
-      "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8",
-      "https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8",
-      "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8"
+      "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8",
+      "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1523,8 +1529,7 @@
     "stream_urls": [
       "https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8",
       "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
-      "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
-      "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8"
+      "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1578,7 +1583,6 @@
     "name": "Now 80s",
     "stream_urls": [
       "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
       "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
       "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
     ],
@@ -1678,7 +1682,6 @@
     "name": "Pop",
     "stream_urls": [
       "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-      "https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
     ],
@@ -1783,15 +1786,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bM1ajyE0MLR0WL",
-    "name": "Rakuten TV Family Movies UK",
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
     "stream_urls": [
-      "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+      "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6OObHoCz5T6mVt",
+    "name": "Rakuten TV Sci-Fi UK",
+    "stream_urls": [
+      "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2093,8 +2105,7 @@
     "stream_urls": [
       "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
       "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2118,8 +2129,8 @@
     "nanoid": "U5azpF1869TOgk",
     "name": "TJC",
     "stream_urls": [
-      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
-      "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8"
+      "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8",
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2489,11 +2500,9 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "stream_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
       "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
       "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-      "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
