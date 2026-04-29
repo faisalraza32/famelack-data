@@ -200,7 +200,9 @@
   {
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -940,19 +942,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RJiHXnT7WF4"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QQopjrBuObsS3K",
     "name": "Lalegul TV",
     "stream_urls": [
@@ -1445,6 +1434,19 @@
     "name": "TRT Avaz",
     "stream_urls": [
       "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -307,20 +307,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ps5SHG9loIy0eR",
     "name": "F1 Channel US",
     "stream_urls": [
@@ -518,6 +504,19 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
+    "stream_urls": [
+      "https://live.teleradiocom.tj/8/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgk"
+    ],
+    "country": "tj",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1100,19 +1099,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PQO3nTobe9PoFo",
-    "name": "SOS Kanal Plus",
-    "stream_urls": [
-      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "stream_urls": [
@@ -1184,6 +1170,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5f6bpRedKmTZgN",
+    "name": "TDM Sports",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "mo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4Me0RU4rvtok1Y",
     "name": "Tele Rebelde",
     "stream_urls": [
@@ -1215,7 +1214,7 @@
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1467,6 +1466,7 @@
     "nanoid": "qoUkakDtbgDtaT",
     "name": "Vital Drive",
     "stream_urls": [
+      "https://autopilot.catcast.tv/content/37909/index.m3u8",
       "https://tv.a21network.ru/stream/37909/index.m3u8"
     ],
     "youtube_urls": [],

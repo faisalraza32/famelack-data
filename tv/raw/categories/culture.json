@@ -106,6 +106,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "il2nOFg4MhHcyB",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "VtHTEOxTK0CD0C",
     "name": "Belarus-3",
     "stream_urls": [
@@ -216,9 +229,7 @@
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/THdWh13cMF8"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -432,6 +443,19 @@
       "cat"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1TyAWzZva88k1",
+    "name": "ETV 2",
+    "stream_urls": [
+      "https://sb.err.ee/live/etv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "est"
+    ],
+    "country": "ee",
     "isGeoBlocked": false
   },
   {
@@ -781,18 +805,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
+    "nanoid": "AQoLBvOjxVCg4W",
+    "name": "Midpen Media Center Channel 30",
     "stream_urls": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ell",
-      "eng",
-      "fra"
+      "eng"
     ],
-    "country": "ca",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V5gXDCRg4f3pWb",
+    "name": "Midpen Media Center Channel 75",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
