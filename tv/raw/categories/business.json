@@ -28,19 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "stream_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "stream_urls": [
@@ -203,6 +190,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "18AFI0l147pCm5",
+    "name": "BT TV",
+    "stream_urls": [
+      "https://feeds.intoday.in/bttv/itgd.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cUUd6iJP5ivAhb",
     "name": "Business 24 Africa",
     "stream_urls": [
@@ -313,6 +313,7 @@
     "nanoid": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
     "stream_urls": [
+      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
     ],
     "youtube_urls": [],

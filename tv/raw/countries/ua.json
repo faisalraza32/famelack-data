@@ -143,6 +143,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yuVSQWMuHA1KqE",
+    "name": "NTK TV",
+    "stream_urls": [
+      "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ow650uw0Y3b6my",
     "name": "Rivne 1",
     "stream_urls": [
@@ -195,19 +208,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Pqrkg7U9owFXx2",
-    "name": "Telekanal RAI",
-    "stream_urls": [
-      "https://stream.rai.ua/rai/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KNtnaXZuhjC6uj",
     "name": "TIS TV",
     "stream_urls": [
@@ -221,10 +221,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TSbUr1OhqLkxuT",
-    "name": "TVA",
+    "nanoid": "WcoZqsaKguXix1",
+    "name": "TUSO",
     "stream_urls": [
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -234,10 +234,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZWMy6L1tUWrepR",
-    "name": "Z",
+    "nanoid": "TSbUr1OhqLkxuT",
+    "name": "TVA",
     "stream_urls": [
-      "https://stream.ztv.zp.ua/hls/live.m3u8"
+      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -281,19 +283,6 @@
     ],
     "languages": [
       "rus"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tke53J9UPinmCQ",
-    "name": "Телеканал Конкурент TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jkKe6udEnfU"
-    ],
-    "languages": [
-      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false

@@ -235,20 +235,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "stream_urls": [
@@ -294,6 +280,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/nJRUH15HVxs"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L1OBT7Lnf5SKDh",
+    "name": "NicoyaTV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -509,10 +508,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
     "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
