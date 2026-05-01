@@ -143,19 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "18AN91eApyBqTs",
-    "name": "Karcag TV",
-    "stream_urls": [
-      "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U5Rk6wZ9i45ZXv",
     "name": "Kecskemeti TV",
     "stream_urls": [
@@ -314,6 +301,19 @@
     "name": "TV Keszthely",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zm1DJdY6bU4270",
+    "name": "Vasarhelyi Televizio",
+    "stream_urls": [
+      "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -334,19 +334,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LeEKq1Wp81fOe3",
-    "name": "HLAN-DTV",
-    "stream_urls": [
-      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pnA1ESNuQBhdp0",
     "name": "HLAT-DTV",
     "stream_urls": [
@@ -390,6 +377,19 @@
     "name": "HLDH-DTV",
     "stream_urls": [
       "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hI9SMCGhwuM1Tn",
+    "name": "HLDP-DTV",
+    "stream_urls": [
+      "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -451,11 +451,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z5dt0NMdPPY3fJ",
-    "name": "KBS News",
+    "nanoid": "lwmY0Z7pYKqTi3",
+    "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bzLMf4JPINo"
+      "https://www.youtube-nocookie.com/embed/30BLPiylXrw"
     ],
     "languages": [
       "kor"
@@ -595,38 +595,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OGamH5UQIlo"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "stream_urls": [
       "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wLvMxnvxZbDm1t",
-    "name": "SBS",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-MNKUbcyQHo"
-    ],
     "languages": [
       "kor"
     ],
@@ -691,32 +665,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JVocS7Yftw8"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qfMepn6hwcvIUS",
-    "name": "TVCHOSUN JOY",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pQR2ldbwY00"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vhNaz7xD7cy5Pv",
-    "name": "TVCHOSUN MUSIC",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FU8ee0v-YfU"
     ],
     "languages": [
       "kor"

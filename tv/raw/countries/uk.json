@@ -35,20 +35,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SCCSu7TMHcxg2h",
-    "name": "Akaal Channel",
-    "stream_urls": [
-      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "pan"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
     "stream_urls": [
@@ -1129,14 +1115,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e8nAySYBqJpeIt",
-    "name": "Latest TV",
+    "nanoid": "ShZM1jb9O7Uguf",
+    "name": "Kanshi TV",
     "stream_urls": [
-      "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8"
+      "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "hin"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1585,7 +1571,8 @@
     "name": "Now 70s",
     "stream_urls": [
       "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1649,6 +1636,19 @@
       "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
       "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
       "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tC8c3F84BXvXxm",
+    "name": "NTD TV English UK",
+    "stream_urls": [
+      "https://ntd02.akamaized.net/NTD-UK/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2341,6 +2341,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4x3jP3wjS2TImj",
+    "name": "Vantage Music UK",
+    "stream_urls": [
+      "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "WEZmUjkTLCYk9t",
     "name": "Vevo '70s & '80s",
     "stream_urls": [
@@ -2507,8 +2520,8 @@
     "name": "Wonder",
     "stream_urls": [
       "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
-      "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
