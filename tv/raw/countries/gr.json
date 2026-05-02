@@ -170,6 +170,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W3ePyy3g6gIjfs",
+    "name": "ENA Channel",
+    "stream_urls": [
+      "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lQUaMVorKskNow",
+    "name": "ERT News",
+    "stream_urls": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NQiAFQ7ViZASeI",
     "name": "ERT1",
     "stream_urls": [
@@ -433,19 +459,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lH4dJFZ2RLNxKP",
-    "name": "Syros TV1",
-    "stream_urls": [
-      "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ExXGZtUJaG1vOi",
     "name": "Telekriti",
     "stream_urls": [
@@ -463,6 +476,19 @@
     "name": "Thraki Net TV",
     "stream_urls": [
       "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m8BDyIFQ09DrYt",
+    "name": "TRT",
+    "stream_urls": [
+      "https://av.hellasnet.tv/rst/trt/main_stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

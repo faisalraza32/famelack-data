@@ -198,6 +198,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zzIInP1RoY4ur6",
+    "name": "Channel 10",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jBe008vis1MIBq",
     "name": "City of Fort Pierce",
     "stream_urls": [
@@ -805,19 +818,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV FHD",
-    "stream_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kDdnzcMq5qo5B2",
     "name": "MBTV",
     "stream_urls": [
@@ -1057,7 +1057,8 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1072,8 +1073,8 @@
     "name": "Sansad TV 2",
     "stream_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://cdn-2.pishow.tv/live/39/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

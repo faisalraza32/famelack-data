@@ -111,8 +111,7 @@
     "name": "Horse & Country TV",
     "stream_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-      "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -230,7 +229,6 @@
     "nanoid": "P1PoD5jjT64Mum",
     "name": "Outside TV",
     "stream_urls": [
-      "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
       "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
       "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
     ],
@@ -278,6 +276,19 @@
       "deu"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
+    "stream_urls": [
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -399,19 +410,6 @@
       "eng"
     ],
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lOEoXHnp8Sj0dx",
-    "name": "UMC TV",
-    "stream_urls": [
-      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
     "isGeoBlocked": false
   },
   {

@@ -1,9 +1,22 @@
 [
   {
-    "nanoid": "MC0Hkz9sP3iFPv",
-    "name": "Almaya TV",
+    "nanoid": "f4J3TEsOIcCxKd",
+    "name": "4Dmas Noticias TV",
     "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
+      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c4VJcNzklIX0CI",
+    "name": "Alcance FM PLAY TV",
+    "stream_urls": [
+      "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -144,20 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1SiTErM3CiKcqk",
-    "name": "Gen",
-    "stream_urls": [
-      "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
-      "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KorxP0jgE3cFyZ",
     "name": "GO TV",
     "stream_urls": [
@@ -249,6 +248,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wJRs4rnzQYYV7u",
+    "name": "Nandejara Ne'e TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KKXSDc79SjuRMG",
     "name": "Nanduti",
     "stream_urls": [
@@ -319,6 +331,19 @@
     "name": "Popu TV",
     "stream_urls": [
       "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
+    "stream_urls": [
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
     "languages": [
@@ -436,19 +461,6 @@
     "name": "Suceso TV",
     "stream_urls": [
       "https://live.enhdtv.com:8081/8060/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZeeVONu1t8gGrx",
-    "name": "Telequince",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

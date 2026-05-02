@@ -117,6 +117,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Gs106kwXgodNe",
     "name": "Atacama TV",
     "stream_urls": [
@@ -392,17 +405,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iZxXMNes989ufi",
-    "name": "Meganoticias",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1_V4iDu6r8Q"
-    ],
-    "languages": [],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rFCQYWbNPQlvWE",
     "name": "MTNA TV",
     "stream_urls": [
@@ -539,7 +541,21 @@
     "nanoid": "RtV9rPOW8b3zIG",
     "name": "Solo Bailalo",
     "stream_urls": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
       "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZHWfamNislyUpU",
+    "name": "SUR TV",
+    "stream_urls": [
+      "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -735,8 +751,7 @@
     "nanoid": "kTSEb5mta8wgr6",
     "name": "UATV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

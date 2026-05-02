@@ -53,9 +53,7 @@
       "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
       "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AJk4gdK9Tqk"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -98,8 +96,8 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
+      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -109,22 +107,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vyAlDaoF9WU1Q1",
-    "name": "Euronews English",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "oTQxI54nBGEd6Z",
@@ -241,8 +223,8 @@
     "name": "WION",
     "stream_urls": [
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
-      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"

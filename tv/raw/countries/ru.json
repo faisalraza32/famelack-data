@@ -188,6 +188,7 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -251,6 +252,45 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BN8UK0JlgAMrEm",
+    "name": "City Eden Birma Play",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wc02nSZr6VuoIF",
     "name": "City Eden KinoAsia",
     "stream_urls": [
@@ -264,10 +304,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
+    "nanoid": "zzxh5uo44jq1FL",
+    "name": "City Eden KinoFantastika",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -277,10 +317,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BxZoC6PtEMXYP0",
-    "name": "Crimea 24",
+    "nanoid": "xjnk7dNYRv7edj",
+    "name": "City Eden KinoKlassika",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eLHDrGKZWgbc15",
+    "name": "City Eden Sirtaki TV",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/46421/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -476,6 +529,7 @@
     "nanoid": "W7NdP3Tfi9qZIK",
     "name": "Friday!",
     "stream_urls": [
+      "https://vod.tuva.ru/friday/index.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -515,8 +569,8 @@
     "nanoid": "mhdcDiXTatKlEo",
     "name": "Hope Channel Russia",
     "stream_urls": [
-      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1403,7 +1457,6 @@
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1755,19 +1808,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K5EAZFvuWObb4f",
-    "name": "VIVA Russia",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pnRdmB03EI7cgW",
     "name": "Vmeste-RF",
     "stream_urls": [
@@ -1993,19 +2033,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0UpythUDXPOp6",
-    "name": "Россия-РТР",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vzPGxRe9XdVwB1",
     "name": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи",
     "stream_urls": [],
@@ -2024,19 +2051,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/thqNRlZDMs0"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VRSVNzRuNbdCXJ",
-    "name": "Ювелирочка",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LqF6fhpn9eY"
     ],
     "languages": [
       "rus"
