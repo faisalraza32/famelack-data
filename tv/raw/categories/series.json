@@ -202,19 +202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "stream_urls": [
@@ -365,7 +352,8 @@
     "name": "Don't Tell The Bride",
     "stream_urls": [
       "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
+      "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -485,6 +473,19 @@
     "name": "GEM Series",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jw404M5EjXQCzL",
+    "name": "GEM Series +",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -922,6 +923,7 @@
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "stream_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
       "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
     ],
     "youtube_urls": [],

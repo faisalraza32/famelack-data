@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UTKM2yB8tUj85p",
-    "name": "Camera dei Deputati",
-    "stream_urls": [
-      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "stream_urls": [
@@ -537,6 +524,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1057,8 +1057,7 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1073,8 +1072,8 @@
     "name": "Sansad TV 2",
     "stream_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-      "https://cdn-2.pishow.tv/live/39/master.m3u8"
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1221,7 +1220,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K3D-SPcj2V8"
+      "https://www.youtube-nocookie.com/embed/PBUePtyqcRI"
     ],
     "languages": [
       "por"
