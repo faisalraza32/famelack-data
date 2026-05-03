@@ -221,9 +221,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WcoZqsaKguXix1",
+    "name": "TUSO",
+    "stream_urls": [
+      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TSbUr1OhqLkxuT",
     "name": "TVA",
     "stream_urls": [
+      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
       "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
       "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],

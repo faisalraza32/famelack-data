@@ -1290,7 +1290,7 @@
     "name": "Aqua Teen Hunger Force",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EEHdNYTjNeo"
+      "https://www.youtube-nocookie.com/embed/Nt1GOtMqv4A"
     ],
     "languages": [
       "eng"
@@ -2299,6 +2299,17 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "10W3UvqjZvibhY",
+    "name": "BuzzFeed Celeb",
+    "stream_urls": [
+      "https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -7384,19 +7395,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wng8RmVqKEwTqo",
-    "name": "KNSD 48.1",
-    "stream_urls": [
-      "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "CJO123lPwRfM6c",
     "name": "KNTV 11.1",
     "stream_urls": [
@@ -7476,6 +7474,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EGNrGUDtkRGPq0",
+    "name": "KOMO News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VZDx4sqpStk"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7K4PY7oxCAUYFT",
     "name": "KOMO-TV 51.1",
     "stream_urls": [
@@ -7519,19 +7530,6 @@
     "name": "KQSL 8.1",
     "stream_urls": [
       "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XrLe1JzCstmsJZ",
-    "name": "KRCA 7.1",
-    "stream_urls": [
-      "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -7941,20 +7939,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WVkFidb9npy224",
-    "name": "La Voz de Jesus HD",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ttd3hwX2ADeiyl",
     "name": "LA36",
     "stream_urls": [
@@ -8303,6 +8287,7 @@
     "name": "LiveNOW from FOX",
     "stream_urls": [
       "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -9668,17 +9653,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w0WczLx6RVHex0",
-    "name": "NESN Nation",
-    "stream_urls": [
-      "https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UdDdokFxt0qifA",
     "name": "NEW K.MOVIES",
     "stream_urls": [
@@ -9758,6 +9732,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "dr5pYcUriuuOto",
+    "name": "News12 Long Island",
+    "stream_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "gIo3PCn776MYcq",
     "name": "News12 New Jersey",
     "stream_urls": [
@@ -9814,8 +9801,8 @@
     "name": "Newsmax 2",
     "stream_urls": [
       "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
-      "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+      "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10383,6 +10370,19 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "stream_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "troXVuExuiRqrq",
@@ -12107,6 +12107,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/DcXiauXqrPM"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P0LU27eSLAz1HY",
     "name": "Shout! Studios: Speed Racer",
     "stream_urls": [],
@@ -12762,7 +12775,6 @@
     "nanoid": "YllG7rP25m7zOt",
     "name": "Tastemade Travel",
     "stream_urls": [
-      "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
       "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
       "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
     ],
@@ -12817,19 +12829,6 @@
     "name": "TBN Pacific",
     "stream_urls": [
       "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uTlNi9tScdnC88",
-    "name": "TBN Ukraine",
-    "stream_urls": [
-      "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -13709,6 +13708,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZqElOaTamLNXf0",
+    "name": "TokuSHOUTsu: Godzilla Marathon",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NOEqvoGRUko"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5zMPOhKUR72wAc",
     "name": "TokuSHOUTsu: Kamen Rider",
     "stream_urls": [],
@@ -13717,6 +13729,32 @@
     ],
     "languages": [
       "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lif7wI9SEZFwXL",
+    "name": "TokuSHOUTsu: ReBoot",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MdcXc9GDljw"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vxuvNL1pu9DfjK",
+    "name": "TokuSHOUTsu: Speed Racer",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/u9q-PBdmpjE"
+    ],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -14034,19 +14072,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QpHch6Bl6gAtUj",
-    "name": "TV Hispanic",
-    "stream_urls": [
-      "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i4t4xmS0izRPkf",
     "name": "TV One Crime & Justice",
     "stream_urls": [
@@ -14256,19 +14281,6 @@
     "name": "TVS Hollywood History",
     "stream_urls": [
       "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NZYQQqhbxqAkwb",
-    "name": "TVS Mainstreet",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -14750,8 +14762,8 @@
     "nanoid": "fnsN4s1Nk39gF9",
     "name": "Vegas Life TV",
     "stream_urls": [
-      "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8",
-      "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8"
+      "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
+      "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -16967,19 +16979,6 @@
     "name": "WWMT 3.1",
     "stream_urls": [
       "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lMMgpiTfPRceeL",
-    "name": "WWON-TV Channel 48",
-    "stream_urls": [
-      "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
