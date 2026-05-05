@@ -16,8 +16,7 @@
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
-      "https://stream.4fun.tv:8888/hls/4f.m3u8",
-      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+      "https://stream.4fun.tv:8888/hls/4f.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -301,20 +300,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lgqzeQFxqCN8jW",
-    "name": "NewTV",
-    "stream_urls": [
-      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
-      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5gD9e7Md0IU8FQ",
     "name": "Nickelodeon",
     "stream_urls": [
@@ -355,6 +340,19 @@
     ],
     "country": "pl",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kYGxysMkYYrvDt",
+    "name": "Polsat",
+    "stream_urls": [
+      "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "HCuXiJRBY0QrpX",
@@ -537,10 +535,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQRxQD0cfkbApQ",
-    "name": "Telewizja Relax",
+    "nanoid": "lZ08XnHwjKG7mF",
+    "name": "Telewizja Regionalna Zary",
     "stream_urls": [
-      "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
+      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -656,19 +654,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zm99zgCQP8EGKf",
-    "name": "Top Movies Polska",
-    "stream_urls": [
-      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "viSqDXiMLM8FN0",
     "name": "TV ASTA",
     "stream_urls": [
@@ -682,11 +667,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8WHhXW6sorajRc",
+    "name": "TV Regionalna Lubin",
+    "stream_urls": [
+      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2SfhuUEazfjthW",
     "name": "TV Relax",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CCaVL50IWoE"
+      "https://www.youtube-nocookie.com/embed/vgMRozVPxMs"
     ],
     "languages": [
       "pol"
@@ -768,6 +766,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "moehtnlcI4ChMQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZvEQPA1Wmb8"
     ],
     "languages": [
       "pol"

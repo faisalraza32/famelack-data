@@ -293,6 +293,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "NizIVwktpxksyc",
+    "name": "Jin TV",
+    "stream_urls": [
+      "https://live.jintv.org/medialive/jintv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LaumigPirXIG5i",
     "name": "KempenTV",
     "stream_urls": [
@@ -543,6 +556,19 @@
     "name": "Omroep Land van Cuijk",
     "stream_urls": [
       "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nVpsvaBycf2VlN",
+    "name": "Omroep Lingewaard",
+    "stream_urls": [
+      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -908,20 +934,6 @@
     "name": "RTV Noord Extra",
     "stream_urls": [
       "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bdBmeA8W9ieof9",
-    "name": "RTV Noordoost Friesland",
-    "stream_urls": [
-      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
-      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1448,6 +1460,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T6K1OzxVu2js0L",
+    "name": "ZFM Zoetermeer TV",
+    "stream_urls": [
+      "https://zfmzoetermeer.nl/live/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
