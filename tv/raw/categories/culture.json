@@ -132,6 +132,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "VtHTEOxTK0CD0C",
+    "name": "Belarus-3",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "stream_urls": [
@@ -251,6 +264,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -323,7 +349,6 @@
     "name": "DD Bharati",
     "stream_urls": [
       "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
-      "https://cdn-1.pishow.tv/live/10/master.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -443,19 +468,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
     "isGeoBlocked": false
   },
   {
@@ -621,6 +633,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "kon",
+      "lin"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "stream_urls": [
@@ -629,6 +656,19 @@
     "youtube_urls": [],
     "languages": [
       "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TU3kJ8kVqHd9Es",
+    "name": "KBPX-LD 46.5",
+    "stream_urls": [
+      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -810,9 +850,9 @@
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "stream_urls": [
+      "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
       "https://nhk.lls.pbs.org/index.m3u8",
-      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-      "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8"
+      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
@@ -854,8 +894,7 @@
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "stream_urls": [
-      "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
-      "https://cdn-2.pishow.tv/live/1600/master.m3u8"
+      "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

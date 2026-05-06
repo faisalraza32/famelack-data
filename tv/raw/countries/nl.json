@@ -92,19 +92,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "77E2xhr3RrP82t",
-    "name": "Cartoon Network Nederland",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xKqbuWWOFTs"
-    ],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0GurOYtRVIgtSZ",
     "name": "Dance Television",
     "stream_urls": [
@@ -934,6 +921,20 @@
     "name": "RTV Noord Extra",
     "stream_urls": [
       "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bdBmeA8W9ieof9",
+    "name": "RTV Noordoost Friesland",
+    "stream_urls": [
+      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
