@@ -54,19 +54,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FsR4OMNuaQ7RDi",
-    "name": "Africa 24 Sport",
-    "stream_urls": [
-      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VEwkzfegp92NSy",
     "name": "Astrahan.Ru Sport",
     "stream_urls": [
@@ -364,7 +351,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -425,6 +413,19 @@
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -518,19 +519,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -834,6 +822,7 @@
     "nanoid": "waNiTP0zBhMtU6",
     "name": "Pac-12 Insider",
     "stream_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -1215,7 +1204,7 @@
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1250,19 +1239,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MF8dCK1EmeF821",
-    "name": "Tour Spot TV",
-    "stream_urls": [
-      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1475,6 +1451,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AuMbxXj62GSpIG",
+    "name": "W14DK-D 14.5",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

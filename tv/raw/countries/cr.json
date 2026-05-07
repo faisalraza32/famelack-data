@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LA4o1ry7L0C9al",
-    "name": "360 RFTV",
-    "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "H8TtlIKgrW2bwo",
     "name": "Antena Seis TV",
     "stream_urls": [
@@ -55,8 +42,7 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -95,8 +81,7 @@
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -274,19 +259,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p6sphgi1CYY"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L1OBT7Lnf5SKDh",
     "name": "NicoyaTV",
     "stream_urls": [
@@ -317,19 +289,6 @@
     "name": "Quince UCR",
     "stream_urls": [
       "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -538,6 +497,19 @@
     "name": "VM Latino",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lyisHWGyNS2hyW",
+    "name": "VoiceOver Radio TV",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

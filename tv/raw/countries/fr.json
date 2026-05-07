@@ -39,32 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QzSkQCeFOqXwg8",
-    "name": "Africa 24 English",
-    "stream_urls": [
-      "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FsR4OMNuaQ7RDi",
-    "name": "Africa 24 Sport",
-    "stream_urls": [
-      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3R0EfOPIBQ61UY",
     "name": "Africanews",
     "stream_urls": [
@@ -466,19 +440,6 @@
     "name": "Cine Western",
     "stream_urls": [
       "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4TFbQdQIR6USV5",
-    "name": "DBM TV",
-    "stream_urls": [
-      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -948,6 +909,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "stream_urls": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZyKRU2kHKETIx",
+    "name": "Lou!",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bmXXStUNTFw"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tZGs9rIPSzUbKH",
     "name": "Maurienne TV",
     "stream_urls": [],
@@ -1145,10 +1132,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
     "stream_urls": [
-      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+      "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1156,10 +1143,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iLva87P8XGqzZK",
-    "name": "Rakuten TV Films Romance",
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
     "stream_urls": [
-      "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "stream_urls": [
+      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
