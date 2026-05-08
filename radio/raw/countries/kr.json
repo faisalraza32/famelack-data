@@ -36,6 +36,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Djpbm18U3vw086",
+    "name": "BBS TV",
+    "stream_urls": [
+      "https://bbslive.clouducs.com/bbsradio-mlive/radio.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dUrD8wcz74lLxT",
     "name": "BTN TV",
     "stream_urls": [
@@ -48,11 +60,34 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QTQf8hezyIVKI7",
-    "name": "CBS Music FM",
+    "nanoid": "37WrcvTMySnzXg",
+    "name": "CBS JOY4U",
     "stream_urls": [
-      "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
-      "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3"
+      "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QTQf8hezyIVKI7",
+    "name": "CBS Music FM 93.9",
+    "stream_urls": [
+      "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kg2PuXJLCDRP6l",
+    "name": "CBS Standard FM 98.1",
+    "stream_urls": [
+      "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8"
     ],
     "country": "kr",
     "languages": [
@@ -234,6 +269,18 @@
     "name": "Sky Lake 24",
     "stream_urls": [
       "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "apZx1pXeu4R0a0",
+    "name": "YTN News FM",
+    "stream_urls": [
+      "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8"
     ],
     "country": "kr",
     "languages": [

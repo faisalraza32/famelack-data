@@ -113,8 +113,8 @@
     "nanoid": "BcpSzWbWE8Q4Y9",
     "name": "Christmas FM Classical & Carols",
     "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2549_128.mp3",
-      "https://christmasfm.cdnstream1.com/2549_64.aac"
+      "https://christmasfm.cdnstream1.com/2549_64.aac",
+      "https://christmasfm.cdnstream1.com/2549_128.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -345,8 +345,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradionw.radioca.st/;stream.nsv",
-      "https://gemradio.radioca.st/stream/1"
+      "https://gemradio.radioca.st/stream/1",
+      "https://gemradionw.radioca.st/;stream.nsv"
     ],
     "country": "ie",
     "languages": [
@@ -382,8 +382,8 @@
     "nanoid": "rtXCpesXdB52eB",
     "name": "Highland Radio",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3",
-      "https://edge.audioxi.com/HIGHLAND"
+      "https://edge.audioxi.com/HIGHLAND",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -419,8 +419,8 @@
     "nanoid": "LbCCxSyc2HgGC9",
     "name": "iRadio",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/IRADNWAAC",
-      "https://live-bauerie.sharp-stream.com/IRADNW"
+      "https://live-bauerie.sharp-stream.com/IRADNW",
+      "https://live-bauerie.sharp-stream.com/IRADNWAAC"
     ],
     "country": "ie",
     "languages": [
@@ -518,7 +518,7 @@
     "stream_urls": [
       "https://direct.sharp-stream.com/midwestfmie.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -551,6 +551,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I87BHCj2Gjy2yc",
+    "name": "MPB Radio 1 MixMingle",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4j8bcBFb3dn3Pi",
     "name": "MPB Radio 2",
     "stream_urls": [
@@ -575,10 +587,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1pJoOJKbArEWg2",
-    "name": "MPB Radio 2 Christmas",
+    "nanoid": "BjlPcSl3jYYqNy",
+    "name": "MPB Radio 2 Easy",
     "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3"
+      "https://sc.mpbnl.nl/radio2easy.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -587,10 +599,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BjlPcSl3jYYqNy",
-    "name": "MPB Radio 2 Easy",
+    "nanoid": "lyvDPWoa3XrMBP",
+    "name": "MPB Radio 2 Ulster",
     "stream_urls": [
-      "https://sc.mpbnl.nl/radio2easy.mp3"
+      "https://radiozender.mpbnetwerken.nl/radioulster.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -738,18 +750,6 @@
     "name": "Onic RnB",
     "stream_urls": [
       "https://live.onic.ie/stream-rnb"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fbI7y88Xo8Qc03",
-    "name": "Onic Rock",
-    "stream_urls": [
-      "https://live.onic.ie/stream-rock"
     ],
     "country": "ie",
     "languages": [
@@ -1035,8 +1035,8 @@
     "nanoid": "L6DQBwoo4JeeDQ",
     "name": "SPIN 1038",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/SP",
-      "https://edge.audioxi.com/SP"
+      "https://edge.audioxi.com/SP",
+      "https://live-bauerie.sharp-stream.com/SP"
     ],
     "country": "ie",
     "languages": [
@@ -1048,8 +1048,8 @@
     "nanoid": "yIE7HPksTvGqA4",
     "name": "SPIN South West",
     "stream_urls": [
-      "https://edge.audioxi.com/SW",
       "https://live-bauerie.sharp-stream.com/SW",
+      "https://edge.audioxi.com/SW",
       "https://stream.audioxi.com/SW"
     ],
     "country": "ie",

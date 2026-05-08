@@ -65,9 +65,9 @@
     "nanoid": "e6CKir7XvKvdBj",
     "name": "AFN Incirlik 107.1 FM",
     "stream_urls": [
-      "https://28503.live.streamtheworld.com/AFNE_ICK_SC",
-      "https://25443.live.streamtheworld.com/AFNE_ICK_SC",
-      "https://25503.live.streamtheworld.com/AFNE_ICK_SC"
+      "https://29103.live.streamtheworld.com/AFNE_ICK_SC",
+      "https://25503.live.streamtheworld.com/AFNE_ICK_SC",
+      "https://25443.live.streamtheworld.com/AFNE_ICK_SC"
     ],
     "country": "tr",
     "languages": [
@@ -141,18 +141,6 @@
     "name": "Arabesk FM",
     "stream_urls": [
       "https://yayin.arabeskfm.biz:8042/stream"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xKpXWu91YEu3NO",
-    "name": "Arabeskin Merkezi FM 102.1",
-    "stream_urls": [
-      "https://canli.arabeskinmerkezi.com:9180/stream"
     ],
     "country": "tr",
     "languages": [
@@ -272,6 +260,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e8mZihDU459afy",
+    "name": "Borusan Klasik",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIKAAC_SC"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KWFb6X3BQgdKbj",
     "name": "Çağrı FM",
     "stream_urls": [
@@ -284,34 +284,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vbb7y1mGYxlGQu",
-    "name": "Can TV",
-    "stream_urls": [
-      "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zoi8oaxsiplZwf",
     "name": "Classicland",
     "stream_urls": [
       "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w1DBoNMJsxgGxZ",
-    "name": "CNN Türk Radyo",
-    "stream_urls": [
-      "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -335,8 +311,8 @@
     "nanoid": "6tkL8UKTvwl8fd",
     "name": "Damar Türk FM",
     "stream_urls": [
-      "https://live.radyositesihazir.com:10997/;",
-      "https://live.radyositesihazir.com:10997/stream"
+      "https://live.radyositesihazir.com:10997/stream",
+      "https://live.radyositesihazir.com:10997/;"
     ],
     "country": "tr",
     "languages": [
@@ -684,6 +660,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zyywhpXxEm9xVL",
+    "name": "Fırat FM",
+    "stream_urls": [
+      "https://anadolu.liderhost.com.tr:10912/;"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZrKcT50NLwjvYp",
     "name": "Genç FM",
     "stream_urls": [
@@ -999,18 +987,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6C5PvMTlwSaOlH",
-    "name": "Köroğlu FM",
-    "stream_urls": [
-      "https://yayin.turkhosted.com:6068/stream"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pbm5NmFriHwPZE",
     "name": "Kral FM",
     "stream_urls": [
@@ -1220,8 +1196,8 @@
     "nanoid": "Xh9pmZhUKsnNUl",
     "name": "Meteorolojinin Sesi Radyosu",
     "stream_urls": [
-      "https://radyomgm.canliyayinda.com/;stream.mp3",
-      "https://radyo.yayin.com.tr:6227/stream"
+      "https://radyo.yayin.com.tr:6227/stream",
+      "https://radyomgm.canliyayinda.com/;stream.mp3"
     ],
     "country": "tr",
     "languages": [
@@ -1375,6 +1351,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ny8rg9S1XydLqp",
+    "name": "Play Dance Radio",
+    "stream_urls": [
+      "https://radyo1.radyo-dinle.tc/playdanceradio/stream"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OG9xyzuTOszDpA",
     "name": "Popland",
     "stream_urls": [
@@ -1440,8 +1428,9 @@
     "nanoid": "j3rWWG9yCYDE1y",
     "name": "Power Love",
     "stream_urls": [
-      "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
-      "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
+      "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+      "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+      "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -1993,18 +1982,6 @@
     "name": "Radyo Fıtrat",
     "stream_urls": [
       "https://radyofitrat.radyotvonline.net/"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f6C7v3q8GAx4TU",
-    "name": "Radyo Gedik",
-    "stream_urls": [
-      "https://radyo-t.gedik.edu.tr/stream.mp3"
     ],
     "country": "tr",
     "languages": [
@@ -3002,8 +2979,8 @@
     "nanoid": "dnzXP0BFikPKcp",
     "name": "X Radio 103.8",
     "stream_urls": [
-      "https://yayin.radyomadyo.com:8770/",
-      "https://stream.xradio.com.tr:8770/stream"
+      "https://stream.xradio.com.tr:8770/stream",
+      "https://yayin.radyomadyo.com:8770/"
     ],
     "country": "tr",
     "languages": [

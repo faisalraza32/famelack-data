@@ -72,8 +72,8 @@
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
-      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live.mp3",
+      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_128.mp3"
     ],
     "country": "hu",
@@ -197,8 +197,8 @@
     "nanoid": "IGIv0mGf5c2KJV",
     "name": "Campus Rádió FM90",
     "stream_urls": [
-      "https://stream.fm90.hu:8000/stream/1",
-      "https://stream.fm90.hu:8000/;"
+      "https://stream.fm90.hu:8000/;",
+      "https://stream.fm90.hu:8000/stream/1"
     ],
     "country": "hu",
     "languages": [
@@ -623,7 +623,6 @@
     "name": "Dance Wave!",
     "stream_urls": [
       "https://dancewave.online/station/dance-wave-ogg",
-      "https://dancewave.online/dance.aac",
       "https://dancewave.online/dance.flac.ogg"
     ],
     "country": "hu",
@@ -856,8 +855,8 @@
     "nanoid": "1l7aYu7nneZoSc",
     "name": "Klasszik Rádió 92.1",
     "stream_urls": [
-      "https://www.klasszikradio.hu/klasszik.mp3",
-      "https://s04.diazol.hu:9600/live.mp3"
+      "https://s04.diazol.hu:9600/live.mp3",
+      "https://www.klasszikradio.hu/klasszik.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -1138,18 +1137,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kQTKyIRGdzdsga",
-    "name": "Oxygen Indie",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenindie"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CvSuREjl9LEsm8",
     "name": "Oxygen Italo Hits",
     "stream_urls": [
@@ -1213,8 +1200,8 @@
     "nanoid": "lFL7WaRHV28xk8",
     "name": "Oxygen Music",
     "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenmusic",
-      "https://oxygenmusic.hu:8443/oxygenmusic_192"
+      "https://oxygenmusic.hu:8443/oxygenmusic_192",
+      "https://oxygenmusic.hu:8443/oxygenmusic"
     ],
     "country": "hu",
     "languages": [
@@ -1263,18 +1250,6 @@
     "name": "Oxygen The 90s Hits",
     "stream_urls": [
       "https://oxygenmusic.hu:8443/oxygenthe90shits"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z1pvIPtPO6AQHn",
-    "name": "Oxygen Xmas",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8000/xmas_320"
     ],
     "country": "hu",
     "languages": [
@@ -1371,8 +1346,8 @@
     "nanoid": "Itm5cMl3OJ2F60",
     "name": "Rádió 1",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5201/live.mp3",
-      "https://icast.connectmedia.hu/5202/live.mp3"
+      "https://icast.connectmedia.hu/5202/live.mp3",
+      "https://icast.connectmedia.hu/5201/live.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -1567,8 +1542,8 @@
     "nanoid": "LACkj3xCJlVEFR",
     "name": "radiOzora",
     "stream_urls": [
-      "https://trance.out.airtime.pro:8000/trance_a",
-      "https://trance.out.airtime.pro/trance_a"
+      "https://trance.out.airtime.pro/trance_a",
+      "https://trance.out.airtime.pro:8000/trance_a"
     ],
     "country": "hu",
     "languages": [
@@ -1605,57 +1580,9 @@
     "nanoid": "kKnMfOlRUDVOZk",
     "name": "Retro Rádió",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5001/live.mp3",
       "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
-      "https://icast.connectmedia.hu/5002/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6cn6XcAZM9wVys",
-    "name": "Rise FM Classic",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/RISE_CLASSIC_128"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eHuv8g65QDJYn0",
-    "name": "Rise FM Deep",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5vUHgUki3R0pm2",
-    "name": "Rise FM Hit House",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vtfE5U9YCKiZIQ",
-    "name": "Rise FM R'n'B",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/RISE_RNB_128"
+      "https://icast.connectmedia.hu/5002/live.mp3",
+      "https://icast.connectmedia.hu/5001/live.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -1776,8 +1703,8 @@
     "nanoid": "uyAMCevoIXClCK",
     "name": "SuperDj Rádió",
     "stream_urls": [
-      "https://s03.diazol.hu:35150/live",
-      "https://s03.diazol.hu:35152/stream"
+      "https://s03.diazol.hu:35152/stream",
+      "https://s03.diazol.hu:35150/live"
     ],
     "country": "hu",
     "languages": [
@@ -1842,18 +1769,6 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZJ25KEBtJiC0Ul",
-    "name": "Test Radio Station",
-    "stream_urls": [
-      "https://videos.prd.dlivecdn.com/dlive/live.m3u8"
-    ],
-    "country": "hu",
-    "languages": [
-      "eng"
     ],
     "isGeoBlocked": false
   },

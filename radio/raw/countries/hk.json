@@ -84,6 +84,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FXvOeUV9V65EnK",
+    "name": "Hwadzan Diversified Culture",
+    "stream_urls": [
+      "https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8"
+    ],
+    "country": "hk",
+    "languages": [
+      "zho"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TJVkOUQ4JCc5Lk",
     "name": "iFeng Radio",
     "stream_urls": [
@@ -184,8 +196,8 @@
     "nanoid": "989J0Jte40SorI",
     "name": "RTHK Putonghua Channel",
     "stream_urls": [
-      "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
       "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+      "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
       "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"
     ],
     "country": "hk",
@@ -279,19 +291,6 @@
       "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
       "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
       "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8"
-    ],
-    "country": "hk",
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bnP4p1yXHaCak9",
-    "name": "RTHK Radio 4 97.6 FM",
-    "stream_urls": [
-      "https://stm.rthk.hk/radio4"
     ],
     "country": "hk",
     "languages": [

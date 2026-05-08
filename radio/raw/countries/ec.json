@@ -123,8 +123,20 @@
     "nanoid": "vKW4IGzip6lKej",
     "name": "Contigo FM",
     "stream_urls": [
-      "https://panel.innovatestream.pe:10852/stream",
-      "https://panel.innovatestream.pe:10852/;"
+      "https://panel.innovatestream.pe:10852/;",
+      "https://panel.innovatestream.pe:10852/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlD4u3ktlZvU82",
+    "name": "Corp. Stereo 94.1 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/rgbmruwhtuhvv"
     ],
     "country": "ec",
     "languages": [
@@ -185,30 +197,6 @@
     "name": "Ecuanonima",
     "stream_urls": [
       "https://stream.zeno.fm/adu1fbacna0uv"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xfCgwo4cc4PKMY",
-    "name": "Energía Digital",
-    "stream_urls": [
-      "https://stream.zeno.fm/nuk04rkkp2zuv.aac"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qJ1johxDhWYzUI",
-    "name": "Exa FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ECUADORAAC_SC"
     ],
     "country": "ec",
     "languages": [
@@ -475,8 +463,8 @@
     "nanoid": "a2VkRIpWSKrUa0",
     "name": "La Voz del Tomebamba",
     "stream_urls": [
-      "https://streamingecuador.net:8074/lavozdeltomebamba",
-      "https://streamingecuador.com:8074/lavozdeltomebamba"
+      "https://streamingecuador.com:8074/lavozdeltomebamba",
+      "https://streamingecuador.net:8074/lavozdeltomebamba"
     ],
     "country": "ec",
     "languages": [
@@ -500,8 +488,8 @@
     "nanoid": "Y19AiySNF8f2tt",
     "name": "Mega Star",
     "stream_urls": [
-      "https://stream.zeno.fm/kc5hfz4aqs8uv",
-      "https://stream.zeno.fm/4xcrps37zs8uv"
+      "https://stream.zeno.fm/4xcrps37zs8uv",
+      "https://stream.zeno.fm/kc5hfz4aqs8uv"
     ],
     "country": "ec",
     "languages": [
@@ -730,9 +718,9 @@
     "nanoid": "fcqrn2hpazFR6c",
     "name": "Radio Canela",
     "stream_urls": [
-      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
+      "https://canelaradio.makrodigital.com/stream/canelaradioibarra",
       "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-      "https://canelaradio.makrodigital.com/stream/canelaradioquito"
+      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
     ],
     "country": "ec",
     "languages": [
@@ -781,6 +769,18 @@
     "name": "Radio Elite",
     "stream_urls": [
       "https://streamingecuador.net:8135/radioelite"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ruo5AOGUvRx3L",
+    "name": "Radio Eres",
+    "stream_urls": [
+      "https://sv70.ecuaradiotv.net:8000/eres933"
     ],
     "country": "ec",
     "languages": [
@@ -1143,18 +1143,6 @@
     "name": "RCS El Oro Stereo",
     "stream_urls": [
       "https://stream.zeno.fm/v4bvybbw438uv"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "chiokQCVKplLje",
-    "name": "RCS Guayas Stereo",
-    "stream_urls": [
-      "https://stream.zeno.fm/75b5ah2v438uv"
     ],
     "country": "ec",
     "languages": [

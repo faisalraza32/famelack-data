@@ -271,6 +271,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uh6tGMKStO4Fyj",
+    "name": "ORV Radio",
+    "stream_urls": [
+      "https://otv.ovh/live_radio/orv/icecast.audio"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sjJNr9KZUEaXxC",
     "name": "Pakao Radio",
     "stream_urls": [
@@ -311,18 +323,6 @@
     "name": "Radio ASK",
     "stream_urls": [
       "https://webtvstream.bhtelecom.ba/radio_ask.m3u8"
-    ],
-    "country": "ba",
-    "languages": [
-      "bos"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9JKirx2JUNT6xz",
-    "name": "Radio BA",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -548,18 +548,6 @@
     "name": "Radio Foča",
     "stream_urls": [
       "https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3"
-    ],
-    "country": "ba",
-    "languages": [
-      "srp"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dkzCKeY3lrbl9R",
-    "name": "Radio Gacko",
-    "stream_urls": [
-      "https://s31.myradiostream.com:14072/;"
     ],
     "country": "ba",
     "languages": [
@@ -889,6 +877,18 @@
     "name": "Radio Sehara",
     "stream_urls": [
       "https://cast.name.ba:8000/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xU2mutBeKWS22Z",
+    "name": "Radio Slobodna Evropa",
+    "stream_urls": [
+      "https://n11.radiojar.com/bugesa4nn3quv"
     ],
     "country": "ba",
     "languages": [

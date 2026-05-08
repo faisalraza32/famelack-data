@@ -15,8 +15,8 @@
     "nanoid": "f4kZCErFL7i3C4",
     "name": "BozRadio",
     "stream_urls": [
-      "https://ais-edge08-live365-dal02.cdnstream.com/a80252",
-      "https://streaming.live365.com/a80252"
+      "https://streaming.live365.com/a80252",
+      "https://ais-edge08-live365-dal02.cdnstream.com/a80252"
     ],
     "country": "se",
     "languages": [
@@ -79,8 +79,8 @@
     "nanoid": "nMTjAg2sl0FKCH",
     "name": "Guldkanalen 60-tal",
     "stream_urls": [
-      "https://stream.dbmedia.se/gk60tal96",
-      "https://stream.dbmedia.se/gk60talMP3"
+      "https://stream.dbmedia.se/gk60talMP3",
+      "https://stream.dbmedia.se/gk60tal96"
     ],
     "country": "se",
     "languages": [
@@ -117,8 +117,8 @@
     "nanoid": "vZWZmL2tA5jE2C",
     "name": "Guldkanalen 90-tal",
     "stream_urls": [
-      "https://stream.dbmedia.se/gk90tal96",
-      "https://stream.dbmedia.se/gk90talMP3"
+      "https://stream.dbmedia.se/gk90talMP3",
+      "https://stream.dbmedia.se/gk90tal96"
     ],
     "country": "se",
     "languages": [
@@ -381,18 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sjI2fwCktBRSYJ",
-    "name": "Radio Treby 87.8",
-    "stream_urls": [
-      "https://streaming.943.se/treby878"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vAdsUqls94aImS",
     "name": "Redback Radio",
     "stream_urls": [
@@ -409,6 +397,18 @@
     "name": "Replay News",
     "stream_urls": [
       "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DD1AlhgY5QGbYy",
+    "name": "Retreat Radio",
+    "stream_urls": [
+      "https://retreatradio.out.airtime.pro:8000/retreatradio_b"
     ],
     "country": "se",
     "languages": [
@@ -437,18 +437,6 @@
     "country": "se",
     "languages": [
       "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rDoX3LFeyLZvTF",
-    "name": "Roxette Radio",
-    "stream_urls": [
-      "https://stream.pcradio.ru/Roxette-hi"
-    ],
-    "country": "se",
-    "languages": [
-      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -489,24 +477,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mlsdkmixzFk2Cp",
-    "name": "Sveriges Radio Ekot",
-    "stream_urls": [
-      "https://live1.sr.se/ekotdirekt-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "20vpwxYzY6xMCD",
     "name": "Sveriges Radio P1",
     "stream_urls": [
       "https://edge1.sr.se/p1-aac-320",
       "https://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
-      "https://live1.sr.se/p1-aac-320"
+      "https://live1.sr.se/p1-mp3-96"
     ],
     "country": "se",
     "languages": [
@@ -654,32 +630,7 @@
     "nanoid": "EOFvpVYO3fFOOo",
     "name": "Sveriges Radio P4 Malmöhus",
     "stream_urls": [
-      "https://live1.sr.se/p4malm-mp3-96",
-      "https://sverigesradio.se/topsy/direkt/207-hi.mp3"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "On5Zi5GiNQz4Ez",
-    "name": "Sveriges Radio P4 Östergötland",
-    "stream_urls": [
-      "https://live1.sr.se/p4ostg-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kyyMSUTFMVD1B8",
-    "name": "Sveriges Radio P4 Plus",
-    "stream_urls": [
-      "https://live1.sr.se/p4plus-aac-320"
+      "https://live1.sr.se/p4malm-mp3-96"
     ],
     "country": "se",
     "languages": [
@@ -693,6 +644,18 @@
     "stream_urls": [
       "https://edge1.sr.se/p4sth-aac-320",
       "https://live1.sr.se/p4sth-aac-32"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l1QXZwM2h2aBAw",
+    "name": "Sveriges Radio P4 Värmland",
+    "stream_urls": [
+      "https://live1.sr.se/p4vrml-aac-320"
     ],
     "country": "se",
     "languages": [
@@ -742,18 +705,6 @@
     "name": "Sveriges Radio P4 Västmanland",
     "stream_urls": [
       "https://live1.sr.se/p4vstm-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7k0wmVsk9jZAiw",
-    "name": "Sveriges Radio P6",
-    "stream_urls": [
-      "https://live1.sr.se/p6-aac-320"
     ],
     "country": "se",
     "languages": [

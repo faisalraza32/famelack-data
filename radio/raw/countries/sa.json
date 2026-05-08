@@ -298,23 +298,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wrcN8igxlCycCu",
-    "name": "Radio Asharq",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
-    ],
-    "country": "sa",
-    "languages": [
-      "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b2OGVTbnU4KWuq",
     "name": "Radio Asharq with Bloomberg",
     "stream_urls": [
-      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
-      "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8"
+      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
     ],
     "country": "sa",
     "languages": [
@@ -414,6 +401,18 @@
     "name": "The Salaf Way FM",
     "stream_urls": [
       "https://airtime.salafwayfm.ly/"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AHqqD82u5MhE4N",
+    "name": "UFM 95.5",
+    "stream_urls": [
+      "https://stream.ufmradio.com:8003/;"
     ],
     "country": "sa",
     "languages": [

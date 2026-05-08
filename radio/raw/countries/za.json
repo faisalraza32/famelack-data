@@ -16,8 +16,8 @@
     "name": "702",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://22533.live.streamtheworld.com/FM702_SC",
-      "https://25273.live.streamtheworld.com/FM702_SC"
+      "https://25323.live.streamtheworld.com/FM702_SC",
+      "https://27753.live.streamtheworld.com/FM702_SC"
     ],
     "country": "za",
     "languages": [
@@ -44,7 +44,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
       "https://22733.live.streamtheworld.com/FM947_SC",
-      "https://25453.live.streamtheworld.com/FM947_SC"
+      "https://22593.live.streamtheworld.com/FM947_SC"
     ],
     "country": "za",
     "languages": [
@@ -91,8 +91,8 @@
     "nanoid": "SvxvICXMyYJSBZ",
     "name": "Amapiano FM",
     "stream_urls": [
-      "https://stream.zeno.fm/xs6zeac1ts8uv",
-      "https://stream-37.zeno.fm/xs6zeac1ts8uv"
+      "https://stream-37.zeno.fm/xs6zeac1ts8uv",
+      "https://stream.zeno.fm/xs6zeac1ts8uv"
     ],
     "country": "za",
     "languages": [
@@ -128,8 +128,8 @@
     "nanoid": "1eTWNO60e1i0Uj",
     "name": "BOX Chillwave",
     "stream_urls": [
-      "https://boxradio-edge-00.streamafrica.net/chillwave",
-      "https://play.streamafrica.net/chillwave"
+      "https://play.streamafrica.net/chillwave",
+      "https://boxradio-edge-00.streamafrica.net/chillwave"
     ],
     "country": "za",
     "languages": [],
@@ -159,9 +159,9 @@
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
     "stream_urls": [
-      "https://28503.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://22183.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://22193.live.streamtheworld.com/CAPE_TALK_SC"
+      "https://28513.live.streamtheworld.com/CAPE_TALK_SC",
+      "https://29103.live.streamtheworld.com/CAPE_TALK_SC",
+      "https://22733.live.streamtheworld.com/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -296,8 +296,8 @@
     "nanoid": "6FZOKj01MdUOhM",
     "name": "East Coast Radio",
     "stream_urls": [
-      "https://live.ecr.co.za/ecrlow.aac",
       "https://live.ecr.co.za/ecrhigh.mp3",
+      "https://live.ecr.co.za/ecrlow.aac",
       "https://edge.iono.fm/xice/ecr_live_medium.aac"
     ],
     "country": "za",
@@ -321,6 +321,16 @@
     "name": "Fine Music Radio",
     "stream_urls": [
       "https://edge.iono.fm/xhls/fmr_live_medium.m3u8"
+    ],
+    "country": "za",
+    "languages": [],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "op7EbH173gy4K4",
+    "name": "Fresh 87.6 FM",
+    "stream_urls": [
+      "https://stream-173.zeno.fm/ut4p7ak2uhhvv"
     ],
     "country": "za",
     "languages": [],
@@ -448,9 +458,9 @@
     "nanoid": "loFp8BK9q6Ejo3",
     "name": "Jacaranda FM",
     "stream_urls": [
-      "https://live.jacarandafm.com/jacarandalow.aac",
+      "https://live.jacarandafm.com/jacarandahigh.mp3",
       "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
-      "https://live.jacarandafm.com/jacarandahigh.mp3"
+      "https://live.jacarandafm.com/jacarandalow.aac"
     ],
     "country": "za",
     "languages": [
@@ -568,8 +578,7 @@
     "nanoid": "g1gpIsb2GxwVr2",
     "name": "Lesedi FM",
     "stream_urls": [
-      "https://27863.live.streamtheworld.com/LESEDIAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
+      "https://27863.live.streamtheworld.com/LESEDIAAC.aac"
     ],
     "country": "za",
     "languages": [],
@@ -643,16 +652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mBXnwiA50tGj2y",
-    "name": "Melkies Radio",
-    "stream_urls": [
-      "https://radio2.eclipse-streaming.co.za/listen/melkies/radio.mp3"
-    ],
-    "country": "za",
-    "languages": [],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JZtPhJH01I4sDk",
     "name": "Merafong 360 Online Radio",
     "stream_urls": [
@@ -666,8 +665,8 @@
     "nanoid": "O9fO5J5BLrJnUZ",
     "name": "Metro FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC",
-      "https://25283.live.streamtheworld.com/METROFMAAC.aac"
+      "https://25283.live.streamtheworld.com/METROFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC"
     ],
     "country": "za",
     "languages": [],

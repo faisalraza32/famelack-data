@@ -123,8 +123,8 @@
     "nanoid": "KgTkAo6AiJe4IS",
     "name": "Radio Cadena YSKL 104.1 FM",
     "stream_urls": [
-      "https://media.dominiocreativo.com:8000/radioyskl",
-      "https://media.dominiocreativo.com:8000/stream/1"
+      "https://media.dominiocreativo.com:8000/stream/1",
+      "https://media.dominiocreativo.com:8000/radioyskl"
     ],
     "country": "sv",
     "languages": [
@@ -161,6 +161,18 @@
     "name": "Radio Fiesta 104.9 FM",
     "stream_urls": [
       "https://sp4.colombiatelecom.com.co/8026/stream"
+    ],
+    "country": "sv",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YzZtJlrCJPYQXF",
+    "name": "Radio La Chévere 100.9 FM",
+    "stream_urls": [
+      "https://streaming.rcs.com.sv/proxy/chevere/stream"
     ],
     "country": "sv",
     "languages": [
@@ -280,8 +292,8 @@
     "nanoid": "NKbJXnAzlOrVif",
     "name": "Radio Rumba Latina",
     "stream_urls": [
-      "https://c11.radioboss.fm:8303/stream",
-      "https://c11.radioboss.fm:18303/stream"
+      "https://c11.radioboss.fm:18303/stream",
+      "https://c11.radioboss.fm:8303/stream"
     ],
     "country": "sv",
     "languages": [
@@ -338,14 +350,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uwBEG3gZ9DKB1Z",
-    "name": "Radio YSUCA 91.7 FM",
+    "nanoid": "7nQ6xzXvBcGatU",
+    "name": "Taylor Swift Radio",
     "stream_urls": [
-      "https://fast.citrus3.com:8314/stream"
+      "https://stream.zeno.fm/xiothj9jrxfvv"
     ],
     "country": "sv",
     "languages": [
-      "spa"
+      "eng"
     ],
     "isGeoBlocked": false
   },

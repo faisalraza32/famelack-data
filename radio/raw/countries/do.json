@@ -60,18 +60,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dywPccPpbGLze2",
-    "name": "Cibaeña FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/3kasxrwxxypvv"
-    ],
-    "country": "do",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FNr65xuQJ9UtoL",
     "name": "Club Sabroso Radio",
     "stream_urls": [
@@ -266,18 +254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EmyL9J5Y9aRFbT",
-    "name": "La Voz del Atlántico 97.3 FM",
-    "stream_urls": [
-      "https://cast4.my-control-panel.com/proxy/atlantica97/;"
-    ],
-    "country": "do",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iZtbExr6U61MCn",
     "name": "La Voz del Pacoredo",
     "stream_urls": [
@@ -314,19 +290,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mxALvOjYS8mkJZ",
-    "name": "MC Anime Radio",
-    "stream_urls": [
-      "https://cast.mcanimeradio.com/listen/mcradio/radio.aac",
-      "https://cast.mcanimeradio.com/listen/mcradio/radio.mp3"
-    ],
-    "country": "do",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IXnFHdXFNHtQqw",
     "name": "Misionera FM 91.5",
     "stream_urls": [
@@ -343,6 +306,18 @@
     "name": "Mortal 104.9 FM",
     "stream_urls": [
       "https://n03.radiojar.com/x84tcy2wm2zuv"
+    ],
+    "country": "do",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jnWTO6giPCRxQm",
+    "name": "Nex Hits",
+    "stream_urls": [
+      "https://nexhits.net:8050/stream"
     ],
     "country": "do",
     "languages": [
@@ -378,8 +353,8 @@
     "nanoid": "znNIMhgLnc3R6i",
     "name": "Primera 88.1 FM",
     "stream_urls": [
-      "https://stream.radiojar.com/5705c71sn2zuv",
-      "https://n0a.radiojar.com/5705c71sn2zuv"
+      "https://n0a.radiojar.com/5705c71sn2zuv",
+      "https://stream.radiojar.com/5705c71sn2zuv"
     ],
     "country": "do",
     "languages": [
@@ -475,20 +450,8 @@
     "nanoid": "ghtWzyWxSqnwDc",
     "name": "Radio FM-103.5",
     "stream_urls": [
-      "https://radio.radiord.net/8008/;",
-      "https://radio.radiord.net/8008/;stream.mp3"
-    ],
-    "country": "do",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vIzvjTpTQBMUWK",
-    "name": "Radio Gosen 700 AM",
-    "stream_urls": [
-      "https://s5.radio.co/sfc2826e6e/listen"
+      "https://radio.radiord.net/8008/;stream.mp3",
+      "https://radio.radiord.net/8008/;"
     ],
     "country": "do",
     "languages": [

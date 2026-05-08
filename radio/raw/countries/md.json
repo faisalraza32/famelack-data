@@ -12,21 +12,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hv2QPGlGKg0RGx",
-    "name": "Glowwave-FM",
-    "stream_urls": [
-      "https://commandcenter.tail5a820f.ts.net/stream"
-    ],
-    "country": "md",
-    "languages": [
-      "deu",
-      "eng",
-      "hin",
-      "nld"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eisSxu82vdtyKu",
     "name": "Hit FM 2000s Hits",
     "stream_urls": [
@@ -133,8 +118,8 @@
     "nanoid": "OpfeFyivLlPIS2",
     "name": "Kiss FM",
     "stream_urls": [
-      "https://live.kissfm.md/kissfm.chisinau",
-      "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
+      "https://dc.digi.live.kissfm.ro/kissfm.chisinau",
+      "https://live.kissfm.md/kissfm.chisinau"
     ],
     "country": "md",
     "languages": [
@@ -233,6 +218,18 @@
     "name": "Radio Moldova Tineret",
     "stream_urls": [
       "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
+    ],
+    "country": "md",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1UwGprznAWav3O",
+    "name": "Radio Noroc",
+    "stream_urls": [
+      "https://stream.noroc.tv/radionoroc_aac"
     ],
     "country": "md",
     "languages": [
