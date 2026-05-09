@@ -259,6 +259,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JiP5cLnzC72htv",
+    "name": "Canale 2 Altamura",
+    "stream_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6vkQlwc2e5p2Bl",
     "name": "Canale 7",
     "stream_urls": [
@@ -901,19 +914,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V3b7nvXml8zERG",
-    "name": "Paci Contemporary Channel",
-    "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zH1wikEA6iyust",
     "name": "Padre Pio TV",
     "stream_urls": [
@@ -1137,6 +1137,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uNn6ZhcNZueDr9",
+    "name": "Radio Iglesias",
+    "stream_urls": [
+      "https://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "1vFqQwnHb55YkM",
     "name": "Radio Iglesias Sardegna",
     "stream_urls": [
@@ -1281,6 +1294,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "7UK6GTwohWhEMF",
+    "name": "Rakuten TV Family Movies Italy",
+    "stream_urls": [
+      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oURW9nLoHQEwxm",
     "name": "Rakuten TV Sci-Fi Italy",
     "stream_urls": [
@@ -1292,10 +1318,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dc2UvpAt3aRjGd",
-    "name": "Rakuten TV Top Movies Italy",
+    "nanoid": "mwaE9Of5KjZvBf",
+    "name": "ReggioTV",
     "stream_urls": [
-      "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+      "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1305,10 +1331,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mwaE9Of5KjZvBf",
-    "name": "ReggioTV",
+    "nanoid": "E5GXmKOVJA9sSR",
+    "name": "Rete 8",
     "stream_urls": [
-      "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+      "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QvdvQfwSEIHtyg",
+    "name": "Rete Biella TV",
+    "stream_urls": [
+      "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1739,6 +1778,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B0q402GKTLgF9q",
+    "name": "Telegela 647",
+    "stream_urls": [
+      "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K8AIJvIPsJ7jPi",
     "name": "TeleMajg",
     "stream_urls": [
@@ -1889,7 +1941,8 @@
     "nanoid": "zPvcmzJKT1u2rz",
     "name": "Telepavia",
     "stream_urls": [
-      "https://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8"
+      "https://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8",
+      "https://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2018,19 +2071,6 @@
     "name": "TV Qui Modena",
     "stream_urls": [
       "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kVRqkfw56FIDW8",
-    "name": "TV Yes Italia",
-    "stream_urls": [
-      "https://stream1.aswifi.it/radioyes/live/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

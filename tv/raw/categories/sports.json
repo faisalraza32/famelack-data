@@ -54,6 +54,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "stream_urls": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "stream_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VEwkzfegp92NSy",
     "name": "Astrahan.Ru Sport",
     "stream_urls": [
@@ -129,19 +155,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Belarus-5",
-    "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
     "isGeoBlocked": false
   },
   {
@@ -406,12 +419,26 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -507,6 +534,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
+    "stream_urls": [
+      "https://live.teleradiocom.tj/8/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgk"
+    ],
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lagHJficp6nYbz",
     "name": "ge Fast",
     "stream_urls": [
@@ -561,6 +601,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YXhIUBVYB9tHBa",
+    "name": "HTV Sports",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -587,6 +640,19 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5y6EYwtqdTyabX",
+    "name": "Jordan Sport",
+    "stream_urls": [
+      "https://93.184.10.248/JordanSport/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "jo",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "dytkqAKCNlVMHD",
@@ -928,6 +994,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jhjHiCahsHYjT7",
+    "name": "Rally TV",
+    "stream_urls": [
+      "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0LyDCyOi0Q8ryz",
     "name": "Real Madrid TV",
     "stream_urls": [
@@ -1185,19 +1264,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MF8dCK1EmeF821",
-    "name": "Tour Spot TV",
-    "stream_urls": [
-      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {

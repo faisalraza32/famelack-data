@@ -3,7 +3,8 @@
     "nanoid": "79lqDZYF5l4OvA",
     "name": "An Ninh TV",
     "stream_urls": [
-      "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
+      "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
+      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -60,19 +61,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YbJKFpPbkRwCoQ",
-    "name": "Dien Bien TV",
-    "stream_urls": [
-      "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -144,6 +132,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YXhIUBVYB9tHBa",
+    "name": "HTV Sports",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "6DolkI5thPr6tu",
     "name": "HTV7",
     "stream_urls": [
@@ -153,6 +154,17 @@
     "languages": [],
     "country": "vn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tZZYFUzbbvaZ5U",
+    "name": "HTV9",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "PYD65sKTsyBg8u",
@@ -287,6 +299,7 @@
     "nanoid": "8kdpWxJQ1i1LcH",
     "name": "SCTV6",
     "stream_urls": [
+      "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8"
     ],
     "youtube_urls": [],
@@ -388,6 +401,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kykLIpB1I5quZw",
+    "name": "Thua Thien Hue TV",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "3ssQc7PdBXGpNU",
     "name": "Tien Giang TV",
     "stream_urls": [
@@ -426,6 +452,17 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AUNALzkGF0QJoB",
+    "name": "Vinh Long TV 1",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "HMQVG3VqYbd8Od",

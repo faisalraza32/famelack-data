@@ -158,20 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bYTvtLA2rlhnbu",
-    "name": "Bonaire.tv",
-    "stream_urls": [
-      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "bq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5b9R7v4eVMOgWj",
     "name": "BX Arts",
     "stream_urls": [
@@ -458,33 +444,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -515,6 +474,7 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -535,6 +495,19 @@
       "mal"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -970,23 +943,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2YKn96rbCyY3de",
+    "name": "ORF III",
+    "stream_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "stream_urls": [
       "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V3b7nvXml8zERG",
-    "name": "Paci Contemporary Channel",
-    "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1124,29 +1097,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QP7DyV43LNSLl9",
-    "name": "StoryChannel TV",
-    "stream_urls": [
-      "https://136044159.r.cdnsun.net/storychannel.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara",
-      "asp",
-      "eng",
-      "fra",
-      "kab",
-      "rif",
-      "shi",
-      "shy",
-      "taq",
-      "tzm",
-      "xms"
-    ],
-    "country": "ma",
     "isGeoBlocked": false
   },
   {

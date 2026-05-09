@@ -78,6 +78,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
+    "stream_urls": [
+      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "stream_urls": [
@@ -117,12 +130,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uzAFcXeAxgQGru",
-    "name": "CADENA HEAT 91.9 FM",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g2S1V59NJnE"
+    "nanoid": "E4hNnqL8PG669C",
+    "name": "Cable Imagen Armstrong",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/casse/casse/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -130,12 +143,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mbc3tMycOFDjGt",
-    "name": "Canal 2 de Ushuaia",
-    "stream_urls": [
-      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    "nanoid": "uzAFcXeAxgQGru",
+    "name": "CADENA HEAT 91.9 FM",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/g2S1V59NJnE"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -225,19 +238,6 @@
     "name": "Canal 5 Santa Fe",
     "stream_urls": [
       "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lp6abhRcVXYInw",
-    "name": "Canal 5 TV Chepes",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -590,6 +590,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TyUx4dR3i3hPtN",
+    "name": "Celta TV",
+    "stream_urls": [
+      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YK4jerPW8Ia03w",
     "name": "Chaco TV",
     "stream_urls": [
@@ -838,6 +851,17 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "nxOuJBvN9WDNwl",
+    "name": "Milennio TV",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jhtVZGk1rHoaP8",
     "name": "Misiones Cuatro",
     "stream_urls": [
@@ -1008,6 +1032,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "15KFLuGTzrHWsE",
     "name": "Telecinco",
     "stream_urls": [
@@ -1141,7 +1178,8 @@
     "nanoid": "3ZLaMvkVe8VBbx",
     "name": "Unife TV",
     "stream_urls": [
-      "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
+      "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
+      "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
