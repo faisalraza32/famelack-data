@@ -222,8 +222,8 @@
     "nanoid": "UZzy9shvznSDWc",
     "name": "Kontakt Radio",
     "stream_urls": [
-      "https://s1.mojstream.eu:8114/;",
-      "https://mojstream.eu:8114/kontaktradio"
+      "https://mojstream.eu:8114/kontaktradio",
+      "https://s1.mojstream.eu:8114/;"
     ],
     "country": "ba",
     "languages": [
@@ -552,18 +552,6 @@
     "country": "ba",
     "languages": [
       "srp"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y2oaeoXmQCpRgL",
-    "name": "Radio Goražde",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
-    ],
-    "country": "ba",
-    "languages": [
-      "bos"
     ],
     "isGeoBlocked": false
   },

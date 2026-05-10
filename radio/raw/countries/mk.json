@@ -126,8 +126,8 @@
     "nanoid": "O7VuTxRMroEHwz",
     "name": "Radio Fortuna",
     "stream_urls": [
-      "https://radiofortuna.ipradio.mk/;*.mp3%22",
-      "https://radiofortuna.ipradio.mk/;*.mp3"
+      "https://radiofortuna.ipradio.mk/;*.mp3",
+      "https://radiofortuna.ipradio.mk/;*.mp3%22"
     ],
     "country": "mk",
     "languages": [
@@ -200,6 +200,18 @@
     "name": "Sky Radio Retro",
     "stream_urls": [
       "https://s1.skyradio.com.mk/retro.mp3"
+    ],
+    "country": "mk",
+    "languages": [
+      "mkd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xvXTaVzc8nuCJp",
+    "name": "Star Radio Boemi",
+    "stream_urls": [
+      "https://radiostar.pro/stream/boemi.php"
     ],
     "country": "mk",
     "languages": [

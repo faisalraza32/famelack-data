@@ -277,8 +277,7 @@
     "nanoid": "b2OGVTbnU4KWuq",
     "name": "Radio Asharq with Bloomberg",
     "stream_urls": [
-      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
-      "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8"
+      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
     ],
     "country": "sa",
     "languages": [
@@ -332,6 +331,19 @@
     "country": "sa",
     "languages": [
       "ara"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xpMyBdzqavvpnp",
+    "name": "Saudia Radio 87.7 FM",
+    "stream_urls": [
+      "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara",
+      "eng"
     ],
     "isGeoBlocked": false
   },

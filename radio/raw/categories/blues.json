@@ -40,8 +40,8 @@
     "name": "5MBS 99.9 FM",
     "stream_urls": [
       "https://stream01.sigile.net/5mbs-128-mp3",
-      "https://stream.sigile.net/5mbs-64-aac",
-      "https://stream.sigile.net/5mbs-128-mp3"
+      "https://stream.sigile.net/5mbs-128-mp3",
+      "https://stream.sigile.net/5mbs-64-aac"
     ],
     "country": "au",
     "languages": [
@@ -65,8 +65,8 @@
     "nanoid": "ij1fDiz2nf59NO",
     "name": "88.5 WXPN",
     "stream_urls": [
-      "https://wxpn.xpn.org/xpnmp3hi",
-      "https://wxpnhi.xpn.org/xpnhi"
+      "https://wxpnhi.xpn.org/xpnhi",
+      "https://wxpn.xpn.org/xpnmp3hi"
     ],
     "country": "us",
     "languages": [
@@ -384,8 +384,8 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/hifiblues",
-      "https://blueswave.radio:8000/blueswave",
-      "https://blueswave.radio:8100/icyblues"
+      "https://blueswave.radio:8100/icyblues",
+      "https://blueswave.radio:8000/blueswave"
     ],
     "country": "gr",
     "languages": [
@@ -398,8 +398,8 @@
     "nanoid": "VokPfmsBqj5byQ",
     "name": "Bottle o' Groove",
     "stream_urls": [
-      "https://n0a.radiojar.com/n8buhxbsk9duv",
-      "https://n06.radiojar.com/n8buhxbsk9duv"
+      "https://n06.radiojar.com/n8buhxbsk9duv",
+      "https://n0a.radiojar.com/n8buhxbsk9duv"
     ],
     "country": "gr",
     "languages": [
@@ -461,8 +461,8 @@
     "nanoid": "sWPwK2IyQi5Z5w",
     "name": "CBC Music Mountain",
     "stream_urls": [
-      "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
-      "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3"
+      "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3",
+      "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8"
     ],
     "country": "ca",
     "languages": [
@@ -476,7 +476,7 @@
     "stream_urls": [
       "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
       "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
-      "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC"
+      "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -944,8 +944,8 @@
     "nanoid": "BBvW542f5zOUyE",
     "name": "Joint Radio Blues",
     "stream_urls": [
-      "https://star.jointil.net/proxy/jrn_blues",
-      "https://jointil.com/stream-blues"
+      "https://jointil.com/stream-blues",
+      "https://star.jointil.net/proxy/jrn_blues"
     ],
     "country": "il",
     "languages": [
@@ -1043,8 +1043,8 @@
     "name": "KOFA Border Radio",
     "stream_urls": [
       "https://23023.live.streamtheworld.com/KAWCAM_SC",
-      "https://29325.live.streamtheworld.com/KAWCAM_SC",
-      "https://18443.live.streamtheworld.com/KAWCAM_SC"
+      "https://23023.live.streamtheworld.com/KAWCAM.mp3",
+      "https://29325.live.streamtheworld.com/KAWCAM_SC"
     ],
     "country": "us",
     "languages": [
@@ -1210,6 +1210,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DLF4dBJIIYaQoR",
+    "name": "Music City Roadhouse",
+    "stream_urls": [
+      "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
+      "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+      "https://streaming.live365.com/a73754"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BnQJiENSDHEap",
     "name": "Music Corner",
     "stream_urls": [
@@ -1274,18 +1288,6 @@
     "name": "Nude Radio",
     "stream_urls": [
       "https://streaming.live365.com/a07325"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lUITXMxY9ESYqy",
-    "name": "Oak Grove Radio 98.5 FM",
-    "stream_urls": [
-      "https://nv8q.dyndns.org:8000/listen.mp3"
     ],
     "country": "us",
     "languages": [
@@ -1432,8 +1434,8 @@
     "name": "RADIO BOB! Blues",
     "stream_urls": [
       "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
-      "https://streams.radiobob.de/blues/mp3-192/homepage",
-      "https://streams.radiobob.de/blues/mp3-192/mediaplayer"
+      "https://streams.radiobob.de/blues/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de"
     ],
     "country": "de",
     "languages": [
@@ -1459,8 +1461,8 @@
     "nanoid": "eyx4ukQvwH3r1P",
     "name": "RADIO BOB! Southern Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de",
       "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de",
       "https://streams.radiobob.de/southernrock/aac-64/mediaplayer"
     ],
     "country": "de",
@@ -1778,7 +1780,7 @@
     "stream_urls": [
       "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
       "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
-      "https://stream.rockantenne.de/blues-rock/stream/mp3"
+      "https://stream.rockantenne.de/hair-metal/stream/mp3"
     ],
     "country": "de",
     "languages": [
@@ -1980,6 +1982,16 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iRVyKgqWSihNYv",
+    "name": "WMSE 91.7 FM",
+    "stream_urls": [
+      "https://wmse.streamguys1.com/wmseliveaac"
+    ],
+    "country": "us",
+    "languages": [],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SNeOctqQ7pID9a",
     "name": "WNHN-LP 94.7 FM",
     "stream_urls": [
@@ -2041,8 +2053,8 @@
     "nanoid": "59yRTQb32NgX1v",
     "name": "WUSF 89.7 FM",
     "stream_urls": [
-      "https://streaming.wusf.fm/wusf",
-      "https://wusf.streamguys1.com/wusf-web"
+      "https://wusf.streamguys1.com/wusf-web",
+      "https://streaming.wusf.fm/wusf"
     ],
     "country": "us",
     "languages": [

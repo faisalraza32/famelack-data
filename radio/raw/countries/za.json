@@ -16,8 +16,8 @@
     "name": "702",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://29003.live.streamtheworld.com/FM702_SC",
-      "https://27863.live.streamtheworld.com/FM702_SC"
+      "https://22533.live.streamtheworld.com/FM702_SC",
+      "https://25323.live.streamtheworld.com/FM702_SC"
     ],
     "country": "za",
     "languages": [
@@ -43,8 +43,8 @@
     "name": "947",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
-      "https://25693.live.streamtheworld.com/FM947_SC",
-      "https://22653.live.streamtheworld.com/FM947_SC"
+      "https://21633.live.streamtheworld.com/FM947_SC",
+      "https://22183.live.streamtheworld.com/FM947_SC"
     ],
     "country": "za",
     "languages": [
@@ -68,8 +68,8 @@
     "nanoid": "UEL4CizobsJz0W",
     "name": "Al-Ansaar Radio",
     "stream_urls": [
-      "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
-      "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3"
+      "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3",
+      "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3"
     ],
     "country": "za",
     "languages": [
@@ -159,9 +159,9 @@
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
     "stream_urls": [
-      "https://22193.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://25443.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://27913.live.streamtheworld.com/CAPE_TALK_SC"
+      "https://22183.live.streamtheworld.com/CAPE_TALK_SC",
+      "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
+      "https://27873.live.streamtheworld.com/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -435,12 +435,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3Xyl1a4hWGAGqv",
+    "name": "Impala Radio",
+    "stream_urls": [
+      "https://maggie.torontocast.com:8014/stream"
+    ],
+    "country": "za",
+    "languages": [],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "loFp8BK9q6Ejo3",
     "name": "Jacaranda FM",
     "stream_urls": [
-      "https://live.jacarandafm.com/jacarandahigh.mp3",
+      "https://live.jacarandafm.com/jacarandalow.aac",
       "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
-      "https://live.jacarandafm.com/jacarandalow.aac"
+      "https://live.jacarandafm.com/jacarandahigh.mp3"
     ],
     "country": "za",
     "languages": [
@@ -912,18 +922,6 @@
     ],
     "country": "za",
     "languages": [],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G8iMsXcdgeFqDL",
-    "name": "Radio Namakwaland 93.4 FM",
-    "stream_urls": [
-      "https://zas3.ndx.co.za:8034/stream"
-    ],
-    "country": "za",
-    "languages": [
-      "afr"
-    ],
     "isGeoBlocked": false
   },
   {

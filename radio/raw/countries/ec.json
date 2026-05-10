@@ -123,8 +123,8 @@
     "nanoid": "vKW4IGzip6lKej",
     "name": "Contigo FM",
     "stream_urls": [
-      "https://panel.innovatestream.pe:10852/;",
-      "https://panel.innovatestream.pe:10852/stream"
+      "https://panel.innovatestream.pe:10852/stream",
+      "https://panel.innovatestream.pe:10852/;"
     ],
     "country": "ec",
     "languages": [
@@ -621,8 +621,8 @@
     "nanoid": "A8YE7ppVf3So1B",
     "name": "Radio 11Q",
     "stream_urls": [
-      "https://streamingecuador.net:8012/stream",
-      "https://streamingecuador.net:8012/radio11q"
+      "https://streamingecuador.net:8012/radio11q",
+      "https://streamingecuador.net:8012/stream"
     ],
     "country": "ec",
     "languages": [
@@ -743,8 +743,8 @@
     "name": "Radio Canela",
     "stream_urls": [
       "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-      "https://canelaradio.makrodigital.com/stream/canelaradiomacas",
-      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
+      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
+      "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
     ],
     "country": "ec",
     "languages": [
@@ -987,6 +987,18 @@
     "name": "Radio Pasión 92.5 FM",
     "stream_urls": [
       "https://streamingecuador.net:7500/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "stream_urls": [
+      "https://icecast.radiopichincha.com/radiopichincha"
     ],
     "country": "ec",
     "languages": [

@@ -16,8 +16,8 @@
     "nanoid": "9BFyf45WhOQ65Y",
     "name": "ADN Radio",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac",
-      "https://27413.live.streamtheworld.com/ADNAAC.aac"
+      "https://27413.live.streamtheworld.com/ADNAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
     ],
     "country": "cl",
     "languages": [
@@ -116,6 +116,18 @@
     "stream_urls": [
       "https://streaming.chiloestreaming.com:9542/;",
       "https://streaming.chiloestreaming.com:9542/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pohwQUau13tNt5",
+    "name": "Cadenza Radio",
+    "stream_urls": [
+      "https://sonic.portalfoxmix.club/8230/stream"
     ],
     "country": "cl",
     "languages": [
@@ -375,8 +387,8 @@
     "name": "FMDOS",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC",
-      "https://14073.live.streamtheworld.com/FMDOSAAC_SC",
-      "https://27413.live.streamtheworld.com/FMDOSAAC_SC"
+      "https://29326.live.streamtheworld.com/FMDOSAAC_SC",
+      "https://24373.live.streamtheworld.com/FMDOSAAC_SC"
     ],
     "country": "cl",
     "languages": [
@@ -593,23 +605,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ocbyUT8zG2p2DQ",
-    "name": "Radio Actual FM 102.9",
-    "stream_urls": [
-      "https://archi-us.digitalproserver.com/actual.aac"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eQwArPkoomQBMu",
     "name": "Radio Agricultura",
     "stream_urls": [
-      "https://unlimited4-us.dps.live/agricultura/mp3/icecast.audio",
-      "https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8"
+      "https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8",
+      "https://unlimited4-us.dps.live/agricultura/mp3/icecast.audio"
     ],
     "country": "cl",
     "languages": [
@@ -634,18 +634,6 @@
     "name": "Radio Almeyda",
     "stream_urls": [
       "https://sonic.streamingchilenos.com/9974/stream.aac"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wZsuCZz2YbKfp1",
-    "name": "Radio Alternativa Top",
-    "stream_urls": [
-      "https://stream.zeno.fm/rzzbqy5g31zuv"
     ],
     "country": "cl",
     "languages": [
@@ -767,9 +755,9 @@
     "nanoid": "Pa8K7VBW0zuJtY",
     "name": "Radio Bío-Bío",
     "stream_urls": [
+      "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
       "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio",
-      "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
-      "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio"
+      "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio"
     ],
     "country": "cl",
     "languages": [
@@ -1059,9 +1047,9 @@
     "nanoid": "iOB2DJuFyvz6kk",
     "name": "Radio Concierto",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
     ],
     "country": "cl",
     "languages": [
@@ -1170,9 +1158,9 @@
     "nanoid": "VYjb9zP10tCpWd",
     "name": "Radio Dulce",
     "stream_urls": [
-      "https://stream.zeno.fm/3yv0enxnp7zuv",
-      "https://stream.zeno.fm/bx6zuwssrnjvv",
-      "https://stream.zeno.fm/dzvavezs85ouv"
+      "https://stream.zeno.fm/dzvavezs85ouv",
+      "https://stream.zeno.fm/kc5hofr05tavv",
+      "https://stream.zeno.fm/3yv0enxnp7zuv"
     ],
     "country": "cl",
     "languages": [
@@ -1823,18 +1811,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rl0OTyCBRuAXOa",
-    "name": "Radio Plaza de la Dignidad",
-    "stream_urls": [
-      "https://stream.zeno.fm/a1ns6n6hfrruv"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DO2OwTnggUbFnh",
     "name": "Radio Portales",
     "stream_urls": [
@@ -1932,6 +1908,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bhaLgcnMhj7NL0",
+    "name": "Radio Ritmo FM",
+    "stream_urls": [
+      "https://sonic.portalfoxmix.cl/9976/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h5suQmqFMQooXd",
     "name": "Radio RTL Curicó",
     "stream_urls": [
@@ -1964,18 +1952,6 @@
     "country": "cl",
     "languages": [
       "eng",
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQqUUvogmtyeZ2",
-    "name": "Radio Sol",
-    "stream_urls": [
-      "https://us9.maindigitalstream.com/ssl/7389"
-    ],
-    "country": "cl",
-    "languages": [
       "spa"
     ],
     "isGeoBlocked": false
@@ -2152,7 +2128,7 @@
     "nanoid": "oZ0gfaMDJc0tfG",
     "name": "RadioActiva",
     "stream_urls": [
-      "https://14073.live.streamtheworld.com/ACTIVA_SC",
+      "https://27223.live.streamtheworld.com/ACTIVA_SC",
       "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3",
       "https://stream.zeno.fm/pvs6hqz3crtvv"
     ],
@@ -2228,9 +2204,9 @@
     "nanoid": "MBF18WeYPVt8sS",
     "name": "Rock & Pop",
     "stream_urls": [
-      "https://27223.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC",
-      "https://27423.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
+      "https://23243.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+      "https://29321.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
     ],
     "country": "cl",
     "languages": [

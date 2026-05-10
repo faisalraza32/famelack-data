@@ -517,8 +517,8 @@
     "name": "Sveriges Radio P1",
     "stream_urls": [
       "https://edge1.sr.se/p1-aac-320",
-      "https://live1.sr.se/p1-aac-320",
-      "https://live1.sr.se/p1-mp3-96"
+      "https://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
+      "https://live1.sr.se/p1-aac-320"
     ],
     "country": "se",
     "languages": [
@@ -530,8 +530,8 @@
     "nanoid": "qwnLcAMNQwkNmn",
     "name": "Sveriges Radio P2",
     "stream_urls": [
-      "https://live1.sr.se/p2-aac-320",
-      "https://edge1.sr.se/p2-flac"
+      "https://edge1.sr.se/p2-flac",
+      "https://live1.sr.se/p2-flac"
     ],
     "country": "se",
     "languages": [
@@ -642,6 +642,18 @@
     "name": "Sveriges Radio P4 Kalmar",
     "stream_urls": [
       "https://live1.sr.se/p4kalm-mp3-96"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XRByFpJVloH6rA",
+    "name": "Sveriges Radio P4 Kristianstad",
+    "stream_urls": [
+      "https://live1.sr.se/p4krist-mp3-96"
     ],
     "country": "se",
     "languages": [

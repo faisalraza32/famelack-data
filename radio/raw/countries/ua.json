@@ -86,6 +86,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VEgcJqQ72yDZHi",
+    "name": "Europa Plus Ukraine",
+    "stream_urls": [
+      "https://s5.radioforge.com:7908/live"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MuQHW4bz5BFIJN",
     "name": "FM Галичина (Galychyna)",
     "stream_urls": [
@@ -102,8 +114,8 @@
     "name": "Fresh Rock",
     "stream_urls": [
       "https://stream.freshrock.net/320.mp3",
-      "https://stream.freshrock.net/24.aac",
-      "https://stream.freshrock.net/128.mp3"
+      "https://stream.freshrock.net/128.mp3",
+      "https://stream.freshrock.net/24.aac"
     ],
     "country": "ua",
     "languages": [
@@ -729,9 +741,9 @@
     "nanoid": "LA3cTyHveSTr8C",
     "name": "Trans World Radio Ukraine",
     "stream_urls": [
-      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a",
       "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a",
-      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3"
+      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3",
+      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a"
     ],
     "country": "ua",
     "languages": [
@@ -974,9 +986,9 @@
     "nanoid": "KeBm4hbMl72KfD",
     "name": "Люкс FM (Lux FM)",
     "stream_urls": [
-      "https://icecast.luxnet.ua/lux",
       "https://icecast.luxnet.ua/luxlviv",
-      "https://icecastdc.luxnet.ua/lux_mp3_128"
+      "https://icecastdc.luxnet.ua/lux_mp3_128",
+      "https://icecast.luxnet.ua/lux"
     ],
     "country": "ua",
     "languages": [
@@ -1289,6 +1301,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kbufl3GLlI7rZh",
+    "name": "Радіо Київстар Made in Ukraine",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/ukraine/master.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v5A9gvCoTSpjkc",
     "name": "Радіо Київстар Retro",
     "stream_urls": [
@@ -1389,18 +1413,6 @@
     "name": "Радіо Місто над Бугом",
     "stream_urls": [
       "https://stream.mistonadbugom.com.ua/radiomistonadbugom"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eqxpliZ0cFM7xV",
-    "name": "Радіо Навала",
-    "stream_urls": [
-      "https://myradio24.org/9857"
     ],
     "country": "ua",
     "languages": [
@@ -1644,6 +1656,18 @@
     "stream_urls": [
       "https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio",
       "https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0v4CMJx3O4Ld8Q",
+    "name": "Твоє Радіо",
+    "stream_urls": [
+      "https://complex.in.ua/tvoeRadio"
     ],
     "country": "ua",
     "languages": [

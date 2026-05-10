@@ -3,8 +3,8 @@
     "nanoid": "XMP88wqVNzoQc0",
     "name": "4Drive Jazz",
     "stream_urls": [
-      "https://radio.streemlion.com:1150/stream",
-      "https://radio.streemlion.com:4870/stream"
+      "https://radio.streemlion.com:4870/stream",
+      "https://radio.streemlion.com:1150/stream"
     ],
     "country": "pt",
     "languages": [
@@ -30,7 +30,8 @@
     "name": "Antena 1",
     "stream_urls": [
       "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
-      "https://radiocast.rtp.pt/antena180a.mp3"
+      "https://radiocast.rtp.pt/antena180a.mp3",
+      "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [
@@ -732,8 +733,8 @@
     "nanoid": "boWOt26TC6q0pa",
     "name": "Rádio Comercial Portugal",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/comercial.mp3",
-      "https://stream-icy.bauermedia.pt/rctuga.aac"
+      "https://stream-icy.bauermedia.pt/rctuga.aac",
+      "https://stream-icy.bauermedia.pt/comercial.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -1059,8 +1060,8 @@
     "nanoid": "vCuAv5zurcpTvK",
     "name": "Rádio Observador",
     "stream_urls": [
-      "https://streamingv2.shoutcast.com/observador_64.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac",
+      "https://streamingv2.shoutcast.com/observador_64.aac"
     ],
     "country": "pt",
     "languages": [
@@ -1133,8 +1134,8 @@
     "name": "Rádio Renascença",
     "stream_urls": [
       "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -1279,6 +1280,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KAQ8a0tkWWjig2",
+    "name": "RES FM 107.9",
+    "stream_urls": [
+      "https://stream2.soundflux.eu:8440/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZIa9mAJ7qSmZKX",
     "name": "Rewind 2000's",
     "stream_urls": [
@@ -1295,8 +1308,8 @@
     "name": "RFM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
-      "https://23603.live.streamtheworld.com/RFMAAC.aac",
-      "https://22593.live.streamtheworld.com/RFMAAC.aac"
+      "https://22593.live.streamtheworld.com/RFMAAC.aac",
+      "https://23603.live.streamtheworld.com/RFMAAC.aac"
     ],
     "country": "pt",
     "languages": [
@@ -1308,8 +1321,8 @@
     "nanoid": "jNI5XjE2D6cpgn",
     "name": "RFM 00's",
     "stream_urls": [
-      "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
-      "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
+      "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac",
+      "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac"
     ],
     "country": "pt",
     "languages": [

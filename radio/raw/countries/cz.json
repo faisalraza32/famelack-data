@@ -72,18 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dXKecoFlDDJ9mH",
-    "name": "Čas Rock Natvrdo",
-    "stream_urls": [
-      "https://stream.sepia.sk:8000/rnt128.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QYGeSM0sUi1jaC",
     "name": "Český Impuls",
     "stream_urls": [
@@ -407,6 +395,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DcliChdnKxTTrN",
+    "name": "ČRo Radiožurnál Sport",
+    "stream_urls": [
+      "https://rozhlas.stream/radiozurnal_sport_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I8jimN7JtkTDsM",
     "name": "ČRo Radiožurnál Sport AdHoc 1",
     "stream_urls": [
@@ -446,6 +446,7 @@
     "nanoid": "AtJVb5IBwTMXfY",
     "name": "ČRo Vltava",
     "stream_urls": [
+      "https://rozhlas.stream/vltava_high.aac",
       "https://amp.cesnet.cz:8443/cro3.flac"
     ],
     "country": "cz",
@@ -471,6 +472,18 @@
     "name": "ČRo Vysočina",
     "stream_urls": [
       "https://rozhlas.stream/vysocina_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rv1x3HG9BS2X07",
+    "name": "ČRo Zlín",
+    "stream_urls": [
+      "https://rozhlas.stream/zlin_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -727,8 +740,8 @@
     "nanoid": "eXnUcUp43nl03J",
     "name": "Hitrádio Devadesátka",
     "stream_urls": [
-      "https://ice.abradio.cz/hit90128.mp3",
-      "https://ice2.radia.cz/hit90128.aac"
+      "https://ice2.radia.cz/hit90128.aac",
+      "https://ice.abradio.cz/hit90128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1114,8 +1127,8 @@
     "nanoid": "amHwRpuXUSw8TU",
     "name": "Radio 1",
     "stream_urls": [
-      "https://icecast6.play.cz/radio1-128.mp3",
       "https://icecast2.play.cz/radio1.mp3",
+      "https://icecast6.play.cz/radio1-128.mp3",
       "https://icecast2.play.cz/radio1-64.mp3"
     ],
     "country": "cz",
@@ -1178,9 +1191,9 @@
     "nanoid": "GheUoLEPQNZilv",
     "name": "Rádio Blaník",
     "stream_urls": [
-      "https://ice.abradio.cz/blanikfm128.mp3",
+      "https://ice.abradio.cz/blanikcz128.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
-      "https://ice.abradio.cz/blanikcz128.mp3"
+      "https://ice.abradio.cz/blanikfm128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1315,9 +1328,9 @@
     "nanoid": "NpKnYf6l8RCovL",
     "name": "Radio Farda",
     "stream_urls": [
-      "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+      "https://n01.radiojar.com/cp13r2cpn3quv",
       "https://stream.radiojar.com/cp13r2cpn3quv",
-      "https://n01.radiojar.com/cp13r2cpn3quv"
+      "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
     ],
     "country": "cz",
     "languages": [
@@ -1842,18 +1855,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YPNr9Cnpj3Amgm",
-    "name": "Stanice Hvězda",
-    "stream_urls": [
-      "https://fire.doscast.com:8038/stream"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fRQKSwX4LU6FE2",
     "name": "Svobodné Rádio",
     "stream_urls": [
@@ -1905,8 +1906,8 @@
     "nanoid": "q4wKobqp6DIGAs",
     "name": "We House Radio",
     "stream_urls": [
-      "https://stream.wehouseradio.com/stream/3",
       "https://stream.wehouseradio.com/stream/1",
+      "https://stream.wehouseradio.com/stream/3",
       "https://stream.wehouseradio.com/stream/2"
     ],
     "country": "cz",
@@ -1943,8 +1944,8 @@
     "nanoid": "Fp6WVsgg8aNyMa",
     "name": "Youradio Československé hity",
     "stream_urls": [
-      "https://ice.actve.net/web-80",
       "https://ice.actve.net/web-e2-csweb",
+      "https://ice.actve.net/web-80",
       "https://ice.actve.net/web-f1-legendy"
     ],
     "country": "cz",
@@ -2034,7 +2035,7 @@
     "name": "Радио Свобода",
     "stream_urls": [
       "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
-      "https://n01.radiojar.com/hcrb063nn3quv",
+      "https://n0c.radiojar.com/hcrb063nn3quv",
       "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
     ],
     "country": "cz",
@@ -2076,18 +2077,6 @@
     "country": "cz",
     "languages": [
       "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0uYniFneizDwYZ",
-    "name": "Радыё Свабода",
-    "stream_urls": [
-      "https://n0b.radiojar.com/zv9u3eapn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "bel"
     ],
     "isGeoBlocked": false
   },

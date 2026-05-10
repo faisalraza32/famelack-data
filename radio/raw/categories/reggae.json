@@ -207,8 +207,8 @@
     "nanoid": "bRUgdJ29YOPMGk",
     "name": "Bob's Ska Radio",
     "stream_urls": [
-      "https://usa19.fastcast4u.com:2030/;",
-      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1"
+      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1",
+      "https://usa19.fastcast4u.com:2030/;"
     ],
     "country": "us",
     "languages": [
@@ -223,18 +223,6 @@
       "https://streams.calmradio.com:18928/stream"
     ],
     "country": "ca",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FMXf2cweT5cBN2",
-    "name": "Caribbean Power Jam Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/caribbeanpowerjamradio"
-    ],
-    "country": "us",
     "languages": [
       "eng"
     ],
@@ -696,7 +684,22 @@
     "nanoid": "9M3QuD4XUrUfyG",
     "name": "Ghetto Radio",
     "stream_urls": [
-      "https://stream-47.zeno.fm/gf58b0pt5x8uv"
+      "https://stream-27.zeno.fm/kvudezx1h2zuv",
+      "https://stream-47.zeno.fm/gf58b0pt5x8uv",
+      "https://stream.zeno.fm/cs4q33arb2zuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HmETdFABn9Uqv2",
+    "name": "Ghetto Radio 89.5",
+    "stream_urls": [
+      "https://stream.zeno.fm/kvudezx1h2zuv"
     ],
     "country": "ke",
     "languages": [
@@ -997,18 +1000,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4uKnAo3lRMPqH7",
-    "name": "Logical Asylum Radio",
-    "stream_urls": [
-      "https://a5.asurahosting.com:6760/radio.mp3"
-    ],
-    "country": "bz",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rwGmsAXxMPAHrb",
     "name": "Lomovogt",
     "stream_urls": [
@@ -1048,8 +1039,8 @@
     "nanoid": "CFEwXciRDUQk9K",
     "name": "Monkey Bros",
     "stream_urls": [
-      "https://n0e.radiojar.com/5tyqrwpgpfeuv",
-      "https://n01.radiojar.com/5tyqrwpgpfeuv"
+      "https://n01.radiojar.com/5tyqrwpgpfeuv",
+      "https://n0e.radiojar.com/5tyqrwpgpfeuv"
     ],
     "country": "gr",
     "languages": [
@@ -1073,8 +1064,8 @@
     "nanoid": "0xDiwYQMjmElro",
     "name": "Music Galaxy Radio",
     "stream_urls": [
-      "https://eu10.fastcast4u.com/themusi2",
-      "https://eu10.fastcast4u.com:1390/;"
+      "https://eu10.fastcast4u.com:1390/;",
+      "https://eu10.fastcast4u.com/themusi2"
     ],
     "country": "uk",
     "languages": [
@@ -1110,8 +1101,8 @@
     "nanoid": "mcEG2FX6LRjjEG",
     "name": "Nationwide 90 FM",
     "stream_urls": [
-      "https://stream.zenolive.com/a3wmsfazfv5tv",
-      "https://stream.zeno.fm/sx58ugee4s5tv"
+      "https://stream.zeno.fm/sx58ugee4s5tv",
+      "https://stream.zenolive.com/a3wmsfazfv5tv"
     ],
     "country": "jm",
     "languages": [
@@ -1259,8 +1250,8 @@
     "nanoid": "v6nWsss1vP0wGV",
     "name": "Perfect Radio - Roots Reggae",
     "stream_urls": [
-      "https://n13.radiojar.com/ezs0qr9m4qruv",
-      "https://stream.radiojar.com/ezs0qr9m4qruv"
+      "https://stream.radiojar.com/ezs0qr9m4qruv",
+      "https://n13.radiojar.com/ezs0qr9m4qruv"
     ],
     "country": "de",
     "languages": [
@@ -1387,6 +1378,18 @@
     "country": "fr",
     "languages": [
       "fra"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3rVYKJsop8BvUc",
+    "name": "Radio Jamaica 94 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/ebqnzkvyv9duv"
+    ],
+    "country": "jm",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -1869,8 +1872,8 @@
     "name": "SomaFM: Dub Step Beyond",
     "stream_urls": [
       "https://ice4.somafm.com/dubstep-256-mp3",
-      "https://ice2.somafm.com/dubstep-256-mp3",
-      "https://ice3.somafm.com/dubstep-256-mp3"
+      "https://ice6.somafm.com/dubstep-256-mp3",
+      "https://ice2.somafm.com/dubstep-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -1883,8 +1886,8 @@
     "name": "SomaFM: Heavyweight Reggae",
     "stream_urls": [
       "https://ice3.somafm.com/reggae-256-mp3",
-      "https://ice6.somafm.com/reggae-256-mp3",
-      "https://ice2.somafm.com/reggae-256-mp3"
+      "https://ice2.somafm.com/reggae-256-mp3",
+      "https://ice4.somafm.com/reggae-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -1993,8 +1996,8 @@
     "nanoid": "5yEao7qHHSk8gB",
     "name": "Surf Roots Radio",
     "stream_urls": [
-      "https://streaming.live365.com/a47555",
-      "https://ais-sa5.cdnstream1.com/b00888_128mp3"
+      "https://ais-sa5.cdnstream1.com/b00888_128mp3",
+      "https://streaming.live365.com/a47555"
     ],
     "country": "us",
     "languages": [
@@ -2170,18 +2173,6 @@
     "country": "jm",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xPGw7CtXSJOsrO",
-    "name": "Urban Radio",
-    "stream_urls": [
-      "https://nr3.newradio.it:18100/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
     ],
     "isGeoBlocked": false
   },
