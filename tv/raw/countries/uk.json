@@ -150,19 +150,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "stream_urls": [
@@ -234,32 +221,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BblW1Y0Gk79TU4",
-    "name": "BBC Three",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -1114,19 +1075,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ShZM1jb9O7Uguf",
-    "name": "Kanshi TV",
-    "stream_urls": [
-      "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e8nAySYBqJpeIt",
     "name": "Latest TV",
     "stream_urls": [
@@ -1503,6 +1451,7 @@
     "nanoid": "hNQTzHtY43GPXe",
     "name": "MyTime Movie Network",
     "stream_urls": [
+      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
       "https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1528,6 +1477,19 @@
     "name": "Nature Time",
     "stream_urls": [
       "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OxruQWMouqWzNg",
+    "name": "Nickelodeon Global",
+    "stream_urls": [
+      "https://tmptv.sunduk.tv/CH37/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1810,10 +1772,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
     "stream_urls": [
-      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

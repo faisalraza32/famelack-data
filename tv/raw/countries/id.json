@@ -432,20 +432,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "stream_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind",
-      "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ImH0HN1MdNlCn0",
     "name": "Madu TV",
     "stream_urls": [
@@ -501,7 +487,9 @@
   {
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
@@ -581,19 +569,6 @@
     "name": "PKTV",
     "stream_urls": [
       "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ha2zWLoq5d13uY",
-    "name": "Radar Lampung TV",
-    "stream_urls": [
-      "https://www.streaming.radartv.co.id/hls/test.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -712,6 +687,19 @@
     "stream_urls": [
       "https://live.salira.tv:3870/stream/play.m3u8",
       "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Cx1Butu3HjYB81",
+    "name": "Sampit TV",
+    "stream_urls": [
+      "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1369,6 +1357,19 @@
     "name": "TVRI Yogyakarta",
     "stream_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
+    "stream_urls": [
+      "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
