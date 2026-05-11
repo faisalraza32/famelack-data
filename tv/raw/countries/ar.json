@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "OuXJk2O3QtFOgh",
+    "name": "24/7 Canal de Noticias",
+    "stream_urls": [
+      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "85ztx3BoONTxVD",
     "name": "A24",
     "stream_urls": [],
@@ -117,12 +130,51 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E4hNnqL8PG669C",
+    "name": "Cable Imagen Armstrong",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/casse/casse/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uzAFcXeAxgQGru",
     "name": "CADENA HEAT 91.9 FM",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/g2S1V59NJnE"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mbc3tMycOFDjGt",
+    "name": "Canal 2 de Ushuaia",
+    "stream_urls": [
+      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dP9dVYSF14RSuM",
+    "name": "Canal 2 Misiones",
+    "stream_urls": [
+      "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -263,8 +315,7 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "stream_urls": [
-      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
+      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -304,19 +355,6 @@
     "name": "Canal 9 Litoral",
     "stream_urls": [
       "https://stream.arcast.live/ahora/ahora/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T7sSq0y5FUqebJ",
-    "name": "Canal 9 Televida",
-    "stream_urls": [
-      "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

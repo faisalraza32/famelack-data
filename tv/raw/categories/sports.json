@@ -158,6 +158,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Belarus-5",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M4nYho03XLslkh",
     "name": "Billiard TV",
     "stream_urls": [
@@ -228,8 +241,8 @@
     "name": "DD Sports",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8",
-      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
+      "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -418,12 +431,26 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -815,6 +842,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g2M151IR177r4N",
+    "name": "Nudge Sports Channel",
+    "stream_urls": [
+      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxyIFaB4Q9mpks",
     "name": "Oman Sports TV",
     "stream_urls": [
@@ -1099,6 +1140,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vfExfpKOcJ4kwS",
+    "name": "RTA Sport",
+    "stream_urls": [
+      "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pus"
+    ],
+    "country": "af",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ex03rdqFN79Sy5",
     "name": "Russian Extreme",
     "stream_urls": [
@@ -1136,19 +1190,6 @@
     ],
     "country": "au",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "PQO3nTobe9PoFo",
-    "name": "SOS Kanal Plus",
-    "stream_urls": [
-      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "e4huLQp9M80Lrf",
@@ -1389,6 +1430,19 @@
     "name": "TVS Boxing",
     "stream_urls": [
       "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wbrb2C2Gun42Sy",
+    "name": "TVS Classic Sports",
+    "stream_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
