@@ -45,7 +45,7 @@
     "name": "Barney the Dinosaur",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qFbJKA6B_M8"
+      "https://www.youtube-nocookie.com/embed/5d_-Ul1z5Lk"
     ],
     "languages": [
       "eng"
@@ -402,9 +402,9 @@
     "nanoid": "D9wYQdvH3cwnxL",
     "name": "Gusto TV",
     "stream_urls": [
+      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
       "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "https://gusto-xumo.amagi.tv/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+      "https://gusto-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -663,6 +663,19 @@
       "ell",
       "eng",
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "stream_urls": [
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false

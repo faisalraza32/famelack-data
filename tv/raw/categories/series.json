@@ -215,19 +215,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "stream_urls": [
@@ -495,32 +482,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kLHHUDsRYmlBPL",
-    "name": "GEM Series",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jw404M5EjXQCzL",
-    "name": "GEM Series +",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "V1f6w7hVGBkZca",
     "name": "Ghost Hunters UK",
     "stream_urls": [
@@ -681,6 +642,19 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7AdgPJilMkGY8x",
+    "name": "Memorias TV Series",
+    "stream_urls": [
+      "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "U81csRB9YHDFcc",
@@ -936,7 +910,8 @@
     "nanoid": "TjaDmuO5pIpjjY",
     "name": "Survivor",
     "stream_urls": [
-      "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8"
+      "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
+      "https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

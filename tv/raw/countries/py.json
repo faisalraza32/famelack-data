@@ -13,32 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4VJcNzklIX0CI",
-    "name": "Alcance FM PLAY TV",
-    "stream_urls": [
-      "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MC0Hkz9sP3iFPv",
-    "name": "Almaya TV",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "stream_urls": [
@@ -173,7 +147,6 @@
     "nanoid": "FuiSRD0mYmX331",
     "name": "Farra Play",
     "stream_urls": [
-      "https://159.203.148.226/live/farra.m3u8",
       "https://stream.farra.com.py/live/farra_low.m3u8"
     ],
     "youtube_urls": [],
@@ -189,6 +162,19 @@
     "stream_urls": [
       "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
       "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -250,10 +236,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QPORKefjqCpm3X",
+    "name": "Monumental TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KiwbZFxfIOXSsb",
     "name": "Nande Portetepe TV",
     "stream_urls": [
       "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wJRs4rnzQYYV7u",
+    "name": "Nandejara Ne'e TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion"
     ],
     "youtube_urls": [],
     "languages": [
@@ -382,19 +394,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qwvxoPlN7mEsiI",
-    "name": "Radio Nacional del Paraguay",
-    "stream_urls": [
-      "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oy0RzzLMHXV3WJ",
     "name": "Radio San Cristobal 88.7 FM",
     "stream_urls": [
@@ -499,6 +498,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZeeVONu1t8gGrx",
+    "name": "Telequince",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwbcfkhV6RVquj",
     "name": "TV Aire",
     "stream_urls": [
@@ -542,6 +554,19 @@
     "name": "UniRadio TV",
     "stream_urls": [
       "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9KkStjSrl7VxIY",
+    "name": "Venus Media",
+    "stream_urls": [
+      "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

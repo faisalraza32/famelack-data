@@ -318,7 +318,6 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -469,6 +468,19 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OrgQw5NnGfhd8H",
+    "name": "Chinola TV",
+    "stream_urls": [
+      "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -812,19 +824,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "stream_urls": [
@@ -922,8 +921,8 @@
     "name": "Kartoon Channel!",
     "stream_urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
-      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+      "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -964,7 +963,7 @@
     "name": "Kids Land: Urdu",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1Hiq46OjlMI"
+      "https://www.youtube-nocookie.com/embed/cEzTzF8Ix4s"
     ],
     "languages": [
       "urd"
@@ -1276,19 +1275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yfo1gJBb7MDFEI",
-    "name": "Nickelodeon East",
-    "stream_urls": [
-      "https://79.127.207.193/Nickelodeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OxruQWMouqWzNg",
     "name": "Nickelodeon Global",
     "stream_urls": [
@@ -1527,7 +1513,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XSXfbN6ueKo"
+      "https://www.youtube-nocookie.com/embed/haH6W1lvSLw"
     ],
     "languages": [
       "por"
@@ -1637,6 +1623,19 @@
       "jpn"
     ],
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-tmygRozvtQ"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1837,6 +1836,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4z73Q00ASzo"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
@@ -2024,6 +2036,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "stream_urls": [
@@ -2034,6 +2059,19 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eJ6LajESBOIbZe",
+    "name": "TV Bahoriston",
+    "stream_urls": [
+      "https://live.teleradiocom.tj/3/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgk"
+    ],
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -2265,7 +2303,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iV-aCZMQNns"
+      "https://www.youtube-nocookie.com/embed/B_f7sZQsHeU"
     ],
     "languages": [
       "zho"
