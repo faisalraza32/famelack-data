@@ -105,19 +105,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kZm0rDXHtfV4NC",
-    "name": "Amedia Premium",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH301/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
     "stream_urls": [
@@ -397,19 +384,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3b8CTZ3nNtF2zo",
-    "name": "Evrokino",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH163/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MODjjERDzpT3OS",
     "name": "Filmax",
     "stream_urls": [
@@ -501,10 +475,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j2UxLyZK3bVit1",
-    "name": "GEM Drama +",
+    "nanoid": "SOotUeCwjiyN0g",
+    "name": "GEM Film",
     "stream_urls": [
-      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
+      "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -514,10 +488,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SOotUeCwjiyN0g",
-    "name": "GEM Film",
+    "nanoid": "QCb8mMbBKkmfSE",
+    "name": "GEM Pixel",
     "stream_urls": [
-      "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
+      "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CDNHgWIKB8OP2e",
+    "name": "GEM TV",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -556,8 +543,7 @@
     "nanoid": "Z3ikslJzUV8EMT",
     "name": "Goldmines",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/1459/master.m3u8",
-      "https://mumt04.tangotv.in/GOLDMINES/index.m3u8"
+      "https://cdn-2.pishow.tv/live/1459/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -791,8 +777,8 @@
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "stream_urls": [
-      "https://mumt01.tangotv.in/WETV/index.m3u8",
-      "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+      "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+      "https://mumt01.tangotv.in/WETV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -800,19 +786,6 @@
     ],
     "country": "in",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "veiRniUG0f4yLX",
-    "name": "KCM India",
-    "stream_urls": [
-      "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "X98dZJpeNVSZmP",
@@ -832,45 +805,6 @@
     "name": "Kino 24",
     "stream_urls": [
       "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hqymLYqkbayatP",
-    "name": "KinoHit",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH57/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYuDqHbwg5Xw82",
-    "name": "Kinosemja",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH25/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zMHUe24T0eMU11",
-    "name": "Kinosvidanie",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH21/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1136,7 +1070,8 @@
     "nanoid": "6gLQAbRVRpuZxV",
     "name": "MyTime Movie Network East",
     "stream_urls": [
-      "https://mytime-tcl.amagi.tv/playlist.m3u8"
+      "https://mytime-tcl.amagi.tv/playlist.m3u8",
+      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1387,58 +1322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
-    "stream_urls": [
-      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lty82UiRI2k0Dc",
-    "name": "Rakuten TV Nordic Films Finland",
-    "stream_urls": [
-      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NbMXz6pGZwmQWb",
-    "name": "Rodnoe Kino",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH23/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18JmrTzb6X8HlM",
     "name": "Runtime Espanol",
     "stream_urls": [
@@ -1637,19 +1520,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH145/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q642f1lR53cD10",
     "name": "TVCARiB Cinema",
     "stream_urls": [
@@ -1674,71 +1544,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gN2eRoSlW9AHDR",
-    "name": "viju TV1000",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH141/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Q5p4g67XWwNDIs",
-    "name": "viju TV1000 action",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH143/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5XYkspu1AifM0w",
-    "name": "viju TV1000 russkoe",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH139/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "slDv1U6fLU2rKe",
-    "name": "viju+ Megahit",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH313/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RVi9t64ATQmSEE",
-    "name": "viju+ Premiere",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH315/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

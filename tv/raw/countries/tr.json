@@ -107,6 +107,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3GgXVbdK2cjuBg",
+    "name": "Alanya Posta TV",
+    "stream_urls": [
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mmz7MUwsZ62HWK",
     "name": "Almahriah TV",
     "stream_urls": [
@@ -174,7 +187,9 @@
   {
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/n7HUV-KUDfE"
     ],
@@ -666,7 +681,7 @@
     "name": "HT Spor",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oZU66DWlqr4"
+      "https://www.youtube-nocookie.com/embed/gcWaPe_LBMc"
     ],
     "languages": [
       "tur"
@@ -941,7 +956,7 @@
     "name": "Lider Haber",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eaQtymwph3U"
+      "https://www.youtube-nocookie.com/embed/QOIaJyrPP6s"
     ],
     "languages": [
       "tur"
