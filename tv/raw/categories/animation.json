@@ -235,6 +235,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "stream_urls": [
@@ -541,7 +567,8 @@
     "nanoid": "1JYYpqQgnjcE3u",
     "name": "NickOnline",
     "stream_urls": [
-      "https://x1co.com.br/hls/stream.m3u8"
+      "https://x1co.com.br/hls/stream.m3u8",
+      "https://sdnew.x1co.com.br/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

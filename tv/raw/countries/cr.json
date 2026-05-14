@@ -55,7 +55,8 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -119,7 +120,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -215,6 +216,20 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -485,32 +500,6 @@
     "name": "Video Tour Channel",
     "stream_urls": [
       "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

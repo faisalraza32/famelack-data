@@ -66,24 +66,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "stream_urls": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8",
       "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
+      "https://cdn-6.pishow.tv/live/9/master.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
@@ -424,6 +411,19 @@
       "eng"
     ],
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lOEoXHnp8Sj0dx",
+    "name": "UMC TV",
+    "stream_urls": [
+      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {

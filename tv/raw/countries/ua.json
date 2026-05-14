@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "stream_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c0P17Flme7SKg4",
     "name": "Channel 7 Ukraine",
     "stream_urls": [
@@ -221,10 +234,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CcIIP6g1fBAGPV",
     "name": "Tretiy Cifrovoy",
     "stream_urls": [
       "https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WcoZqsaKguXix1",
+    "name": "TUSO",
+    "stream_urls": [
+      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -239,7 +278,7 @@
     "stream_urls": [
       "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
       "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

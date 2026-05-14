@@ -156,19 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u5b2On0IzN64A2",
-    "name": "E40",
-    "stream_urls": [
-      "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
     "stream_urls": [
@@ -263,10 +250,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QPORKefjqCpm3X",
-    "name": "Monumental TV",
+    "nanoid": "ksZqh8hqVd6zjZ",
+    "name": "MiTV",
     "stream_urls": [
-      "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
+      "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -276,10 +263,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
+    "nanoid": "QPORKefjqCpm3X",
+    "name": "Monumental TV",
     "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
+      "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
     ],
     "youtube_urls": [],
     "languages": [
@@ -305,6 +292,7 @@
     "nanoid": "KKXSDc79SjuRMG",
     "name": "Nanduti",
     "stream_urls": [
+      "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
       "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
     ],
     "youtube_urls": [],
@@ -354,19 +342,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HxsHxTV92v3WvN",
-    "name": "Oviedo TV",
-    "stream_urls": [
-      "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DTGn1oGPUrbYoj",
     "name": "Paraguay TV",
     "stream_urls": [
@@ -375,19 +350,6 @@
     "youtube_urls": [],
     "languages": [
       "gug",
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2BUOGme9iVm1bq",
-    "name": "Popu TV",
-    "stream_urls": [
-      "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
-    ],
-    "youtube_urls": [],
-    "languages": [
       "spa"
     ],
     "country": "py",
@@ -411,6 +373,19 @@
     "name": "Radio Ciudad 98.9 FM TV",
     "stream_urls": [
       "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qwvxoPlN7mEsiI",
+    "name": "Radio Nacional del Paraguay",
+    "stream_urls": [
+      "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
