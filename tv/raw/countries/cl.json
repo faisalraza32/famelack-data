@@ -143,6 +143,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9jkb1tHOSl1q2X",
+    "name": "Aysen TV",
+    "stream_urls": [
+      "https://v1.tustreaming.cl/aysentv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cH9kmLlt6EwKQQ",
     "name": "CampusTV",
     "stream_urls": [
@@ -226,8 +239,21 @@
     "name": "ChileVision",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YYQCQMdqU0Y"
+      "https://www.youtube-nocookie.com/embed/f5Y7RkVPgZI"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -395,7 +421,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NFAlDorg2nk"
+      "https://www.youtube-nocookie.com/embed/c1_1glA8LS4"
     ],
     "languages": [],
     "country": "cl",
@@ -654,19 +680,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "stream_urls": [
-      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "byUbvXPv80AteN",
     "name": "TV Senado",
     "stream_urls": [
@@ -761,7 +774,8 @@
     "nanoid": "kTSEb5mta8wgr6",
     "name": "UATV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
