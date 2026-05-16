@@ -67,6 +67,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "stream_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VEwkzfegp92NSy",
     "name": "Astrahan.Ru Sport",
     "stream_urls": [
@@ -559,19 +572,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lagHJficp6nYbz",
     "name": "ge Fast",
     "stream_urls": [
@@ -874,7 +874,8 @@
     "name": "Pac-12 Insider",
     "stream_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1126,6 +1127,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vfExfpKOcJ4kwS",
+    "name": "RTA Sport",
+    "stream_urls": [
+      "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pus"
+    ],
+    "country": "af",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kWdBvQFz5aue5n",
     "name": "Sky Racing 1",
     "stream_urls": [
@@ -1150,6 +1164,19 @@
     ],
     "country": "au",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PQO3nTobe9PoFo",
+    "name": "SOS Kanal Plus",
+    "stream_urls": [
+      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "e4huLQp9M80Lrf",
@@ -1310,7 +1337,7 @@
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
       "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+      "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1331,6 +1358,19 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aE41LbUT8Fnd7w",
+    "name": "Turf Movil",
+    "stream_urls": [
+      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {

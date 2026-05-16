@@ -22,6 +22,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XZla6kQNjFMMv4",
+    "name": "Afrobeat TV Entertainment",
+    "stream_urls": [
+      "https://stream.ecable.tv/afrobeats/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SCCSu7TMHcxg2h",
     "name": "Akaal Channel",
     "stream_urls": [
@@ -151,19 +164,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "stream_urls": [
@@ -235,32 +235,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BblW1Y0Gk79TU4",
-    "name": "BBC Three",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -1623,8 +1597,7 @@
     "name": "Now 70s",
     "stream_urls": [
       "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1686,7 +1659,8 @@
     "name": "NOW Rock",
     "stream_urls": [
       "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
+      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+      "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1874,6 +1848,17 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "stream_urls": [
+      "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",

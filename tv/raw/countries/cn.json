@@ -39,19 +39,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "stream_urls": [
-      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1ygWi2hNNf9GHE",
     "name": "CCTV-4 Europe",
     "stream_urls": [
@@ -284,6 +271,32 @@
     "name": "Guangzhou TV",
     "stream_urls": [
       "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f1nxbKF3lgdEIT",
+    "name": "Harbin Comprehensive News Channel",
+    "stream_urls": [
+      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
+    "stream_urls": [
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -544,7 +557,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FRMd-hS4EcM"
+      "https://www.youtube-nocookie.com/embed/qjaXMOyXKyY"
     ],
     "languages": [
       "zho"
@@ -623,17 +636,6 @@
     "name": "浙江 I 绍兴影视",
     "stream_urls": [
       "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWjSdo4t72dhtd",
-    "name": "浙江 I 绍兴综合",
-    "stream_urls": [
-      "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

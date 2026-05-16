@@ -80,19 +80,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K6tE30Fo2knFjx",
-    "name": "ART",
-    "stream_urls": [
-      "https://1a-1791.com/live/qt9k24wa/slot-55/2k5m-t871_1080p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d4L8PBtWXj8rtD",
     "name": "AsiriTV",
     "stream_urls": [
@@ -132,17 +119,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
+    "nanoid": "VtHTEOxTK0CD0C",
+    "name": "Belarus-3",
     "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "uk",
-    "isGeoBlocked": true
+    "country": "by",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bYTvtLA2rlhnbu",
@@ -224,25 +211,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "stream_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMJta2uB0RhiFk",
     "name": "Channel One",
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/njboE2pW85o"
+    ],
     "languages": [
       "fas"
     ],
@@ -296,9 +272,7 @@
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6snZ0b6b9ec"
-    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -378,6 +352,7 @@
     "nanoid": "gc561GHCvbklWe",
     "name": "DD Punjabi",
     "stream_urls": [
+      "https://cdn-4.pishow.tv/live/24/master.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
     ],
     "youtube_urls": [],
@@ -513,6 +488,7 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -670,21 +646,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "stream_urls": [
@@ -830,32 +791,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AQoLBvOjxVCg4W",
-    "name": "Midpen Media Center Channel 30",
-    "stream_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V5gXDCRg4f3pWb",
-    "name": "Midpen Media Center Channel 75",
-    "stream_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XLkNES6kyKfJ4o",
     "name": "Montreal Greek TV",
     "stream_urls": [
@@ -868,6 +803,19 @@
       "fra"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1wMsK4nhJMBFCb",
+    "name": "MRTV NRC",
+    "stream_urls": [
+      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -899,6 +847,19 @@
       "eng"
     ],
     "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1305,6 +1266,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "glNPCf2RbwoWmt",
+    "name": "zenith",
+    "stream_urls": [
+      "https://live.azenagroup.com/zenith/index.ll.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   }
 ]

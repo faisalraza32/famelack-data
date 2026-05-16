@@ -303,7 +303,6 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -862,6 +861,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xx5fSvkMwtXOAg",
+    "name": "HodHod Farsi TV",
+    "stream_urls": [
+      "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "stream_urls": [],
@@ -920,8 +932,8 @@
     "name": "Kartoon Channel!",
     "stream_urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-      "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
+      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -955,19 +967,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zJAleOgoOQA"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1235,19 +1234,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yfo1gJBb7MDFEI",
-    "name": "Nickelodeon East",
-    "stream_urls": [
-      "https://79.127.207.193/Nickelodeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1JYYpqQgnjcE3u",
     "name": "NickOnline",
     "stream_urls": [
@@ -1460,7 +1446,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0brixUx3Lw8"
+      "https://www.youtube-nocookie.com/embed/NEbCuWIFvWI"
     ],
     "languages": [
       "por"
@@ -1770,6 +1756,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kKaqP9i9ZLE"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
@@ -1957,6 +1956,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "stream_urls": [
@@ -2029,19 +2041,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6_wXls_51K8"
     ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4eac2SIShkjuk2",
-    "name": "Watch it KID!",
-    "stream_urls": [
-      "https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256"
-    ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -2224,7 +2223,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FRMd-hS4EcM"
+      "https://www.youtube-nocookie.com/embed/qjaXMOyXKyY"
     ],
     "languages": [
       "zho"
