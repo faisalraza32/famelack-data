@@ -119,17 +119,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
+    "nanoid": "il2nOFg4MhHcyB",
+    "name": "BBC Four UK HD",
     "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "rus"
+      "eng"
     ],
-    "country": "by",
-    "isGeoBlocked": false
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "bYTvtLA2rlhnbu",
@@ -217,7 +217,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/njboE2pW85o"
+      "https://www.youtube-nocookie.com/embed/2AlO6zcpcxs"
     ],
     "languages": [
       "fas"
@@ -237,19 +237,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -445,19 +432,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -646,6 +620,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "kon",
+      "lin"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "stream_urls": [
@@ -791,6 +780,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AQoLBvOjxVCg4W",
+    "name": "Midpen Media Center Channel 30",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V5gXDCRg4f3pWb",
+    "name": "Midpen Media Center Channel 75",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XLkNES6kyKfJ4o",
     "name": "Montreal Greek TV",
     "stream_urls": [
@@ -803,19 +818,6 @@
       "fra"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1wMsK4nhJMBFCb",
-    "name": "MRTV NRC",
-    "stream_urls": [
-      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {

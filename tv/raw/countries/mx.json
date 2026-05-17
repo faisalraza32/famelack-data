@@ -104,32 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
-    "stream_urls": [
-      "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "stream_urls": [
@@ -249,25 +223,10 @@
   {
     "nanoid": "dE1MtHTFsxve60",
     "name": "CreaLaTV",
-    "stream_urls": [
-      "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/trlAbCevSi4"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0v8d7EFpyejD8F",
-    "name": "Eclipse TV",
-    "stream_urls": [
-      "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -401,17 +360,6 @@
     "languages": [
       "spa"
     ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dQroYObAPsPIjO",
-    "name": "Imagen TV+",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/a60Y5Xw-vbM"
-    ],
-    "languages": [],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -864,7 +812,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HsQP1Jr79pY"
+      "https://www.youtube-nocookie.com/embed/BqrQHaGp78c"
     ],
     "languages": [
       "spa"
@@ -916,7 +864,7 @@
     "name": "Televisa Sinaloa",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u_nutpezIro"
+      "https://www.youtube-nocookie.com/embed/VaUTM90K2E4"
     ],
     "languages": [
       "spa"
@@ -1280,6 +1228,19 @@
     "name": "XHBZC-TDT",
     "stream_urls": [
       "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ui7ntXYkuTwXW",
+    "name": "XHFGL-TDT",
+    "stream_urls": [
+      "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
