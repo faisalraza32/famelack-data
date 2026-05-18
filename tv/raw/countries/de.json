@@ -201,8 +201,7 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "stream_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
-      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
+      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -310,8 +309,8 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
+      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -817,10 +816,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1vBPSqBW9LaA0Z",
-    "name": "MyTime Movie Network Germany",
+    "nanoid": "4YOpv1CYox1W50",
+    "name": "Naruto Germany",
     "stream_urls": [
-      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1059,6 +1058,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
+    "stream_urls": [
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "HiMqxCwB3tPMLP",
     "name": "Pearl TV",
     "stream_urls": [],
@@ -1151,15 +1163,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
     "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

@@ -405,19 +405,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "miKfZBDz4Ia286",
-    "name": "Canal Donana",
-    "stream_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
     "stream_urls": [
@@ -567,7 +554,8 @@
     "nanoid": "5al69Q4bUrZoo4",
     "name": "Cine Friki",
     "stream_urls": [
-      "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+      "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+      "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -620,6 +608,19 @@
     "name": "CMM TV",
     "stream_urls": [
       "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dUunw6na7BVxaU",
+    "name": "Costa Noroeste TV",
+    "stream_urls": [
+      "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -740,33 +741,6 @@
     "youtube_urls": [],
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vBQYI4XuRuNh2P",
-    "name": "Estepona Television",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -944,32 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "254O8QVRoi3Ec6",
-    "name": "La 2",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "stream_urls": [
@@ -992,6 +940,17 @@
     "languages": [
       "ron"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "stream_urls": [
+      "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1039,19 +998,6 @@
     "name": "Mr. Bean Anime Spain",
     "stream_urls": [
       "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wrgjk0eyRotOl3",
-    "name": "Music TV Granada",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1258,10 +1204,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9yewxbvb9FUiND",
-    "name": "Rakuten TV Action Movies Spain",
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
     "stream_urls": [
-      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1271,15 +1217,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6xG0BDh6352B56",
-    "name": "Rakuten TV Comedy Movies Spain",
+    "nanoid": "6Fk85FNF4cdSWr",
+    "name": "Rakuten TV Sci-Fi Spain",
     "stream_urls": [
-      "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+      "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYpCGBVfi8MGbS",
+    "name": "Rantaró el ninja boy",
+    "stream_urls": [
+      "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1424,20 +1379,6 @@
     "youtube_urls": [],
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SKSq9EL0wsiHSO",
-    "name": "STZ Telebista",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eus",
       "spa"
     ],
     "country": "es",

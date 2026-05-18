@@ -217,7 +217,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2AlO6zcpcxs"
+      "https://www.youtube-nocookie.com/embed/SotuDkAKZp0"
     ],
     "languages": [
       "fas"
@@ -237,6 +237,19 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -419,19 +432,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -483,6 +483,19 @@
       "mal"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -563,19 +576,6 @@
       "hin"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDEjDpDWifIyr0",
-    "name": "Imai TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "lk",
     "isGeoBlocked": false
   },
   {
@@ -1124,6 +1124,17 @@
     ],
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4VBfGEAGOsSdAE",
+    "name": "Tra Vinh TV",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "SQGH8tX9KocSpb",

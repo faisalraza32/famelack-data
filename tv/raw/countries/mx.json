@@ -104,6 +104,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "stream_urls": [
@@ -223,7 +236,9 @@
   {
     "nanoid": "dE1MtHTFsxve60",
     "name": "CreaLaTV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/trlAbCevSi4"
     ],
@@ -251,19 +266,6 @@
     "name": "El Chavo TV",
     "stream_urls": [
       "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -360,6 +362,17 @@
     "languages": [
       "spa"
     ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SGhmdm9NFeA"
+    ],
+    "languages": [],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -494,6 +507,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zvUZSlfvyrI"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "esFtoFYJpw3jIu",
     "name": "Nueve TV",
     "stream_urls": [
@@ -533,19 +559,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rGCqu82AwJbUrk",
-    "name": "PSN Canal 45.2",
-    "stream_urls": [
-      "https://srspsn2.live/live/livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XTIJ4Z66Z2ZX2y",
     "name": "Raly TV",
     "stream_urls": [
@@ -562,8 +575,7 @@
     "nanoid": "DTP0PlieY1RyjA",
     "name": "RCG TV",
     "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
-      "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8"
+      "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -603,19 +615,6 @@
     "name": "SIPSE TV 8.1",
     "stream_urls": [
       "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqZG2nHHXJFyOO",
-    "name": "SIPSE TVCUN 8.1",
-    "stream_urls": [
-      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -812,7 +811,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BqrQHaGp78c"
+      "https://www.youtube-nocookie.com/embed/t8rmpWxzvnI"
     ],
     "languages": [
       "spa"
@@ -825,7 +824,7 @@
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q0yRH-ziOeo"
+      "https://www.youtube-nocookie.com/embed/6pTCdNPGDs4"
     ],
     "languages": [
       "spa"
@@ -890,7 +889,20 @@
     "name": "Televisa Tijuana",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nx_zBUu_8fY"
+      "https://www.youtube-nocookie.com/embed/nCTWo6prpwc"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kBLqWOYbCQz0Mi",
+    "name": "Televisa Univision Saltillo",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5NiuZ0AN9vI"
     ],
     "languages": [
       "spa"
