@@ -306,6 +306,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TzIN60aLMDMQAJ",
+    "name": "Dom kino",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/44.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f1xJiI7QhGlqdf",
     "name": "DUST",
     "stream_urls": [
@@ -462,36 +475,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j2UxLyZK3bVit1",
-    "name": "GEM Drama +",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SOotUeCwjiyN0g",
     "name": "GEM Film",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EkUJy9ZWKl64v0",
-    "name": "GEM Onyx",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -519,19 +506,6 @@
     "name": "GEM Rubix",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OVDUiZGyxtXYXz",
-    "name": "GEM Rubix +",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -686,6 +660,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
+    "stream_urls": [
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sW1htecY1J2QHG",
     "name": "HomePlus",
     "stream_urls": [
@@ -801,6 +788,19 @@
     ],
     "country": "in",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "veiRniUG0f4yLX",
+    "name": "KCM India",
+    "stream_urls": [
+      "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "X98dZJpeNVSZmP",
@@ -1269,19 +1269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
-    "stream_urls": [
-      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c4Swg0nm0Rjn8G",
     "name": "Rakuten TV Action Movies UK",
     "stream_urls": [
@@ -1295,10 +1282,37 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "stream_urls": [
-      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PZAnGbp6hYUZo5",
+    "name": "Rakuten TV Drama Movies Finland",
+    "stream_urls": [
+      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S5iQDEhbXxxIw7",
+    "name": "Rakuten TV Drama Movies Spain",
+    "stream_urls": [
+      "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1308,17 +1322,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CECa40HPlHGlAI",
-    "name": "Rakuten TV Top Movies Finland",
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
     "stream_urls": [
-      "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng",
-      "fin"
+      "deu"
     ],
-    "country": "fi",
+    "country": "de",
     "isGeoBlocked": false
   },
   {

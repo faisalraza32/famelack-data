@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "Ok0YOGbjjwXfMY",
-    "name": "2x2",
-    "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "E2Tr0ZxksfVENx",
     "name": "3ABN Russia",
     "stream_urls": [
@@ -370,6 +357,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TzIN60aLMDMQAJ",
+    "name": "Dom kino",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/44.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H02hn1sGkwKEV1",
     "name": "Domashniy",
     "stream_urls": [
@@ -632,6 +632,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "NmNu9xP3DzG5RI",
+    "name": "Lugansk 24",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VuVzz3cHZwcEIp",
     "name": "Magnat",
     "stream_urls": [
@@ -790,19 +803,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BFH0gtUHGzILzf",
-    "name": "Novy Vek",
-    "stream_urls": [
-      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FPW5dG6jwJsfts",
     "name": "Novyi Russkii",
     "stream_urls": [
@@ -866,19 +866,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "dEANspwI90Hs8o",
-    "name": "NTV Mir",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Fjtpd5BvjmY1Dr",
@@ -1532,19 +1519,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ykkeMlR0XOtHqW",
-    "name": "TKR",
-    "stream_urls": [
-      "https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ifTYV3LUxWMK3L",
     "name": "TNT",
     "stream_urls": [
@@ -1731,36 +1705,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K5EAZFvuWObb4f",
-    "name": "VIVA Russia",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pnRdmB03EI7cgW",
     "name": "Vmeste-RF",
     "stream_urls": [
       "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CX3tgybrTddfmZ",
-    "name": "Volga",
-    "stream_urls": [
-      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1809,6 +1757,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ep4eseqBm4UkmF",
+    "name": "Za! TV",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1tGmbGgzdva6hK",
     "name": "Zoopark",
     "stream_urls": [
@@ -1827,7 +1789,7 @@
     "stream_urls": [
       "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/748.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

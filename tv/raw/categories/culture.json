@@ -132,20 +132,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "bYTvtLA2rlhnbu",
-    "name": "Bonaire.tv",
-    "stream_urls": [
-      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "bq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5b9R7v4eVMOgWj",
     "name": "BX Arts",
     "stream_urls": [
@@ -211,14 +197,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RMJta2uB0RhiFk",
     "name": "Channel One",
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SotuDkAKZp0"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -237,19 +234,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -432,6 +416,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1TyAWzZva88k1",
+    "name": "ETV 2",
+    "stream_urls": [
+      "https://sb.err.ee/live/etv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "est"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -462,7 +472,6 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -576,6 +585,19 @@
       "hin"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
     "isGeoBlocked": false
   },
   {
@@ -821,6 +843,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1wMsK4nhJMBFCb",
+    "name": "MRTV NRC",
+    "stream_urls": [
+      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "stream_urls": [
@@ -849,19 +884,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dEANspwI90Hs8o",
-    "name": "NTV Mir",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -915,6 +937,19 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2YKn96rbCyY3de",
+    "name": "ORF III",
+    "stream_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {

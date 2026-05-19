@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "LAPj7zIAvtxGKM",
+    "name": "Alex Berlin",
+    "stream_urls": [
+      "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KgfZTMdFAXl97l",
     "name": "Allgau TV",
     "stream_urls": [
@@ -201,7 +214,8 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "stream_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1163,13 +1177,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
+    "nanoid": "rahlDGPnE1FWrR",
+    "name": "Rakuten TV Crime Series Germany",
     "stream_urls": [
-      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
+      "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "stream_urls": [
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1508,6 +1535,19 @@
     "name": "SRF",
     "stream_urls": [
       "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "stream_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

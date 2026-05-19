@@ -67,6 +67,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "stream_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VEwkzfegp92NSy",
     "name": "Astrahan.Ru Sport",
     "stream_urls": [
@@ -405,12 +418,26 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -517,19 +544,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -677,6 +691,19 @@
       "ara"
     ],
     "country": "kw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wiIsgplTccLk32",
+    "name": "Lacrosse TV",
+    "stream_urls": [
+      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1086,19 +1113,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vfExfpKOcJ4kwS",
-    "name": "RTA Sport",
-    "stream_urls": [
-      "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pus"
-    ],
-    "country": "af",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kWdBvQFz5aue5n",
     "name": "Sky Racing 1",
     "stream_urls": [
@@ -1156,8 +1170,8 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1331,19 +1345,6 @@
     ],
     "country": "ro",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OS0pJpfqrL4sYH",
-    "name": "TVRI Sport",
-    "stream_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "3vI6OVnBudkJbF",

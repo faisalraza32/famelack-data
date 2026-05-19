@@ -156,19 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yuVSQWMuHA1KqE",
-    "name": "NTK TV",
-    "stream_urls": [
-      "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BbQTAaHxQO2kHl",
     "name": "PTV",
     "stream_urls": [
@@ -277,7 +264,7 @@
     "name": "TVA",
     "stream_urls": [
       "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
       "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
     ],
     "youtube_urls": [],
