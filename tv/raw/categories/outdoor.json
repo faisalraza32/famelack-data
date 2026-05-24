@@ -66,19 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "stream_urls": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "stream_urls": [
@@ -123,8 +110,7 @@
     "name": "Horse & Country TV",
     "stream_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-      "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -154,9 +140,7 @@
     "stream_urls": [
       "https://fms.premio.link/fishingtv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rqJOhP6tAW4"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ita"
     ],
@@ -168,7 +152,6 @@
     "name": "Love Nature",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-      "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -229,7 +212,6 @@
     "nanoid": "yWx96N1LT28ilx",
     "name": "Outdoor Channel",
     "stream_urls": [
-      "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
       "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
     ],
@@ -244,7 +226,6 @@
     "nanoid": "P1PoD5jjT64Mum",
     "name": "Outside TV",
     "stream_urls": [
-      "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
       "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
       "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
     ],
@@ -254,6 +235,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bcFsomEBowqYIB",
@@ -274,7 +268,7 @@
     "stream_urls": [
       "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
       "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8"
+      "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

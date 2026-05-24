@@ -39,11 +39,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "54R2DRyAaS8Mcs",
+    "name": "Atlas",
+    "stream_urls": [
+      "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "stream_urls": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -65,19 +77,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": true
   },
   {
@@ -153,20 +152,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u6zpmHPrnF1o3c",
-    "name": "CGTN Documentary",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -224,9 +209,9 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "stream_urls": [
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -344,36 +329,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FOmh48Vhhwgsmx",
-    "name": "Ecovision",
-    "stream_urls": [
-      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "stream_urls": [
       "https://eplhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xIRyeY536kkKQd",
-    "name": "GEM Nature",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -412,9 +371,9 @@
     "nanoid": "HZEhjsWnhssch2",
     "name": "History Hit",
     "stream_urls": [
-      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-      "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+      "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -672,20 +631,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gEeVOh2cSKdMiu",
-    "name": "Persiana Travel",
-    "stream_urls": [
-      "https://mardomhls.wns.live/hls/stream.m3u8",
-      "https://ptravelhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -731,8 +676,7 @@
     "nanoid": "OR0bcDdbzNJR50",
     "name": "Terra Mater WILD English",
     "stream_urls": [
-      "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
-      "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
+      "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

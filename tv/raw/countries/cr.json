@@ -118,7 +118,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -172,19 +172,6 @@
     "name": "Extrema Kids TV",
     "stream_urls": [
       "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "stream_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -277,7 +264,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/igjWXEONBDQ"
+      "https://www.youtube-nocookie.com/embed/KMnZpEWrT3Q"
     ],
     "languages": [
       "spa"
@@ -316,6 +303,19 @@
     "name": "Quince UCR",
     "stream_urls": [
       "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -442,19 +442,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "stream_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xLJatClo1nNRli",
     "name": "TicaVision",
     "stream_urls": [
@@ -524,19 +511,6 @@
     "name": "VM Latino",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -5,7 +5,9 @@
     "stream_urls": [
       "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HxEcfPpyLMA"
+    ],
     "languages": [
       "eng"
     ],
@@ -52,20 +54,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "7UHEij0gHfh2GK",
-    "name": "Animax Asia India",
-    "stream_urls": [
-      "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "jpn"
-    ],
-    "country": "in",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "hkDzNHa7Mm4MEd",
     "name": "Anime Vision",
     "stream_urls": [
@@ -105,19 +93,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u2iS7uczBAriSJ",
-    "name": "Aniplus Asia",
-    "stream_urls": [
-      "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "724JcFRQ3UIDmr",
     "name": "Aqua Teen Hunger Force",
     "stream_urls": [],
@@ -154,32 +129,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MmDuBDX_GGE"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -301,19 +250,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KNMSsb0ROzM"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ntF6dI5Mg2NTKt",
     "name": "Geekdot",
     "stream_urls": [
@@ -324,19 +260,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BHktLaXb4NGD72",
-    "name": "Gong",
-    "stream_urls": [
-      "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -418,24 +341,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "stream_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw"
+      "https://www.youtube-nocookie.com/embed/xxCmjgAoMnw"
     ],
     "languages": [
       "pol"
@@ -513,8 +423,8 @@
     "name": "Mr. Bean Animated",
     "stream_urls": [
       "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -547,20 +457,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gcKdwQBnRSpRrD",
-    "name": "Multimania",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -731,19 +627,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aPLPuuzwiK0"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {

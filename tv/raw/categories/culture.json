@@ -119,17 +119,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
+    "nanoid": "bYTvtLA2rlhnbu",
+    "name": "Bonaire.tv",
     "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "nld",
+      "pap"
     ],
-    "country": "uk",
-    "isGeoBlocked": true
+    "country": "bq",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "5b9R7v4eVMOgWj",
@@ -429,19 +430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -472,6 +460,7 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -639,21 +628,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -940,19 +914,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2YKn96rbCyY3de",
-    "name": "ORF III",
-    "stream_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "stream_urls": [
@@ -963,19 +924,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DKHLUT1IqpMkXM",
-    "name": "Presumiendo Mexico",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1159,17 +1107,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4VBfGEAGOsSdAE",
-    "name": "Tra Vinh TV",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "SQGH8tX9KocSpb",

@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "oMWoXuzyayZcUr",
-    "name": "BFM Tech & Co",
-    "stream_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BZ9ohjnwvpwyuR",
     "name": "Cosmos TV",
     "stream_urls": [
@@ -30,7 +17,7 @@
     "name": "Force Thirteen Earthquakes",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xa4sNmiO4AM"
+      "https://www.youtube-nocookie.com/embed/19Y7R-lUndA"
     ],
     "languages": [
       "eng"
@@ -52,6 +39,19 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vGCm6ufhO0hHv0",
+    "name": "MediBizTV",
+    "stream_urls": [
+      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uPBnVmprz4lcyz",
@@ -109,8 +109,8 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "stream_urls": [
+      "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
