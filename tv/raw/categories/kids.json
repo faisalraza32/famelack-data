@@ -15,16 +15,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "At9xDVwnRJnJwN",
-    "name": "13 Kids",
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
     "stream_urls": [
-      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "pol"
     ],
-    "country": "cl",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -116,19 +116,6 @@
     "youtube_urls": [],
     "languages": [],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NZvHXProBuiKC4",
-    "name": "BabyTV Spain",
-    "stream_urls": [
-      "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -300,6 +287,19 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "stream_urls": [
+      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "IsHsuTjDtTUjjX",
@@ -843,8 +843,8 @@
     "name": "Kartoon Channel!",
     "stream_urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-      "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
+      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -885,25 +885,12 @@
     "name": "Kids Land: Urdu",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fz0ZQlCtAcw"
+      "https://www.youtube-nocookie.com/embed/7RWfDE6818M"
     ],
     "languages": [
       "urd"
     ],
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "stream_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1068,20 +1055,8 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EJkm2Jgew5xz6M",
-    "name": "Mr Bean Live Action",
-    "stream_urls": [
-      "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1143,16 +1118,30 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5aEA4hOVinh3j",
-    "name": "Nickelodeon",
+    "nanoid": "Pl9PpHSjGV5iKN",
+    "name": "Multilandia",
     "stream_urls": [
-      "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
+      "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "rus"
     ],
-    "country": "es",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gcKdwQBnRSpRrD",
+    "name": "Multimania",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1381,7 +1370,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k--Ddwgh-18"
+      "https://www.youtube-nocookie.com/embed/cgMq-JxmmPo"
     ],
     "languages": [
       "por"
@@ -1733,6 +1722,7 @@
     "nanoid": "99DtWOF0uOZLNA",
     "name": "Tamyr",
     "stream_urls": [
+      "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
       "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1888,19 +1878,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eJ6LajESBOIbZe",
-    "name": "TV Bahoriston",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/3/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -2093,7 +2070,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Nm4tu4sYsaE"
+      "https://www.youtube-nocookie.com/embed/Rm3Dq1LhNjw"
     ],
     "languages": [
       "zho"

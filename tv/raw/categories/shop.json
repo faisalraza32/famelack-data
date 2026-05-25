@@ -182,6 +182,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BHUk7W2sHiMZn9",
+    "name": "Gongyoung Home Shopping",
+    "stream_urls": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ha2TQrOiJuUiVm",
     "name": "GS My Shop",
     "stream_urls": [
@@ -205,19 +218,6 @@
       "eng"
     ],
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWubgLKIN9lBtR",
-    "name": "Handystar",
-    "stream_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -874,7 +874,9 @@
   {
     "nanoid": "VFHPY4Y8ToG3zS",
     "name": "Shop Channel",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream3.shopch.jp/HLS/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Vq3jz0c7oMs"
     ],
@@ -1011,9 +1013,7 @@
     "stream_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GAyN82YuRX4"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],

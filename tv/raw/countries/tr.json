@@ -1,11 +1,40 @@
 [
   {
+    "nanoid": "EEjElvcDWe1Onh",
+    "name": "4U TV",
+    "stream_urls": [
+      "https://hls.4utv.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TFUyUrLKl7M3tP",
     "name": "24 TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qFKEi2BqHYc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lrea5Bd65wnCJm",
+    "name": "360",
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -65,14 +94,27 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mmz7MUwsZ62HWK",
-    "name": "Almahriah TV",
+    "nanoid": "7COae96uG7VRpK",
+    "name": "Aksu TV",
     "stream_urls": [
-      "https://starmenajo.com/hls/almahriah/index.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3GgXVbdK2cjuBg",
+    "name": "Alanya Posta TV",
+    "stream_urls": [
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
     ],
     "country": "tr",
     "isGeoBlocked": false
@@ -132,9 +174,7 @@
   {
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/n7HUV-KUDfE"
     ],
@@ -435,19 +475,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "WHkVQZYPgkweaG",
-    "name": "Erzurum Web TV",
-    "stream_urls": [
-      "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4WXm2uY8kIBqU4",
     "name": "ES TV",
     "stream_urls": [
@@ -494,6 +521,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/mq4GiHzxZwk"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "stream_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -963,6 +1003,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
     "stream_urls": [
@@ -1227,7 +1280,9 @@
   {
     "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://canli.tgrthaber.com/tgrt.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0SAUIyvNA5s"
     ],
