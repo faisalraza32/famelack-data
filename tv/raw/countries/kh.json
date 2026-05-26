@@ -37,19 +37,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aAMBVg0GZZXh3E",
-    "name": "SEA TV",
-    "stream_urls": [
-      "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5YmRoWRCWgVS14",
     "name": "TVK",
     "stream_urls": [
@@ -67,6 +54,19 @@
     "name": "TVK 2",
     "stream_urls": [
       "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "stream_urls": [
+      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

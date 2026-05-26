@@ -105,10 +105,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SwsWDthUMBPn2q",
-    "name": "Baraza TV Deep House",
+    "nanoid": "fUzoQspzSgVpqR",
+    "name": "Baraza TV Relaxing",
     "stream_urls": [
-      "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+      "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -122,6 +122,19 @@
     "name": "Best TV",
     "stream_urls": [
       "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9nOkMHgBurW2UW",
+    "name": "Blue Sky TV",
+    "stream_urls": [
+      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -161,7 +174,7 @@
     "name": "ecclesiaTV.gr",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/naqX3HlsPnk"
+      "https://www.youtube-nocookie.com/embed/nXB6T_1Og8A"
     ],
     "languages": [
       "ell"
@@ -272,19 +285,6 @@
     ],
     "country": "gr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "stream_urls": [
-      "https://s1.cystream.net/live/faros2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "BBnkN7RuoWZuoo",
@@ -485,19 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "axcim7j9dTO22W",
-    "name": "Start TV",
-    "stream_urls": [
-      "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ExXGZtUJaG1vOi",
     "name": "Telekriti",
     "stream_urls": [
@@ -567,6 +554,19 @@
     "name": "TV Creta",
     "stream_urls": [
       "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cu6RCMF1x7RHRd",
+    "name": "Vergina TV",
+    "stream_urls": [
+      "https://verginanews.gr:8443/hls_live/stream1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
