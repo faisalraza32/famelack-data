@@ -158,6 +158,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Belarus-5",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M4nYho03XLslkh",
     "name": "Billiard TV",
     "stream_urls": [
@@ -363,7 +376,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -435,19 +449,6 @@
       "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fiVq2aIUR5E"
-    ],
     "languages": [
       "eng"
     ],
@@ -543,6 +544,19 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -720,19 +734,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "WjzlJmHsxUPxpZ",
-    "name": "MNB Sport",
-    "stream_urls": [
-      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mon"
-    ],
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xYgLb0tc6pAHED",
     "name": "More Than Sports TV",
     "stream_urls": [
@@ -832,9 +833,9 @@
     "nanoid": "waNiTP0zBhMtU6",
     "name": "Pac-12 Insider",
     "stream_urls": [
+      "https://pac12-firetv.amagi.tv/playlist.m3u8",
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1083,6 +1084,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vfExfpKOcJ4kwS",
+    "name": "RTA Sport",
+    "stream_urls": [
+      "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pus"
+    ],
+    "country": "af",
     "isGeoBlocked": false
   },
   {
@@ -1439,7 +1453,6 @@
     "nanoid": "MDdtU8IoEP7tsU",
     "name": "Unbeaten",
     "stream_urls": [
-      "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
       "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
     ],
     "youtube_urls": [],

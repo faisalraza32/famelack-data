@@ -57,8 +57,7 @@
     "name": "360°",
     "stream_urls": [
       "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
-      "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
-      "https://video1.in-news.ru/360/index.m3u8"
+      "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -384,6 +383,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D64rjLP065KQ1v",
     "name": "Enisey",
     "stream_urls": [
@@ -413,8 +425,7 @@
     "nanoid": "fAUqob7LIqewI8",
     "name": "Fon Music",
     "stream_urls": [
-      "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
-      "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8"
+      "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -466,8 +477,8 @@
     "nanoid": "mhdcDiXTatKlEo",
     "name": "Hope Channel Russia",
     "stream_urls": [
-      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -976,6 +987,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ClrLVtv3nyuxRh",
+    "name": "Patriot",
+    "stream_urls": [
+      "https://catchup.videoline.ru/asvtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kDIn5P06JUE8QJ",
     "name": "Perviy Krymskiy",
     "stream_urls": [
@@ -993,6 +1017,19 @@
     "name": "Pervyy Respublikanskiy",
     "stream_urls": [
       "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kCBrKLRK8wKXax",
+    "name": "Pobeda",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/43.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1058,7 +1095,6 @@
     "nanoid": "CEAdR8bknBDUPA",
     "name": "RBK-TV",
     "stream_urls": [
-      "https://online-video.rbc.ru/online2/rbctv.m3u8",
       "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
     ],
     "youtube_urls": [],
@@ -1156,7 +1192,6 @@
     "name": "RTД",
     "stream_urls": [
       "https://streaming.thestream.cyou/live/554.m3u8",
-      "https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8",
       "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1285,6 +1320,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xmq0ko3zys05Tb",
+    "name": "Shanson TV",
+    "stream_urls": [
+      "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+      "https://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "OU8aCzJR3XgtbJ",
     "name": "Simferopol 24",
     "stream_urls": [
@@ -1327,6 +1376,7 @@
     "nanoid": "jVAavKgp3OBX31",
     "name": "Solnce",
     "stream_urls": [
+      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1393,7 +1443,6 @@
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1682,7 +1731,6 @@
     "nanoid": "iKbsITYVtirmyF",
     "name": "U",
     "stream_urls": [
-      "https://cdn-01.bonus-tv.ru/u/playlist.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1710,8 +1758,7 @@
     "name": "Univer TV",
     "stream_urls": [
       "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
+      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1739,6 +1786,19 @@
     "stream_urls": [
       "https://autopilot.catcast.tv/content/37909/index.m3u8",
       "https://tv.a21network.ru/stream/37909/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

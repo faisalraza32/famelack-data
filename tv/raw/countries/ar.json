@@ -238,7 +238,7 @@
     "name": "Canal 6 ERTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vu9GGKuz7Fo"
+      "https://www.youtube-nocookie.com/embed/BVAHr9bXjnU"
     ],
     "languages": [
       "spa"
@@ -369,6 +369,19 @@
     "name": "Canal 11 de la Costa",
     "stream_urls": [
       "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QxvjL1iq4CQvYc",
+    "name": "Canal 13 Jujuy",
+    "stream_urls": [
+      "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -672,7 +685,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gEQ8aWh0yFM"
+      "https://www.youtube-nocookie.com/embed/PAbptTIqK40"
     ],
     "languages": [
       "spa"
@@ -737,7 +750,7 @@
     "name": "El Tres TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L_Lyu1AZ01k"
+      "https://www.youtube-nocookie.com/embed/gz7oezCh93U"
     ],
     "languages": [
       "spa"
@@ -934,7 +947,7 @@
     "name": "Radio Mitre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7_bv3sMx7Yk"
+      "https://www.youtube-nocookie.com/embed/Py5JYZXJvzo"
     ],
     "languages": [
       "spa"
@@ -969,10 +982,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZndXA4jhlJE41i",
+    "name": "Radio TV Neuquen",
+    "stream_urls": [
+      "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qtaPOAnUqcYU1F",
     "name": "Radio Yguazu TV",
     "stream_urls": [
       "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hsjdwZKuRgc1SI",
+    "name": "RTN",
+    "stream_urls": [
+      "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1064,6 +1103,19 @@
     "name": "Telemax",
     "stream_urls": [
       "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nc0pgDvnPNWdj8",
+    "name": "Telenord",
+    "stream_urls": [
+      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1195,7 +1247,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4edZd7bGuhI"
+      "https://www.youtube-nocookie.com/embed/pW1REWXo9Ys"
     ],
     "languages": [
       "spa"
@@ -1221,6 +1273,32 @@
     "name": "Xtrema Accion",
     "stream_urls": [
       "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "stream_urls": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5N50bnTr2ohfWL",
+    "name": "Xtrema Cine Clasico",
+    "stream_urls": [
+      "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

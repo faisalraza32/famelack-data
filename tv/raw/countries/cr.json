@@ -55,7 +55,8 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -194,19 +195,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "stream_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WGsDfHy5YE0QGF",
     "name": "GAMTV.cr",
     "stream_urls": [
@@ -316,6 +304,19 @@
     "name": "Norte Informativo TV",
     "stream_urls": [
       "https://videohd.live:19360/8076/8076.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gVTlfz80oD0tzA",
+    "name": "Quince UCR",
+    "stream_urls": [
+      "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -498,6 +499,19 @@
     "name": "Video Tour Channel",
     "stream_urls": [
       "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

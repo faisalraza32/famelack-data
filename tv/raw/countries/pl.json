@@ -1,9 +1,24 @@
 [
   {
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "stream_urls": [
+      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
-      "https://srv1.adriatelekom.com/4FunTV/index.m3u8"
+      "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -21,6 +36,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/hdmBRZmUO8I"
+    ],
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -289,19 +317,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "HCuXiJRBY0QrpX",
-    "name": "Puls 2",
-    "stream_urls": [
-      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International FAST",
     "stream_urls": [
@@ -319,6 +334,19 @@
     "name": "Radio RAM",
     "stream_urls": [
       "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -447,7 +475,7 @@
     "name": "Telewizja Gorzów",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mGACcGyLL0Y"
+      "https://www.youtube-nocookie.com/embed/Plz6B5DR1bo"
     ],
     "languages": [
       "pol"
@@ -719,19 +747,6 @@
     ],
     "country": "pl",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4UCysSCkmhRS1I",
-    "name": "TVS",
-    "stream_urls": [
-      "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "8fkva1GfM7tM4w",
