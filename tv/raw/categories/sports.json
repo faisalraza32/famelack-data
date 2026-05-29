@@ -546,16 +546,16 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
     "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      "https://live.teleradiocom.tj/8/3m.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "tgk"
     ],
-    "country": "ca",
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -694,19 +694,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "stream_urls": [
-      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "stream_urls": [
@@ -732,6 +719,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WjzlJmHsxUPxpZ",
+    "name": "MNB Sport",
+    "stream_urls": [
+      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mon"
+    ],
+    "country": "mn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xYgLb0tc6pAHED",
@@ -834,8 +834,8 @@
     "name": "Pac-12 Insider",
     "stream_urls": [
       "https://pac12-firetv.amagi.tv/playlist.m3u8",
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1126,19 +1126,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PQO3nTobe9PoFo",
-    "name": "SOS Kanal Plus",
-    "stream_urls": [
-      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "stream_urls": [
@@ -1157,8 +1144,7 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1250,19 +1236,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MF8dCK1EmeF821",
-    "name": "Tour Spot TV",
-    "stream_urls": [
-      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1453,6 +1426,7 @@
     "nanoid": "MDdtU8IoEP7tsU",
     "name": "Unbeaten",
     "stream_urls": [
+      "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
       "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
     ],
     "youtube_urls": [],

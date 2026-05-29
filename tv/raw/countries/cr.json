@@ -55,8 +55,7 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -119,7 +118,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -186,6 +185,19 @@
     "name": "Extrema Kids TV",
     "stream_urls": [
       "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2oDIGkwBMwsy6",
+    "name": "Extrema TV",
+    "stream_urls": [
+      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -278,7 +290,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KMnZpEWrT3Q"
+      "https://www.youtube-nocookie.com/embed/y9W8noy1Z5A"
     ],
     "languages": [
       "spa"
@@ -469,6 +481,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "stream_urls": [
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "stream_urls": [
@@ -525,19 +550,6 @@
     "name": "VM Latino",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

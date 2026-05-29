@@ -55,7 +55,8 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "stream_urls": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -163,6 +164,19 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -355,6 +369,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ok1XbdadbIAXgd",
+    "name": "Francophonie24",
+    "stream_urls": [
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QsnZdQrvWuaOtn",
     "name": "Get.factual UK",
     "stream_urls": [
@@ -400,8 +427,7 @@
     "name": "History TV18",
     "stream_urls": [
       "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
-      "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
+      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -607,6 +633,7 @@
     "nanoid": "tmL08cxsScFKuK",
     "name": "NatureTime AU",
     "stream_urls": [
+      "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
       "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -627,32 +654,6 @@
       "uzb"
     ],
     "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6nVDnHEbOf1hio",
-    "name": "Persiana Docs",
-    "stream_urls": [
-      "https://scihls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
     "isGeoBlocked": false
   },
   {

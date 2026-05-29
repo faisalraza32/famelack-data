@@ -212,13 +212,28 @@
     "name": "CGTN Spanish",
     "stream_urls": [
       "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
-      "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
+      "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+      "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/q6c5C6SMscw"
     ],
     "languages": [
       "spa"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AkJT8qUHrHTblc",
+    "name": "Chifeng Comprehensive News Chanel",
+    "stream_urls": [
+      "https://play1-qk.nmtv.cn/live/1735546697341033.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "aho",
+      "mon"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -282,6 +297,19 @@
     "name": "Harbin Movie Channel",
     "stream_urls": [
       "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "StXzRCGAK006to",
+    "name": "Hebei TV",
+    "stream_urls": [
+      "https://event.pull.hebtv.com/live/live101.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -529,7 +557,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z21Qgp9YXmM"
+      "https://www.youtube-nocookie.com/embed/-8qlgrcsseo"
     ],
     "languages": [
       "zho"
@@ -690,6 +718,17 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uf8i2ptAW9zep4",
+    "name": "白山新闻综合",
+    "stream_urls": [
+      "https://stream2.jlntv.cn/baishan1/sd/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "j1PKhARZuXsXE7",

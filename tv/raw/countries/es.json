@@ -392,10 +392,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OW9bAVyqxJwlzp",
-    "name": "Canal Diocesano",
+    "nanoid": "miKfZBDz4Ia286",
+    "name": "Canal Donana",
     "stream_urls": [
-      "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -724,7 +724,7 @@
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/blz-VH5Ovs4"
+      "https://www.youtube-nocookie.com/embed/ZT4VuRfsHhU"
     ],
     "languages": [
       "spa"
@@ -754,19 +754,6 @@
     "youtube_urls": [],
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vBQYI4XuRuNh2P",
-    "name": "Estepona Television",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -827,7 +814,11 @@
   {
     "nanoid": "EGsBwKlWFjIivG",
     "name": "France 24 Español",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/zTv0hCakAhg"
     ],
@@ -940,10 +931,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
+    "nanoid": "GHi6V9VFxBsZxp",
+    "name": "Lancelot TV",
     "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -962,6 +953,17 @@
     "languages": [
       "ron"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "stream_urls": [
+      "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1110,6 +1112,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9dhga7gK9KijdY",
+    "name": "Onda Algeciras",
+    "stream_urls": [
+      "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zLbwRa4421PyhS",
     "name": "Onda Cadiz",
     "stream_urls": [
@@ -1232,6 +1247,19 @@
     "name": "Rakuten TV Comedy Movies Spain",
     "stream_urls": [
       "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "stream_urls": [
+      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1381,20 +1409,6 @@
     "youtube_urls": [],
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SKSq9EL0wsiHSO",
-    "name": "STZ Telebista",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eus",
       "spa"
     ],
     "country": "es",
@@ -1576,19 +1590,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GHuoWKJ2SeYBCe",
-    "name": "TV Sabadell-Valles",
-    "stream_urls": [
-      "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
