@@ -128,19 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MV7j6dHcEiwyvr",
-    "name": "Antenne Reunion",
-    "stream_urls": [
-      "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "stream_urls": [
@@ -176,10 +163,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D2NSPfcewUnhFP",
+    "name": "BFM Business",
+    "stream_urls": [
+      "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "stream_urls": [
       "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "su9d0YBQVTBx5Z",
+    "name": "BFM TV",
+    "stream_urls": [
+      "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -557,9 +570,9 @@
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
-      "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -638,23 +651,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NXr5JJCUZWuMub",
-    "name": "Generations TV",
+    "nanoid": "cZHuVSqX1X1VrE",
+    "name": "Generation Sitcoms",
     "stream_urls": [
-      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+      "https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
+    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BHktLaXb4NGD72",
-    "name": "Gong",
+    "nanoid": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
     "stream_urls": [
-      "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -681,6 +692,41 @@
     "name": "Homicide la chaîne du fait divers",
     "stream_urls": [
       "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Grm4rZFIs5yHyN",
+    "name": "ILTV",
+    "stream_urls": [
+      "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BHURXFJmympW7l",
+    "name": "INA 70s",
+    "stream_urls": [
+      "https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wBjzvW6WzUB3nI",
+    "name": "INA Ardivision",
+    "stream_urls": [
+      "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -844,24 +890,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aRYM4hJmBP444c",
-    "name": "My Gospel TV",
-    "stream_urls": [
-      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
     "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -978,28 +1010,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3UupDDnNXaxwcR",
-    "name": "Rakuten TV Films Comédie",
-    "stream_urls": [
-      "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "stream_urls": [
-      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1205,7 +1215,6 @@
     "nanoid": "URBHUsZAHdGmEN",
     "name": "Trace Brazuca",
     "stream_urls": [
-      "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1232,27 +1241,11 @@
     "nanoid": "RcxxzdMu6ZS2Ab",
     "name": "Trace Latina",
     "stream_urls": [
-      "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
+      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "8sJgzboMg4ThSQ",
-    "name": "Trace Sport Stars",
-    "stream_urls": [
-      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-      "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
       "fra"
     ],
     "country": "fr",
@@ -1263,8 +1256,8 @@
     "name": "Trace Urban",
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
-      "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

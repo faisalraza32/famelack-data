@@ -15,16 +15,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNpror6ZnqPuws",
-    "name": "Aleph Business",
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
     "stream_urls": [
-      "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ron"
+      "eng"
     ],
-    "country": "ro",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -94,6 +94,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D2NSPfcewUnhFP",
+    "name": "BFM Business",
+    "stream_urls": [
+      "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
     "stream_urls": [
@@ -139,6 +152,7 @@
     "name": "Bloomberg Originals US",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+      "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
       "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
     ],
     "youtube_urls": [
@@ -244,6 +258,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v8hzHLNa329Qxl",
+    "name": "Canal Z",
+    "stream_urls": [
+      "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
     "stream_urls": [
@@ -256,19 +283,6 @@
     ],
     "country": "cn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vrlS9LYggqZr3W",
-    "name": "Class CNBC",
-    "stream_urls": [
-      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "7XcP1junyS1aZN",
@@ -365,7 +379,6 @@
     "nanoid": "a1RrZc8pJaoRNo",
     "name": "CNBC UK",
     "stream_urls": [
-      "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -392,7 +405,6 @@
     "nanoid": "2E1QCHJTYwtjGg",
     "name": "DeFiance Media",
     "stream_urls": [
-      "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -455,6 +467,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eJyaKdO16IOPE0",
+    "name": "Kanaal Z",
+    "stream_urls": [
+      "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "stream_urls": [
@@ -484,9 +509,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "stream_urls": [
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CEAdR8bknBDUPA",
     "name": "RBK-TV",
     "stream_urls": [
+      "https://online-video.rbc.ru/online2/rbctv.m3u8",
       "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
     ],
     "youtube_urls": [],

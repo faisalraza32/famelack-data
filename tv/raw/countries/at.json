@@ -144,23 +144,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uezYMaUqM1TDux",
-    "name": "KT1",
-    "stream_urls": [
-      "https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1dXe5ax8yeuJDo",
     "name": "Kurier TV",
     "stream_urls": [
-      "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8"
+      "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8",
+      "https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -181,6 +169,19 @@
     ],
     "country": "at",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xwu9RwQkvtgOhW",
+    "name": "Love The Planet DE",
+    "stream_urls": [
+      "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "9llJxc5Zi2OtF9",
@@ -222,12 +223,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1VnHK2mZ0MLj12",
-    "name": "oe24 TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pAk2Bkzfu4g"
+    "nanoid": "MdeoF65PEO9tKW",
+    "name": "Okto",
+    "stream_urls": [
+      "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2YKn96rbCyY3de",
+    "name": "ORF III",
+    "stream_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "deu"
     ],
@@ -276,19 +290,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L5wf5IamZyqkNz",
-    "name": "Regional TV Salzburg",
-    "stream_urls": [
-      "https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LmXiHP1vY6XyzS",
     "name": "RTV",
     "stream_urls": [
@@ -326,6 +327,19 @@
     ],
     "country": "at",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ArpzONQunFnW4f",
+    "name": "ServusTV",
+    "stream_urls": [
+      "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "FprwnAkCKvi17W",
