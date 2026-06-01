@@ -85,7 +85,7 @@
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
       "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -139,8 +139,8 @@
     "name": "Baywatch US",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
-      "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
-      "https://baywatch-xumo.amagi.tv/playlist.m3u8"
+      "https://baywatch-xumo.amagi.tv/playlist.m3u8",
+      "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -199,6 +199,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/46209/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -398,19 +424,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "aUMgSxs4t83jMD",
-    "name": "Emret Komutanım",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6kQpSqTkN88"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kQcoVGJEguMaJQ",
     "name": "Farscape",
     "stream_urls": [],
@@ -585,6 +598,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UDmlskBaSdu1z8",
+    "name": "Kurtlar Vadisi",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0tNlEU2cUJ4"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "stream_urls": [],
@@ -653,8 +679,7 @@
     "nanoid": "D0c4Jvigf5dKNp",
     "name": "Mystery Science Theater 3000",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
-      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -685,9 +710,7 @@
       "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": true
   },
@@ -697,7 +720,7 @@
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8",
       "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8"
+      "https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

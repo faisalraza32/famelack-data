@@ -264,21 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Io7xRK2WVkGiOM",
-    "name": "DP World Tour",
-    "stream_urls": [
-      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
-      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
-      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "KGBMTUYjkdpD8D",
     "name": "DraftKings Network",
     "stream_urls": [
@@ -443,12 +428,26 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -613,6 +612,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5y6EYwtqdTyabX",
+    "name": "Jordan Sport",
+    "stream_urls": [
+      "https://93.184.10.248/JordanSport/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "jo",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "dytkqAKCNlVMHD",
     "name": "KCMN-LD 42.6",
     "stream_urls": [
@@ -663,19 +675,6 @@
       "ara"
     ],
     "country": "kw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "stream_urls": [
-      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -742,19 +741,6 @@
       "deu"
     ],
     "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yBJtUSwNk3MfD6",
-    "name": "Multivision Sports",
-    "stream_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -1165,7 +1151,6 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "stream_urls": [
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
@@ -1245,6 +1230,19 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NLxpS0aCx5evGr",
+    "name": "TennisChannel 2",
+    "stream_urls": [
+      "https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vtSycR8Kbn52EY",
@@ -1573,6 +1571,21 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Io7xRK2WVkGiOM",
+    "name": "World Poker Tour US",
+    "stream_urls": [
+      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
+      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "KfPyDEuOOc6z6o",

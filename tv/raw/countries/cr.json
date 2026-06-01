@@ -81,8 +81,7 @@
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -106,7 +105,6 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
       "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
@@ -379,6 +377,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TBkO2VeN8pxR9c",
+    "name": "TDtv",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "djrpK6AnIX1OhR",
     "name": "Tele Uno",
     "stream_urls": [
@@ -526,19 +537,6 @@
     "name": "VM Latino",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
