@@ -13,22 +13,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hdmBRZmUO8I"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "stream_urls": [
+      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
     ],
     "youtube_urls": [],
@@ -96,6 +84,19 @@
     "name": "Canal Educativo",
     "stream_urls": [
       "https://tv.picta.cu/educativo/educativo_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K3el31a2gq3vxi",
+    "name": "Canal Educativo 2",
+    "stream_urls": [
+      "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -898,7 +899,7 @@
     "name": "Nat Geo Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PApZ2oT5SuA"
+      "https://www.youtube-nocookie.com/embed/q5xC6wv9Ut0"
     ],
     "languages": [
       "eng"
@@ -1325,19 +1326,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JLRlLiosJOhAzH",
-    "name": "UMSA TVU Internacional",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fcllzx7ENtLcnw",
     "name": "UMSA TVU LP",
     "stream_urls": [
@@ -1348,6 +1336,45 @@
       "spa"
     ],
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "stream_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

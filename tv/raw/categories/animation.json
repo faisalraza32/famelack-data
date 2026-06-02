@@ -136,7 +136,7 @@
     "name": "Barney the Dinosaur",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7DvrgR_-bL8"
+      "https://www.youtube-nocookie.com/embed/qutuh9Olgq8"
     ],
     "languages": [
       "eng"
@@ -175,7 +175,7 @@
     "name": "Cartoon Network: We Bear Bears",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RXoDbwZmXV8"
+      "https://www.youtube-nocookie.com/embed/1gWobPUbW1o"
     ],
     "languages": [
       "eng"
@@ -302,6 +302,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BHktLaXb4NGD72",
+    "name": "Gong",
+    "stream_urls": [
+      "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5YtwjYlglp4KTy",
     "name": "Gumball",
     "stream_urls": [],
@@ -377,19 +390,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "stream_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -602,6 +602,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VUygLVykVOKbWL",
+    "name": "Placid East HD",
+    "stream_urls": [
+      "https://toy.vcdn.fyi/placid/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "scDZ3wRq1kFeHG",
     "name": "Pokémon",
     "stream_urls": [
@@ -734,11 +747,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pIMH6WPwb6VNHf",
+    "name": "SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "yua0MMLiJjjDoi",
     "name": "Talking Tom & Friends TV: Garfield",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/oV5gVoZQ7xU"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ul1MxG7pzChnBN",
+    "name": "Teenage Mutant Ninja Turtles: TMNT",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/qtW9lVhQatA"
     ],
     "languages": [
       "eng"

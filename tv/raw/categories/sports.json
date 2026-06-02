@@ -304,6 +304,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cF058Sx0L9pwW3",
+    "name": "Esport3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "Ps5SHG9loIy0eR",
     "name": "F1 Channel US",
     "stream_urls": [
@@ -545,6 +559,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jiXx4GsuxWDx57",
+    "name": "GEM Fit",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GZWR4WKfwfXc9w",
     "name": "Gol Classics",
     "stream_urls": [
@@ -705,19 +732,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "WjzlJmHsxUPxpZ",
-    "name": "MNB Sport",
-    "stream_urls": [
-      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mon"
-    ],
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GanSEAudCfBZ2t",
     "name": "Monterrico TV",
     "stream_urls": [
@@ -741,6 +755,19 @@
       "deu"
     ],
     "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yBJtUSwNk3MfD6",
+    "name": "Multivision Sports",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -844,7 +871,8 @@
     "name": "Pac-12 Insider",
     "stream_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1135,6 +1163,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e4huLQp9M80Lrf",
+    "name": "Sportitalia",
+    "stream_urls": [
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "L6xHaqwHEm1G78",
+    "name": "Sportitalia Solocalcio",
+    "stream_urls": [
+      "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "5ajptuhyjIdeFx",
     "name": "Sports Connect",
     "stream_urls": [
@@ -1202,6 +1257,19 @@
     ],
     "country": "cu",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RYfMxL6JZWi97a",
+    "name": "Teledeporte",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "QCubHZSGzvkAVk",
@@ -1473,7 +1541,7 @@
     "name": "WCW",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8nc3pS5mx7w"
+      "https://www.youtube-nocookie.com/embed/iWFnntuJ1QM"
     ],
     "languages": [
       "eng"
@@ -1592,7 +1660,7 @@
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yt-D6A6siVQ"
+      "https://www.youtube-nocookie.com/embed/AcUp74_9CbY"
     ],
     "languages": [
       "eng"

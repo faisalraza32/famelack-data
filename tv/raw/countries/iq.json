@@ -39,27 +39,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ccusPPeyj6EtkB",
-    "name": "Al Iraqia",
+    "nanoid": "3A2dDEUuoabDyM",
+    "name": "Al Iraqia Kurdish",
     "stream_urls": [
-      "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8"
+      "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
-    "stream_urls": [
-      "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -353,6 +340,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NA2Yy8jnyc36WT",
+    "name": "Marjaeyat TV Persian",
+    "stream_urls": [
+      "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "iq",
     "isGeoBlocked": false

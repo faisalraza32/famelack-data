@@ -293,7 +293,7 @@
     "name": "Boomerang: Tom & Jerry",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6a23sxk5_vM"
+      "https://www.youtube-nocookie.com/embed/j4rEV2OCRS4"
     ],
     "languages": [
       "eng"
@@ -359,7 +359,7 @@
     "name": "Cartoon Network Africa",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/44yhbmYcOPA"
+      "https://www.youtube-nocookie.com/embed/5lCDK0nZjt8"
     ],
     "languages": [
       "eng"
@@ -509,6 +509,20 @@
     ],
     "country": "in",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc4FxqftW4YwtA",
+    "name": "Clan",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hboH9AkWIrBLT1",
@@ -749,7 +763,7 @@
     "name": "Dr. Seuss",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0tLk2Nhy0zQ"
+      "https://www.youtube-nocookie.com/embed/0eJnWun3HzQ"
     ],
     "languages": [
       "eng"
@@ -822,6 +836,19 @@
       "spa"
     ],
     "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/W7JGN1xuSpk"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -905,19 +932,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "stream_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "stream_urls": [],
@@ -960,16 +974,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "stream_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_rzk2xj0cKs"
     ],
-    "youtube_urls": [],
     "languages": [
-      "ind"
+      "urd"
     ],
-    "country": "id",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -989,6 +1003,7 @@
     "nanoid": "0yjVBN9zD5VvoM",
     "name": "KiKA",
     "stream_urls": [
+      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
       "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
       "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
     ],
@@ -1265,7 +1280,7 @@
     "name": "Nicktoons",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xLC-PdO9sfs"
+      "https://www.youtube-nocookie.com/embed/cOVdQCNh8-o"
     ],
     "languages": [
       "eng"
@@ -1460,7 +1475,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Lk0zhpQiQxA"
+      "https://www.youtube-nocookie.com/embed/yBaYUrAWjQI"
     ],
     "languages": [
       "por"
@@ -1570,19 +1585,6 @@
       "jpn"
     ],
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yGvGiaCQVf0"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1757,11 +1759,37 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "W12MJtCI2qv2s8",
+    "name": "SpongeBob SquarePants Official",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uAwzNhSTuVs"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_PWrmfgKdRE"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Lo_a_unw6tQ"
+      "https://www.youtube-nocookie.com/embed/v38a68FyrHc"
     ],
     "languages": [
       "eng"
@@ -1774,7 +1802,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zWuQxjkVeAo"
+      "https://www.youtube-nocookie.com/embed/bHHnqd5pH0M"
     ],
     "languages": [
       "eng"
@@ -1787,13 +1815,27 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oS0mKVp5zEQ"
+      "https://www.youtube-nocookie.com/embed/gjAkAIleR58"
     ],
     "languages": [
       "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pIMH6WPwb6VNHf",
+    "name": "SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "99DtWOF0uOZLNA",
@@ -2156,8 +2198,7 @@
     "name": "ZooMoo",
     "stream_urls": [
       "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2184,7 +2225,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eDYLPMBhJWQ"
+      "https://www.youtube-nocookie.com/embed/z-KbRFLVBCE"
     ],
     "languages": [
       "zho"
