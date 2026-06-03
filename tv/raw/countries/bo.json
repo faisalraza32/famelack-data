@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "btaTHB02v7Y9B8",
-    "name": "F10 HD",
-    "stream_urls": [
-      "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "4r0QKfGoGD09Z7",
     "name": "FTV",
     "stream_urls": [
@@ -39,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hzi4nlNP3J2X8P",
+    "name": "Red CCTV",
+    "stream_urls": [
+      "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yLB43ge13jrHoP",
     "name": "Red TV Shop",
     "stream_urls": [
@@ -56,6 +56,19 @@
     "name": "RTP",
     "stream_urls": [
       "https://rtp.noxun.net/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JLRlLiosJOhAzH",
+    "name": "UMSA TVU Internacional",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -111,6 +124,19 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GMFO5ANQ5nEa2e",
+    "name": "UPEA TV",
+    "stream_urls": [
+      "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
     "country": "bo",
     "isGeoBlocked": false
   },

@@ -55,7 +55,8 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "stream_urls": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -164,19 +165,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -340,19 +328,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FOmh48Vhhwgsmx",
-    "name": "Ecovision",
-    "stream_urls": [
-      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -709,8 +684,7 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/1513/master.m3u8",
-      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+      "https://cdn-6.pishow.tv/live/1513/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -757,6 +731,19 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JLRlLiosJOhAzH",
+    "name": "UMSA TVU Internacional",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

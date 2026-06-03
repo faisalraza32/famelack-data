@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "stream_urls": [
-      "https://afbtv.siar.us/live/afbtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aGem6cqP5Ol9m7",
     "name": "Al Wafa Tarim",
     "stream_urls": [
@@ -120,6 +107,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KOhwshxakg9PIS",
+    "name": "Banjar TV",
+    "stream_urls": [
+      "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oc19gUQD1UBDsM",
     "name": "Banten TV",
     "stream_urls": [
@@ -131,6 +131,19 @@
     ],
     "country": "id",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kDaHVZDAifXqpe",
+    "name": "BeritaSatu",
+    "stream_urls": [
+      "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "cRaI25IFiA9iJp",
@@ -157,6 +170,19 @@
     ],
     "country": "id",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XPSVuVs1TyQFaN",
+    "name": "BTV",
+    "stream_urls": [
+      "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "u2sCANZ3ft5IKm",
@@ -263,19 +289,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Eg0R1qmDu85lEs",
-    "name": "Efarina TV",
-    "stream_urls": [
-      "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XgBmwiqwEZak5t",
     "name": "Elshinta TV",
     "stream_urls": [
@@ -315,6 +328,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iKRL8braCsStZJ",
+    "name": "Huma Betang TV",
+    "stream_urls": [
+      "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4XTEtIon4adh6d",
     "name": "Indonesiana.TV",
     "stream_urls": [
@@ -345,6 +371,19 @@
     "name": "Jogja TV",
     "stream_urls": [
       "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "stream_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -407,19 +446,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mSpavAreqc56SW",
-    "name": "Liputan6",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hImf46zpli0"
-    ],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ImH0HN1MdNlCn0",
     "name": "Madu TV",
     "stream_urls": [
@@ -475,12 +501,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AL5enZ9zRbuM0T",
+    "name": "MQTV",
+    "stream_urls": [
+      "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AdvqXD9VdsJSYL",
     "name": "MTA TV",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/2sQ0JdnrQ7Y"
     ],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L5BvWuf8rlqBr4",
+    "name": "Music Information Channel",
+    "stream_urls": [
+      "https://mic.siar.us/mic/live/mic.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ind"
     ],
@@ -675,7 +727,7 @@
     "name": "Serambinews",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dAfSmPPbAcI"
+      "https://www.youtube-nocookie.com/embed/xx-hZHpLfZw"
     ],
     "languages": [
       "ind"
