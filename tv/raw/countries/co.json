@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "stream_urls": [
-      "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KstfcDMjN0CcgR",
     "name": "Bendicion Channel",
     "stream_urls": [
@@ -162,6 +149,7 @@
     "nanoid": "HWwY0spLi6jDxU",
     "name": "Canal Mundo Vision",
     "stream_urls": [
+      "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
       "https://video.ejeserver.com/live/mundovisiontv.m3u8"
     ],
     "youtube_urls": [],
@@ -190,19 +178,6 @@
     "name": "Canal Oracion Con Son",
     "stream_urls": [
       "https://canal.mediaserver.com.co/live/oracionconson.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rbVGB4gc6vGSpJ",
-    "name": "Canal PyC",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -789,6 +764,19 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "BTUtiIKXJH39q3",

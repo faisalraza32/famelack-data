@@ -29,6 +29,7 @@
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "stream_urls": [
+      "https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -261,6 +262,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DGyLo10RdXeXNy",
+    "name": "News Central TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JnA8OWhLjtM"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D7CJtpvcn5aeRw",
     "name": "Nigbati",
     "stream_urls": [
@@ -391,10 +405,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bmxTZy6nlmaoMM",
-    "name": "Wazobia Max TV Port-Harcourt",
+    "nanoid": "UgWTds4qowCm7J",
+    "name": "Waffi TV",
     "stream_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
+      "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y3iniHuYhBuCQD",
+    "name": "Wap TV",
+    "stream_urls": [
+      "https://newproxy3.vidivu.tv/waptv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

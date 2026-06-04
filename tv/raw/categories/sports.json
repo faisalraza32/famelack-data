@@ -372,19 +372,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c9pnrtpK60eR4M",
     "name": "FITE 24/7",
     "stream_urls": [
@@ -635,19 +622,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ReX8AreJwWmYHR",
-    "name": "KSA Sports",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WQ-DooPm9W8"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
     "isGeoBlocked": false
   },
   {
@@ -1026,7 +1000,22 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znLSEaZWfm2KZE",
+    "name": "Red Bull TV",
+    "stream_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jHe1OEHTcksowX",
@@ -1247,6 +1236,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J7BmdiABqVkDMa",
+    "name": "T Sports",
+    "stream_urls": [
+      "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rewsLY5oFERqX5",
+    "name": "TAP Edge",
+    "stream_urls": [
+      "https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "4Me0RU4rvtok1Y",
     "name": "Tele Rebelde",
     "stream_urls": [
@@ -1290,8 +1305,7 @@
     "name": "Tennis Channel",
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1340,6 +1354,20 @@
     ],
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8sJgzboMg4ThSQ",
+    "name": "Trace Sport Stars",
+    "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "P1nM4FBKgqLCGY",
@@ -1526,19 +1554,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AuMbxXj62GSpIG",
-    "name": "W14DK-D 14.5",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "stream_urls": [],
@@ -1656,6 +1671,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8Ndns6qOA3E0TP",
+    "name": "WWE",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P05CMkI0Ipc"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KfPyDEuOOc6z6o",

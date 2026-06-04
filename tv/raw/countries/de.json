@@ -187,19 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dSBUaKYtXm09an",
-    "name": "Cira TV",
-    "stream_urls": [
-      "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kur"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6A5ze3h8nnCjde",
     "name": "Dark Monkey Music: Dark Minimal Techno Trip",
     "stream_urls": [],
@@ -216,7 +203,8 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "stream_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -260,6 +248,20 @@
     "youtube_urls": [],
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "stream_urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -406,17 +408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "stream_urls": [
-      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "stream_urls": [
@@ -440,6 +431,17 @@
       "deu",
       "tur"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6ftPsR4C1PTDrI",
+    "name": "Fluss Monster",
+    "stream_urls": [
+      "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1350,36 +1352,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "stream_urls": [
-      "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
-    "stream_urls": [
-      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

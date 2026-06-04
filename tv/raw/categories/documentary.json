@@ -331,6 +331,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FOmh48Vhhwgsmx",
+    "name": "Ecovision",
+    "stream_urls": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "stream_urls": [
@@ -654,19 +667,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RTД",
     "stream_urls": [
@@ -684,7 +684,8 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/1513/master.m3u8"
+      "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

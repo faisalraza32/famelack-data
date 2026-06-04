@@ -107,7 +107,6 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
       "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
@@ -314,19 +313,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "stream_urls": [
-      "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HYkbd92n6SC6wf",
     "name": "San Jose TV",
     "stream_urls": [
@@ -457,6 +443,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "stream_urls": [
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "stream_urls": [
@@ -500,19 +499,6 @@
     "name": "Vintage Music",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

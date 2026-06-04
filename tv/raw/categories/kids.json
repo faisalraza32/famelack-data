@@ -961,19 +961,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "stream_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "stream_urls": [
@@ -1052,6 +1039,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ecJrdAdmunHpWi",
+    "name": "Lale",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch77/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783084689&st=rPsumttSTQSUM-5DQx9lzw"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -1475,7 +1475,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0oJTmq9BRe8"
+      "https://www.youtube-nocookie.com/embed/9R2uqHKlb9g"
     ],
     "languages": [
       "por"
@@ -1663,19 +1663,6 @@
       "ara"
     ],
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KjF2Vl25g6IXPG",
-    "name": "Rubble & Crew",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iyT6KqNCK-0"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2064,6 +2051,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KGfXY9EKgCoeEb",
+    "name": "Universal Jr: Curious George",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_Xpg2EJunRI"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6i2Exc39Jo7dz5",
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "stream_urls": [],
@@ -2198,7 +2198,8 @@
     "name": "ZooMoo",
     "stream_urls": [
       "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2225,7 +2226,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kgD1sKN_G4c"
+      "https://www.youtube-nocookie.com/embed/q-k5t9z_oUQ"
     ],
     "languages": [
       "zho"
