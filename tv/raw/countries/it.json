@@ -233,19 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YuBy0QEyEVrO0O",
-    "name": "Calabria TV",
-    "stream_urls": [
-      "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "stream_urls": [
@@ -324,19 +311,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vrlS9LYggqZr3W",
-    "name": "Class CNBC",
-    "stream_urls": [
-      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "zY8UN9MRRHxEYy",
@@ -786,19 +760,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wzCVcOtwYxi096",
-    "name": "Love The Planet IT",
-    "stream_urls": [
-      "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "i0LMH6v3VomKrm",
     "name": "Luna TV",
     "stream_urls": [
@@ -981,19 +942,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "goJdBBUxKzhIiT",
-    "name": "Paradise TV",
-    "stream_urls": [
-      "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "stream_urls": [
@@ -1028,19 +976,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1233,8 +1168,7 @@
     "nanoid": "DDTD9YdlPl6Ady",
     "name": "Radio Italia Trend TV",
     "stream_urls": [
-      "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
-      "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+      "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1338,6 +1272,7 @@
     "nanoid": "Ow01MUb56XjNYI",
     "name": "Rai 1",
     "stream_urls": [
+      "https://srv1.adriatelekom.com/Rai1/index.m3u8",
       "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1427,10 +1362,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "7UK6GTwohWhEMF",
-    "name": "Rakuten TV Family Movies Italy",
+    "nanoid": "Dc2UvpAt3aRjGd",
+    "name": "Rakuten TV Top Movies Italy",
     "stream_urls": [
-      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+      "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1705,7 +1640,6 @@
     "name": "Sportitalia",
     "stream_urls": [
       "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1720,7 +1654,6 @@
     "name": "Sportitalia Solocalcio",
     "stream_urls": [
       "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-      "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
     ],
     "youtube_urls": [],

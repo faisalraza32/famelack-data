@@ -226,7 +226,9 @@
       "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
       "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XRHV-9m_WO4"
+    ],
     "languages": [
       "fas"
     ],
@@ -875,19 +877,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Vet8OV4cWOOk7Z",
-    "name": "IBC Bakthi",
-    "stream_urls": [
-      "https://ibc.massstream.net/IBC2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KgPGrtRlf7Ua6o",
     "name": "IBC Tamil",
     "stream_urls": [
@@ -917,6 +906,7 @@
     "nanoid": "9IlfLSM7VoPFbk",
     "name": "Inside Crime UK",
     "stream_urls": [
+      "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1065,7 +1055,6 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1254,6 +1243,7 @@
     "nanoid": "MDjiS0YoXPCIql",
     "name": "Mystery TV UK",
     "stream_urls": [
+      "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1545,6 +1535,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "stream_urls": [
+      "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "stream_urls": [
@@ -1696,7 +1699,8 @@
     "name": "Space Live powered by sen",
     "stream_urls": [
       "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
-      "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
+      "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+      "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1759,8 +1763,7 @@
     "name": "The Chat Show Channel",
     "stream_urls": [
       "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
-      "https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8"
+      "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
