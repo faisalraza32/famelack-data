@@ -84,7 +84,8 @@
     "name": "Are We There Yet?",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
-      "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8"
+      "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -201,32 +202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "stream_urls": [
@@ -269,7 +244,7 @@
     "name": "Deal or No Deal",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8",
-      "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
+      "https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8",
       "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8"
     ],
     "youtube_urls": [],
@@ -335,7 +310,8 @@
     "nanoid": "dQ9sIG5xcxVjIW",
     "name": "Dog the Bounty Hunter UK",
     "stream_urls": [
-      "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8"
+      "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8",
+      "https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -400,7 +376,8 @@
     "nanoid": "6DT2CZ9jL47ilp",
     "name": "Duck Dynasty UK",
     "stream_urls": [
-      "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -464,30 +441,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kLHHUDsRYmlBPL",
-    "name": "GEM Series",
+    "nanoid": "V1f6w7hVGBkZca",
+    "name": "Ghost Hunters UK",
     "stream_urls": [
-      "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202"
+      "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
+      "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fas"
+      "eng"
     ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jw404M5EjXQCzL",
-    "name": "GEM Series +",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "o7sYxVV5UOCp3h",
@@ -521,7 +487,9 @@
     "nanoid": "X0zblbZ45u2Fyw",
     "name": "Hell's Kitchen UK",
     "stream_urls": [
-      "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
+      "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
+      "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
+      "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -548,7 +516,8 @@
     "name": "Inside Crime UK",
     "stream_urls": [
       "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
-      "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
+      "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
+      "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -584,19 +553,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OOa4U9w_lQ4"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "stream_urls": [],
@@ -620,6 +576,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tdRees8XYenS7X",
+    "name": "McLeod's Daughters UK",
+    "stream_urls": [
+      "https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -665,8 +634,7 @@
     "nanoid": "D0c4Jvigf5dKNp",
     "name": "Mystery Science Theater 3000",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
-      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -680,7 +648,8 @@
     "name": "Mythbusters UK",
     "stream_urls": [
       "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
-      "https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8"
+      "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8",
+      "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

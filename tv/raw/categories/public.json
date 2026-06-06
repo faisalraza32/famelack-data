@@ -29,8 +29,7 @@
     "nanoid": "KB99Wa2uILCWk1",
     "name": "3Cat Exclusiu 1",
     "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
+      "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -45,20 +44,6 @@
     "stream_urls": [
       "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
       "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Kwb4zYk9mkeksQ",
-    "name": "3Cat Exclusiu 3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -193,9 +178,7 @@
       "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
       "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Jes7v5Mm0Jc"
-    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -274,8 +257,7 @@
     "nanoid": "cF058Sx0L9pwW3",
     "name": "Esport3",
     "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -283,6 +265,20 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ry2G3plOdgjsxG",
@@ -294,6 +290,19 @@
     "languages": [
       "eus",
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FoK0YKKb6b6lKd",
+    "name": "ETB1 On",
+    "stream_urls": [
+      "https://cdn1.etbon.eus/etb1on/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eus"
     ],
     "country": "es",
     "isGeoBlocked": false

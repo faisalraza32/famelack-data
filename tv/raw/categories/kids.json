@@ -787,6 +787,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G2NosoJRDb3Bwq",
+    "name": "Duronto TV",
+    "stream_urls": [
+      "https://tvsen5.aynaott.com/durontotv/index.m3u8",
+      "https://tvsen6.aynaott.com/durontotv-live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS Kids",
     "stream_urls": [
@@ -849,32 +863,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "94ltA5AGOAszOY",
-    "name": "GEM Junior",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LjXkD4kqM4OLiE",
-    "name": "GEM Kids",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -945,19 +933,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDJsRoJArkwgcL",
-    "name": "Jetix",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zgYwtgF-BX0"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ajXKejHqelybWn",
     "name": "Kartoon Channel!",
     "stream_urls": [
@@ -984,6 +959,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UaLfpNlZjmM"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1188,7 +1176,21 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EJkm2Jgew5xz6M",
+    "name": "Mr Bean Live Action",
+    "stream_urls": [
+      "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1212,7 +1214,9 @@
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "stream_urls": [
-      "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8"
+      "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1311,19 +1315,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VvHhOWwHL2G6fH",
-    "name": "NickToons Brasil",
-    "stream_urls": [
-      "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1496,19 +1487,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SkwDt1DzEdQq9",
-    "name": "Peppa Pig Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eZyaMxW8-dw"
-    ],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "58RSnZgHiw5v1T",
     "name": "Persiana Junior",
     "stream_urls": [
@@ -1611,6 +1589,19 @@
     ],
     "country": "jp",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6mEQRrMBqTxNoW",
+    "name": "Pop Up",
+    "stream_urls": [
+      "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LaJUiyDd3qErb2",
@@ -1920,7 +1911,8 @@
     "name": "Tiny Pop",
     "stream_urls": [
       "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2102,32 +2094,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G5NY2Fs2RexhNk",
-    "name": "WildBrain Çocuklar: Twirlywoos",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LZAszOd6pLQ"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DzSaJ2IkL30"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pZXtU4U56thuRO",
     "name": "WildBrain: Johnny Test",
     "stream_urls": [],
@@ -2138,32 +2104,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iJ655aUjhDEKUG",
-    "name": "WildBrain: Liberty's Kids",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fZV3Vk1MrwY"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "he2lOUztjAzsDr",
-    "name": "WildBrain: Teletubbies",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dutRMp1w7mQ"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2223,7 +2163,8 @@
     "name": "ZooMoo",
     "stream_urls": [
       "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2250,7 +2191,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ryxXts3jyqU"
+      "https://www.youtube-nocookie.com/embed/fh_9jjGyRVc"
     ],
     "languages": [
       "zho"

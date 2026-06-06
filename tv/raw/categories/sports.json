@@ -80,6 +80,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jNXaPsZ6srbCvO",
+    "name": "Arryadia",
+    "stream_urls": [
+      "https://stream-lb.livemediama.com/arryadia/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y4G6VFZuPlus4N",
+    "name": "Arryadia HD2",
+    "stream_urls": [
+      "https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u4klD4rXS0SuF5",
+    "name": "Arryadia HD3",
+    "stream_urls": [
+      "https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VEwkzfegp92NSy",
     "name": "Astrahan.Ru Sport",
     "stream_urls": [
@@ -294,8 +333,7 @@
     "nanoid": "cF058Sx0L9pwW3",
     "name": "Esport3",
     "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -303,6 +341,20 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Ps5SHG9loIy0eR",
@@ -344,6 +396,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WjfdMU5WtET4gX",
+    "name": "Fast&FunBox",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783249561&st=-CNEhLDi2VkEY_caCemBGQ"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SSm48TGJZ2ZZyq",
     "name": "FB TV",
     "stream_urls": [
@@ -369,6 +434,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRBUacm9msNRQ8",
+    "name": "Fight Network",
+    "stream_urls": [
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -519,19 +597,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jiXx4GsuxWDx57",
-    "name": "GEM Fit",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GZWR4WKfwfXc9w",
     "name": "Gol Classics",
     "stream_urls": [
@@ -649,19 +714,6 @@
       "ara"
     ],
     "country": "kw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "stream_urls": [
-      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1139,6 +1191,7 @@
     "name": "Sportitalia",
     "stream_urls": [
       "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1153,6 +1206,7 @@
     "name": "Sportitalia Solocalcio",
     "stream_urls": [
       "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+      "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1180,7 +1234,6 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1218,6 +1271,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TnYj2ZiJkibGxp",
+    "name": "Suspilne. Sport",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "idRoywP0TToz6k",
     "name": "Swerve Sports",
     "stream_urls": [
@@ -1236,6 +1302,7 @@
     "nanoid": "J7BmdiABqVkDMa",
     "name": "T Sports",
     "stream_urls": [
+      "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
       "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"
     ],
     "youtube_urls": [],
@@ -1339,20 +1406,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8sJgzboMg4ThSQ",
-    "name": "Trace Sport Stars",
-    "stream_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "P1nM4FBKgqLCGY",
@@ -1555,8 +1608,8 @@
     "name": "Willow Sports",
     "stream_urls": [
       "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
-      "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+      "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+      "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
