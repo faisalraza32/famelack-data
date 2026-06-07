@@ -1,17 +1,5 @@
 [
   {
-    "nanoid": "NCyclUeqsANS6K",
-    "name": "Cadena Radio Visión 770 AM",
-    "stream_urls": [
-      "https://radio.magozoft.com/;stream.mp3"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qkjggDqRWhDpw3",
     "name": "CJ Radio",
     "stream_urls": [
@@ -326,6 +314,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cn0iuYmBIicznu",
+    "name": "Radio Alegría",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org:10974/;stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QolqBH5ST168uf",
     "name": "Radio Amo la Música",
     "stream_urls": [
@@ -487,30 +487,6 @@
     "name": "Radio Chocolate",
     "stream_urls": [
       "https://stream.zeno.fm/g2w7ukzh64zuv"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g6VOP3DRMl6Yd7",
-    "name": "Radio Clásica",
-    "stream_urls": [
-      "https://sonicpanel.globalstream.pro/8042/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nDZaKvcuvZTgtU",
-    "name": "Radio Congreso",
-    "stream_urls": [
-      "https://vivo.miradio.in/8048/stream"
     ],
     "country": "pe",
     "languages": [
@@ -829,6 +805,18 @@
     "name": "Radio Frecuencia 100",
     "stream_urls": [
       "https://sp.oyotunstream.com/7066/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UOlZVDTX8Zc4mf",
+    "name": "Radio Frecuencia Popular",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org/7412/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1157,6 +1145,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3JU0Z0ReRjllIl",
+    "name": "Radio Laser",
+    "stream_urls": [
+      "https://conectperu.com/8078/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sOaCKC6N1zmT99",
     "name": "Radio Latidos",
     "stream_urls": [
@@ -1173,6 +1173,18 @@
     "name": "Radio Loreto",
     "stream_urls": [
       "https://sp.oyotunstream.com/8006/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9D2Hk0Yw7pPUZN",
+    "name": "Radio Madre de Dios",
+    "stream_urls": [
+      "https://tupanel.info:9000/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1209,9 +1221,9 @@
     "nanoid": "pIzJw6CSBBbeFU",
     "name": "Radio MegaMix",
     "stream_urls": [
-      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
       "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
-      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8"
+      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8",
+      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio"
     ],
     "country": "pe",
     "languages": [
@@ -1236,18 +1248,6 @@
     "name": "Radio Metropolitana",
     "stream_urls": [
       "https://maximacenterdata.com/8120/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BGbAJSAb1JpRk3",
-    "name": "Radio Milenia",
-    "stream_urls": [
-      "https://radio.pjcks.com/8020/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1377,6 +1377,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fujnRozA0u3cXd",
+    "name": "Radio Ondas del Huallaga",
+    "stream_urls": [
+      "https://cloud9.ldwebstudios.net:7005/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jTUHhmMLzQrFrW",
     "name": "Radio Ondas del Misti 1330 AM",
     "stream_urls": [
@@ -1405,6 +1417,18 @@
     "name": "Radio Panamericana",
     "stream_urls": [
       "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TYSt1L9zSkp687",
+    "name": "Radio Poder Inka 92.1 FM",
+    "stream_urls": [
+      "https://radio.livestreamingmundial.com:7094/live"
     ],
     "country": "pe",
     "languages": [
@@ -1509,10 +1533,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2Jdv4o6H2sLSAQ",
-    "name": "Radio Satélite (Ventanilla)",
+    "nanoid": "SHHuN32HhCBEF0",
+    "name": "Radio Shack Music",
     "stream_urls": [
-      "https://conectperu.com/8166/stream"
+      "https://c30.radioboss.fm:18415/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1521,10 +1545,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SHHuN32HhCBEF0",
-    "name": "Radio Shack Music",
+    "nanoid": "X8bJUXmIQPar5z",
+    "name": "Radio Sol de los Andes",
     "stream_urls": [
-      "https://c30.radioboss.fm:18415/stream"
+      "https://cloudstream2036.conectarhosting.com/8036/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1618,10 +1642,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ex3YdvqFI4XAkA",
+    "name": "Radio Synthpop",
+    "stream_urls": [
+      "https://radio.blueditor.com/8250/stream;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XAgMyUuykJQhbs",
     "name": "Radio Trinidad 1070 AM",
     "stream_urls": [
       "https://maximacenterdata.com/8056/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YjE4CXo1Rwm6oE",
+    "name": "Radio Un Hueco en el Espacio",
+    "stream_urls": [
+      "https://cloudstream2032.conectarhosting.com/8106/stream"
     ],
     "country": "pe",
     "languages": [
@@ -1769,18 +1817,6 @@
     "stream_urls": [
       "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
       "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AETt9hrnSVHOni",
-    "name": "RPP Noticias",
-    "stream_urls": [
-      "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
     ],
     "country": "pe",
     "languages": [

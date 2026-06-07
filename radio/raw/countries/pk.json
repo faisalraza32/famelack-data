@@ -14,6 +14,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k77xh91crYL7Tt",
+    "name": "City FM 89",
+    "stream_urls": [
+      "https://radio.cityfm89.com/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u2IYiUT7n0wTKp",
     "name": "DC Naat Radio",
     "stream_urls": [
@@ -62,30 +75,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MNrCqySYBZmzBy",
-    "name": "FM 93 Karachi",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7022/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M3hOuw7wszI1GQ",
-    "name": "FM 93 Lahore",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:8088/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pdErMkeZE1t7gU",
     "name": "FM 93 Mianwali",
     "stream_urls": [
@@ -122,49 +111,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FkKc5ACspwpNJ8",
-    "name": "FM 101 Islamabad",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7008/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "eng",
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FKfRnIHFQYLzoW",
-    "name": "FM 101 Karachi",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:8048/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "eng",
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3tETNHeuHx6UOr",
     "name": "FM 101 Khairpur",
     "stream_urls": [
       "https://whmsonic.radio.gov.pk:8054/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "eng",
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F6nshPLuEFTyzV",
-    "name": "FM 101 Larkana",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:8050/stream"
     ],
     "country": "pk",
     "languages": [
@@ -182,18 +132,6 @@
     "country": "pk",
     "languages": [
       "eng",
-      "urd"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HXRGic6bfAkJWn",
-    "name": "FM 101 Peshawar",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:8070/relay"
-    ],
-    "country": "pk",
-    "languages": [
       "urd"
     ],
     "isGeoBlocked": false
@@ -251,10 +189,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OnrYw7uaH1gp39",
-    "name": "NCAC Radio Pakistan",
+    "nanoid": "WOStKjKTJv8IqB",
+    "name": "Radio Pakistan External Service",
     "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7004/stream"
+      "https://whmsonic.radio.gov.pk:7006/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MNrCqySYBZmzBy",
+    "name": "Radio Pakistan FM 93 Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7022/stream"
     ],
     "country": "pk",
     "languages": [
@@ -263,13 +214,154 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4l1d0pGJgDSBxu",
-    "name": "Radio Pakistan D.I. Khan",
+    "nanoid": "M3hOuw7wszI1GQ",
+    "name": "Radio Pakistan FM 93 Lahore",
     "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7000/Dikhan"
+      "https://whmsonic.radio.gov.pk:8088/stream"
     ],
     "country": "pk",
     "languages": [
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qvLpUf7CPk1O4v",
+    "name": "Radio Pakistan FM 93 Multan",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7014/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uw6GGOKmhZC7aO",
+    "name": "Radio Pakistan FM 101 Abbottabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8064/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pus",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AHqbVBkrm2okrH",
+    "name": "Radio Pakistan FM 101 Bahawalpur",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8020/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YLncl4PlP6as41",
+    "name": "Radio Pakistan FM 101 Faisalabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8024/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRMVhASYgV9gkb",
+    "name": "Radio Pakistan FM 101 Hyderabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8044/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "snd",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FkKc5ACspwpNJ8",
+    "name": "Radio Pakistan FM 101 Islamabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7008/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FKfRnIHFQYLzoW",
+    "name": "Radio Pakistan FM 101 Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8048/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3VhlmOjC8nkhum",
+    "name": "Radio Pakistan FM 101 Mirpur",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8078/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HXRGic6bfAkJWn",
+    "name": "Radio Pakistan FM 101 Peshawar",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8070/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4Jm6S9LkphwFJc",
+    "name": "Radio Pakistan FM 101 Quetta",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8058/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "bal",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJ8a9JchfUgs2Q",
+    "name": "Radio Pakistan FM 101 Sialkot",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8038/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
       "urd"
     ],
     "isGeoBlocked": false
@@ -301,10 +393,61 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYw14fqsVCRg51",
+    "name": "Radio Pakistan Khuzdar MW 567",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8062/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "bal",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "00mY7YvJDF8aan",
+    "name": "Radio Pakistan Lahore",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8026/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oPIWmeju0WIMJ",
     "name": "Radio Pakistan Multan",
     "stream_urls": [
       "https://whmsonic.radio.gov.pk:8034/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ssd7R4vQVLt1jE",
+    "name": "Radio Pakistan MW Bahawalpur",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8092/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "pan",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OnrYw7uaH1gp39",
+    "name": "Radio Pakistan NCAC",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7004/stream"
     ],
     "country": "pk",
     "languages": [
@@ -326,6 +469,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EbvbtLexYlIiSO",
+    "name": "Radio Pakistan Planet FM 87.6",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7042/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "baXnOQGdwmvSkU",
     "name": "Radio Pakistan Quetta",
     "stream_urls": [
@@ -339,10 +495,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IfYnY2PIZHlZ6S",
-    "name": "Radio Pakistan World Service",
+    "nanoid": "sdMY4flbuIK1i6",
+    "name": "Radio Pakistan Saut-ul-Quran",
     "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7005/stream"
+      "https://whmsonic.radio.gov.pk:7002/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "ara",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pzEskutmOCNZZv",
+    "name": "Radio Pakistan Sports & Health Channel",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7007/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1wjIVgHSmE3mQa",
+    "name": "Radio Pakistan Trarkhal",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8076/relay"
     ],
     "country": "pk",
     "languages": [
@@ -351,14 +533,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sdMY4flbuIK1i6",
-    "name": "Saut Ul Quran",
+    "nanoid": "IfYnY2PIZHlZ6S",
+    "name": "Radio Pakistan World Service",
     "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7002/stream"
+      "https://whmsonic.radio.gov.pk:7005/stream"
     ],
     "country": "pk",
     "languages": [
-      "ara",
       "urd"
     ],
     "isGeoBlocked": false

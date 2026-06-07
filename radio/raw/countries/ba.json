@@ -222,8 +222,8 @@
     "nanoid": "UZzy9shvznSDWc",
     "name": "Kontakt Radio",
     "stream_urls": [
-      "https://mojstream.eu:8114/kontaktradio",
-      "https://s1.mojstream.eu:8114/;"
+      "https://s1.mojstream.eu:8114/;",
+      "https://mojstream.eu:8114/kontaktradio"
     ],
     "country": "ba",
     "languages": [
@@ -568,6 +568,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y2oaeoXmQCpRgL",
+    "name": "Radio Goražde",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TjzT0ktgHfO3tn",
     "name": "Radio Gračanica",
     "stream_urls": [
@@ -885,6 +897,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "r8B5zEM6ARqVfU",
+    "name": "Radio Sehara",
+    "stream_urls": [
+      "https://cast.name.ba:8000/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xU2mutBeKWS22Z",
     "name": "Radio Slobodna Evropa",
     "stream_urls": [
@@ -990,6 +1014,18 @@
     "country": "ba",
     "languages": [
       "bos"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "puutpY6aptdQ5t",
+    "name": "Radio Usora",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_usora.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "hrv"
     ],
     "isGeoBlocked": false
   },

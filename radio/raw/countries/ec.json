@@ -217,18 +217,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "piUfiQy1ST9UnR",
-    "name": "Expresión FM",
-    "stream_urls": [
-      "https://usa3.lhdserver.es:8031/stream"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xQgIXanZJVr8xV",
     "name": "FB Radio",
     "stream_urls": [
@@ -386,18 +374,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZEOC0IV4GT2Ixa",
-    "name": "La Dura",
-    "stream_urls": [
-      "https://stream.zeno.fm/qtta8cpyd0quv"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i3yYumZevT3ybc",
     "name": "La Main Street",
     "stream_urls": [
@@ -475,8 +451,8 @@
     "nanoid": "a2VkRIpWSKrUa0",
     "name": "La Voz del Tomebamba",
     "stream_urls": [
-      "https://streamingecuador.com:8074/lavozdeltomebamba",
-      "https://streamingecuador.net:8074/lavozdeltomebamba"
+      "https://streamingecuador.net:8074/lavozdeltomebamba",
+      "https://streamingecuador.com:8074/lavozdeltomebamba"
     ],
     "country": "ec",
     "languages": [
@@ -501,6 +477,18 @@
     "name": "LV Radio Satelital",
     "stream_urls": [
       "https://stream.zeno.fm/ech627b6u18uv"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "stream_urls": [
+      "https://ss.ecuastreamhd.com:8186/stream"
     ],
     "country": "ec",
     "languages": [
@@ -655,18 +643,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TWrzk6AhWmG8PN",
-    "name": "Radio Amazonas",
-    "stream_urls": [
-      "https://dattavolt.com/8346/stream"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EqGPqZsjJyuZSF",
     "name": "Radio Andina",
     "stream_urls": [
@@ -742,9 +718,9 @@
     "nanoid": "fcqrn2hpazFR6c",
     "name": "Radio Canela",
     "stream_urls": [
+      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
       "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-      "https://canelaradio.makrodigital.com/stream/canelaradioquito",
-      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
+      "https://canelaradio.makrodigital.com:9280/stream"
     ],
     "country": "ec",
     "languages": [

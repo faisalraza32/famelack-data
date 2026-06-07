@@ -110,10 +110,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xDXcMi9n5RKCuA",
-    "name": "Christmas FM Classics & Crooners",
+    "nanoid": "BcpSzWbWE8Q4Y9",
+    "name": "Christmas FM Classical & Carols",
     "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2550_128.mp3"
+      "https://christmasfm.cdnstream1.com/2549_64.aac",
+      "https://christmasfm.cdnstream1.com/2549_128.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -182,18 +183,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eoUrH3mkbZCEMb",
-    "name": "Deep House Radio",
-    "stream_urls": [
-      "https://streaming.shoutcast.com/dhr"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xgULJTh8q1MoMK",
     "name": "Deise Christmas Radio",
     "stream_urls": [
@@ -242,18 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pa2GTrOnXf5c9j",
-    "name": "Dublin's 98FM Dance",
-    "stream_urls": [
-      "https://edge.audioxi.com/98DANCE"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sE9X0S8SNrA6fy",
     "name": "Dublin's FM104",
     "stream_urls": [
@@ -284,19 +261,6 @@
     "name": "Dublin's Q102 80s",
     "stream_urls": [
       "https://wg.cdn.tibus.net/Q10280s"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ISQoHh139wZ69F",
-    "name": "Dunnes Radio",
-    "stream_urls": [
-      "https://stream.dunnesroblox.com/dunnesradio.mp3",
-      "https://icy-zurich.mpbnl.nl/dunnesradio.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -357,8 +321,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradionw.radioca.st/;stream.nsv",
-      "https://gemradio.radioca.st/stream/1"
+      "https://gemradio.radioca.st/stream/1",
+      "https://gemradionw.radioca.st/;stream.nsv"
     ],
     "country": "ie",
     "languages": [
@@ -431,8 +395,8 @@
     "nanoid": "LbCCxSyc2HgGC9",
     "name": "iRadio",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/IRADNWAAC",
-      "https://live-bauerie.sharp-stream.com/IRADNW"
+      "https://live-bauerie.sharp-stream.com/IRADNW",
+      "https://live-bauerie.sharp-stream.com/IRADNWAAC"
     ],
     "country": "ie",
     "languages": [
@@ -591,30 +555,6 @@
     "name": "MPB Radio 2 90s & 00s",
     "stream_urls": [
       "https://sc.mpbnl.nl/radio2-90s00s.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1pJoOJKbArEWg2",
-    "name": "MPB Radio 2 Christmas",
-    "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BjlPcSl3jYYqNy",
-    "name": "MPB Radio 2 Easy",
-    "stream_urls": [
-      "https://sc.mpbnl.nl/radio2easy.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -882,8 +822,8 @@
     "nanoid": "mfS4owe17ioU6d",
     "name": "Radio Nova",
     "stream_urls": [
-      "https://stream.audioxi.com/NOVA",
-      "https://edge2.audioxi.com/NOVA"
+      "https://edge2.audioxi.com/NOVA",
+      "https://stream.audioxi.com/NOVA"
     ],
     "country": "ie",
     "languages": [
@@ -921,8 +861,8 @@
     "nanoid": "9J67KkobCQXYss",
     "name": "Raidió Rí-Rá",
     "stream_urls": [
-      "https://icy-zurich.mpbnl.nl/rrr",
-      "https://uksoutha.streaming.broadcast.radio/ri-ra"
+      "https://uksoutha.streaming.broadcast.radio/ri-ra",
+      "https://icy-zurich.mpbnl.nl/rrr"
     ],
     "country": "ie",
     "languages": [
@@ -1008,9 +948,9 @@
     "nanoid": "3QrHj4eie1hoFp",
     "name": "RTÉ Radio 1",
     "stream_urls": [
+      "https://icecast1.rte.ie/radio1",
       "https://icecast.rte.ie/ieradio1",
-      "https://icecast.rte.ie/radio1",
-      "https://icecast1.rte.ie/radio1"
+      "https://icecast.rte.ie/radio1"
     ],
     "country": "ie",
     "languages": [
@@ -1059,8 +999,8 @@
     "nanoid": "cm4HYwkAc0o747",
     "name": "Solid Gold Radio Ireland",
     "stream_urls": [
-      "https://az11.yesstreaming.net:8020/radio.mp3",
-      "https://a1.asurahosting.com:10000/radio.mp3"
+      "https://a1.asurahosting.com:10000/radio.mp3",
+      "https://az11.yesstreaming.net:8020/radio.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -1097,8 +1037,8 @@
     "nanoid": "yIE7HPksTvGqA4",
     "name": "SPIN South West",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/SW",
       "https://edge.audioxi.com/SW",
+      "https://live-bauerie.sharp-stream.com/SW",
       "https://stream.audioxi.com/SW"
     ],
     "country": "ie",
@@ -1183,8 +1123,8 @@
     "nanoid": "R0hzPW9rfDKvmm",
     "name": "Today FM",
     "stream_urls": [
-      "https://pri.gocaster.net/td",
       "https://edge.audioxi.com/TDAAC",
+      "https://pri.gocaster.net/td",
       "https://live-bauerie.sharp-stream.com/TDAAC"
     ],
     "country": "ie",
@@ -1260,18 +1200,6 @@
     "name": "West Limerick 102 FM",
     "stream_urls": [
       "https://s29.myradiostream.com/17796/listen.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rRNc82JSVx3uuH",
-    "name": "West Side Radio",
-    "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/westsideradio.mp3"
     ],
     "country": "ie",
     "languages": [

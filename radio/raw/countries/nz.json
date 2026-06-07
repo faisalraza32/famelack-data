@@ -172,6 +172,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7dNMc8FQvaNbCu",
+    "name": "CFM Coromandel",
+    "stream_urls": [
+      "https://stream.cfm.co.nz/low"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NCb5FXyvwm2n0m",
     "name": "Channel X",
     "stream_urls": [
@@ -232,19 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U4x54BzKeJmnMT",
-    "name": "East FM",
-    "stream_urls": [
-      "https://listen.eastfm.nz/stream.aac",
-      "https://listen.eastfm.nz/stream-aac-64"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ii1nixrGt8GBWY",
     "name": "Free FM 89",
     "stream_urls": [
@@ -273,18 +272,6 @@
     "name": "Gaia FM 106.9",
     "stream_urls": [
       "https://s2.stationplaylist.com:9000/gaiafm.aac"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "koo3aQCxPXn3bd",
-    "name": "Galaxy 107 FM",
-    "stream_urls": [
-      "https://s39.myradiostream.com:14858/;listen.mp3"
     ],
     "country": "nz",
     "languages": [
@@ -547,6 +534,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T3z1rxtgUtfMmu",
+    "name": "New Zealand Net Radio",
+    "stream_urls": [
+      "https://radio.nznetradio.net.nz/stream3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9aZ0SylzyKtDWi",
     "name": "Newstalk ZB",
     "stream_urls": [
@@ -563,8 +562,7 @@
     "nanoid": "SFor0fpXuXgdk5",
     "name": "Niu FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
     ],
     "country": "nz",
     "languages": [
@@ -725,18 +723,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hSdUFZCB9iUAKM",
-    "name": "Radio Hydra",
-    "stream_urls": [
-      "https://streaming.radio.co/sed9109681/listen"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M27xaeYTV0fcek",
     "name": "Radio Kahungunu",
     "stream_urls": [
@@ -836,20 +822,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T39F2PCWeuPaiM",
-    "name": "Radio Spice 88.0",
-    "stream_urls": [
-      "https://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng",
-      "hin",
-      "pan"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v0DdlJiplylZbk",
     "name": "Radio Te Aroha 88 FM",
     "stream_urls": [
@@ -890,7 +862,6 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream-aac",
-      "https://stream.radiowavenz.com/stream-aac-low",
       "https://stream.radiowavenz.com/stream"
     ],
     "country": "nz",
@@ -986,6 +957,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgF5LqeXyEmgv2",
+    "name": "SENZ",
+    "stream_urls": [
+      "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g68UfJ8DWZUkUJ",
     "name": "Ski FM",
     "stream_urls": [
@@ -1073,8 +1056,8 @@
     "nanoid": "CVJfsdRECGySzJ",
     "name": "The Cheese",
     "stream_urls": [
-      "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
-      "https://station.thecheese.co.nz/listen/the_cheese/flac"
+      "https://station.thecheese.co.nz/listen/the_cheese/flac",
+      "https://station.thecheese.co.nz/listen/the_cheese/128.mp3"
     ],
     "country": "nz",
     "languages": [

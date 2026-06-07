@@ -222,8 +222,8 @@
     "nanoid": "cEMqZoA6NWMAuo",
     "name": "Naxi 70e Radio",
     "stream_urls": [
-      "https://naxidigital-70s128ssl.streaming.rs:8042/;",
-      "https://naxidigital-70s128ssl.streaming.rs:8382/;"
+      "https://naxidigital-70s128ssl.streaming.rs:8382/;",
+      "https://naxidigital-70s128ssl.streaming.rs:8042/;"
     ],
     "country": "rs",
     "languages": [
@@ -619,8 +619,8 @@
     "nanoid": "6wAzqt3Iy6gtX3",
     "name": "OK Radio",
     "stream_urls": [
-      "https://live7.okradio.net/;*.mp3",
-      "https://sslstream.okradio.net/;"
+      "https://sslstream.okradio.net/;",
+      "https://live7.okradio.net/;*.mp3"
     ],
     "country": "rs",
     "languages": [
@@ -936,7 +936,7 @@
     "nanoid": "pLRNxcAQsYBm5Z",
     "name": "Radio D59B",
     "stream_urls": [
-      "https://n02.radiojar.com/gn6dqzhf9mzuv"
+      "https://n13.radiojar.com/gn6dqzhf9mzuv"
     ],
     "country": "rs",
     "languages": [
@@ -997,8 +997,8 @@
     "nanoid": "aUamrju8pOLqrE",
     "name": "Radio JAT",
     "stream_urls": [
-      "https://streaming.tdiradio.com/radiojat.mp3",
-      "https://streaming.radiojat.rs/radiojat.mp3"
+      "https://streaming.radiojat.rs/radiojat.mp3",
+      "https://streaming.tdiradio.com/radiojat.mp3"
     ],
     "country": "rs",
     "languages": [
@@ -1226,6 +1226,7 @@
     "nanoid": "MODEZwzb910YxQ",
     "name": "Radio S1",
     "stream_urls": [
+      "https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8",
       "https://stream.radios.rs:9000/;"
     ],
     "country": "rs",
@@ -1239,18 +1240,6 @@
     "name": "Radio S2 Index",
     "stream_urls": [
       "https://stream.radios.rs:9002/;"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jlw7EKYlKirj0T",
-    "name": "Radio S3",
-    "stream_urls": [
-      "https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8"
     ],
     "country": "rs",
     "languages": [

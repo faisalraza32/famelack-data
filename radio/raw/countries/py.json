@@ -36,6 +36,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pssv4usQFa3UqM",
+    "name": "Cuevas 91.7 FM",
+    "stream_urls": [
+      "https://radio.host.com.py:7020/;"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oWsPBMkOV6q2rb",
     "name": "Emisoras Paraguay 106.1 FM",
     "stream_urls": [
@@ -127,8 +139,8 @@
     "nanoid": "YEl99OpnWuw123",
     "name": "Palma FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8",
-      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf"
+      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
+      "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -173,11 +185,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BJRsGuXBvxeXUn",
+    "name": "Radio Aranduka 87.9 FM",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gI5zcm2dLzpzhM",
     "name": "Radio Aspen 102.7 FM",
     "stream_urls": [
-      "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
-      "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
+      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -261,8 +287,8 @@
     "nanoid": "vDsXy8hCCki9eH",
     "name": "Radio Monumental 1080 AM",
     "stream_urls": [
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
-      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
+      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
     ],
     "country": "py",
     "languages": [
@@ -275,18 +301,6 @@
     "name": "Radio Tapiracuai 88.7 FM",
     "stream_urls": [
       "https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J3WhGO82DCbCuF",
-    "name": "Radio Top Milenium 91.5 FM",
-    "stream_urls": [
-      "https://sonic.host-live.com:8398/stream"
     ],
     "country": "py",
     "languages": [
@@ -323,20 +337,7 @@
     "nanoid": "EZ8TWLFdGNrszq",
     "name": "Radio Vibras 92.7 FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
-      "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3mBL9FrHTM2x3h",
-    "name": "Rock & Pop 95.5 FM",
-    "stream_urls": [
-      "https://cp9.serverse.com/proxy/rockandpop/stream"
+      "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [

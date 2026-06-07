@@ -3,8 +3,8 @@
     "nanoid": "XMP88wqVNzoQc0",
     "name": "4Drive Jazz",
     "stream_urls": [
-      "https://radio.streemlion.com:4870/stream",
-      "https://radio.streemlion.com:1150/stream"
+      "https://radio.streemlion.com:1150/stream",
+      "https://radio.streemlion.com:4870/stream"
     ],
     "country": "pt",
     "languages": [
@@ -30,8 +30,7 @@
     "name": "Antena 1",
     "stream_urls": [
       "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
-      "https://radiocast.rtp.pt/antena180a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena180a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -185,8 +184,8 @@
     "nanoid": "MxQJkGHsoK3t56",
     "name": "Cidade FM",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/cidade.mp3",
-      "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+      "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8",
+      "https://stream-icy.bauermedia.pt/cidade.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -284,8 +283,8 @@
     "nanoid": "GHkAziDKCMY6Cu",
     "name": "Jovembsk",
     "stream_urls": [
-      "https://stream-42.zeno.fm/ppgb4k7vhqztv",
-      "https://stream-54.zeno.fm/ppgb4k7vhqztv"
+      "https://stream-54.zeno.fm/ppgb4k7vhqztv",
+      "https://stream-42.zeno.fm/ppgb4k7vhqztv"
     ],
     "country": "pt",
     "languages": [
@@ -327,6 +326,18 @@
     "country": "pt",
     "languages": [
       "eng",
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hLVATr5wv6xEDf",
+    "name": "M80 60's",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m8060.aac"
+    ],
+    "country": "pt",
+    "languages": [
       "por"
     ],
     "isGeoBlocked": false
@@ -392,10 +403,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GWelh2hVE7JgZR",
-    "name": "M80 Pop",
+    "nanoid": "dduCZu025BRKGL",
+    "name": "M80 Indie",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/m80pop.aac"
+      "https://stream-icy.bauermedia.pt/m80indie.aac"
     ],
     "country": "pt",
     "languages": [
@@ -457,18 +468,6 @@
     "name": "Manitu Rock Radio",
     "stream_urls": [
       "https://radio.streemlion.com:4515/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "STUVJupnDRMDFw",
-    "name": "Mega Hits",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC"
     ],
     "country": "pt",
     "languages": [
@@ -658,18 +657,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "urxuhEfRlsN8o5",
-    "name": "Rádio Comercial Dance",
-    "stream_urls": [
-      "https://stream-icy.bauermedia.pt/rcdance.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3XuqN1iCdANYSY",
     "name": "Rádio Comercial Kids",
     "stream_urls": [
@@ -697,8 +684,8 @@
     "nanoid": "boWOt26TC6q0pa",
     "name": "Rádio Comercial Portugal",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/comercial.mp3",
-      "https://stream-icy.bauermedia.pt/rctuga.aac"
+      "https://stream-icy.bauermedia.pt/rctuga.aac",
+      "https://stream-icy.bauermedia.pt/comercial.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -851,19 +838,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "80IqJ78pCklUgA",
-    "name": "Rádio Meio Do Mato",
-    "stream_urls": [
-      "https://radio.meiodomato.com/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "eng",
-      "por"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xGr7c7cifd63nC",
     "name": "Radio Metal On: 80s HNH",
     "stream_urls": [
@@ -961,9 +935,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b5HAHEwbuM3UrV",
+    "name": "Rádio Nova Antena",
+    "stream_urls": [
+      "https://radios2.justweb.pt:8068/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vCuAv5zurcpTvK",
     "name": "Rádio Observador",
     "stream_urls": [
+      "https://streamingv2.shoutcast.com/observador_64.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
     ],
     "country": "pt",
@@ -989,6 +976,18 @@
     "name": "Rádio Palmeira 96.1 FM",
     "stream_urls": [
       "https://audio.serv.pt/8018/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S61CVxYvlZsBY6",
+    "name": "Rádio Paralelo",
+    "stream_urls": [
+      "https://radioparalelo.indymedia.pt:8443/main.ogg"
     ],
     "country": "pt",
     "languages": [
@@ -1036,8 +1035,8 @@
     "nanoid": "PrmXwsl8NF1DAK",
     "name": "Rádio Renascença",
     "stream_urls": [
-      "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
+      "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
     ],
     "country": "pt",
@@ -1136,6 +1135,7 @@
     "nanoid": "JEgpaVKwVyUdzm",
     "name": "RDP África",
     "stream_urls": [
+      "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8",
       "https://radiocast.rtp.pt/rdpafrica80a.mp3"
     ],
     "country": "pt",
@@ -1209,9 +1209,9 @@
     "nanoid": "TqW2YbOKjZsQkK",
     "name": "RFM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
       "https://22593.live.streamtheworld.com/RFMAAC.aac",
-      "https://23603.live.streamtheworld.com/RFMAAC.aac"
+      "https://23603.live.streamtheworld.com/RFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac"
     ],
     "country": "pt",
     "languages": [
@@ -1309,8 +1309,8 @@
     "nanoid": "udeRld8MAPWNMq",
     "name": "RFM Oceano Pacífico",
     "stream_urls": [
-      "https://27943.live.streamtheworld.com/RFMAAC.aac",
-      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
+      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac",
+      "https://27943.live.streamtheworld.com/RFMAAC.aac"
     ],
     "country": "pt",
     "languages": [

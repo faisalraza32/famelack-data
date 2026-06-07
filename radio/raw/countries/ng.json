@@ -220,18 +220,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gVncAEm8dCJgiV",
-    "name": "Kcity Radio",
-    "stream_urls": [
-      "https://radio.gotright.net/radio/8010/radio.mp3"
-    ],
-    "country": "ng",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdNKFbH9Kwv9LI",
     "name": "Konga FM",
     "stream_urls": [
@@ -271,12 +259,24 @@
     "nanoid": "tIwl6kBmH1Ius9",
     "name": "Metro FM",
     "stream_urls": [
-      "https://go.webgateready.com/metrofm/radio.mp3",
-      "https://go.webgateready.com/metrofm"
+      "https://go.webgateready.com/metrofm",
+      "https://go.webgateready.com/metrofm/radio.mp3"
     ],
     "country": "ng",
     "languages": [
       "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JZhES3PacaZTLP",
+    "name": "Nagari Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/287z97ksdg8uv"
+    ],
+    "country": "ng",
+    "languages": [
+      "hau"
     ],
     "isGeoBlocked": false
   },

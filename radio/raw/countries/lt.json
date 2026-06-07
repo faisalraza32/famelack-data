@@ -76,8 +76,8 @@
     "nanoid": "6Pz7JeWO758ZYA",
     "name": "Laluna",
     "stream_urls": [
-      "https://radio.m-1.fm/laluna/mp3",
-      "https://radio.m-1.fm/laluna/high"
+      "https://radio.m-1.fm/laluna/high",
+      "https://radio.m-1.fm/laluna/mp3"
     ],
     "country": "lt",
     "languages": [
@@ -228,9 +228,9 @@
     "nanoid": "NcXLLaWVfxabpA",
     "name": "Power Hit Radio",
     "stream_urls": [
+      "https://ice.leviracloud.eu/phr192-mp3",
       "https://ice2.powerhitradio.lt/PHR_AAC",
-      "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv",
-      "https://ice.leviracloud.eu/phr192-mp3"
+      "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
     ],
     "country": "lt",
     "languages": [
@@ -257,6 +257,18 @@
     "name": "Pulsas",
     "stream_urls": [
       "https://pulsas.lt/stream"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uQPWTmycvESPoc",
+    "name": "RA-8",
+    "stream_urls": [
+      "https://stream.zeno.fm/aae76827qtzuv"
     ],
     "country": "lt",
     "languages": [
@@ -293,8 +305,8 @@
     "nanoid": "KMN4K1XaYHy8yJ",
     "name": "Radiocentras",
     "stream_urls": [
-      "https://stream2.rockfm.lt/crf128.mp3",
-      "https://stream2.rc.lt/rc128.mp3"
+      "https://stream2.rc.lt/rc128.mp3",
+      "https://stream2.rockfm.lt/crf128.mp3"
     ],
     "country": "lt",
     "languages": [

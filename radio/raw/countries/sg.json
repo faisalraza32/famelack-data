@@ -40,8 +40,9 @@
     "nanoid": "4y2s0iWYqCFx80",
     "name": "987FM",
     "stream_urls": [
-      "https://14033.live.streamtheworld.com/987FM_SC",
-      "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+      "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+      "https://14033.live.streamtheworld.com/987FM_SC"
     ],
     "country": "sg",
     "languages": [
@@ -99,6 +100,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SDt2Uuvgcu03kR",
+    "name": "Capital 958",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "zho"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KrH1tkrDgiM1jE",
+    "name": "Class 95",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y96W4g8oiKIBCT",
     "name": "CNA (Channel News Asia)",
     "stream_urls": [
@@ -115,8 +142,8 @@
     "name": "CNA938",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
-      "https://28323.live.streamtheworld.com/938NOW_PREM_SC",
-      "https://28453.live.streamtheworld.com/938NOW_PREM_SC"
+      "https://22393.live.streamtheworld.com/938NOW_PREM_SC",
+      "https://22893.live.streamtheworld.com/938NOW_PREM_SC"
     ],
     "country": "sg",
     "languages": [
@@ -128,7 +155,9 @@
     "nanoid": "GwJhya1PpQmXPS",
     "name": "Gold 905",
     "stream_urls": [
-      "https://22403.live.streamtheworld.com/GOLD905_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
+      "https://22403.live.streamtheworld.com/GOLD905_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac"
     ],
     "country": "sg",
     "languages": [
@@ -153,7 +182,9 @@
     "nanoid": "cwpKXtlLBvDeZj",
     "name": "Love 972",
     "stream_urls": [
-      "https://22903.live.streamtheworld.com/LOVE972FMAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+      "https://22903.live.streamtheworld.com/LOVE972FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac"
     ],
     "country": "sg",
     "languages": [
@@ -165,6 +196,7 @@
     "nanoid": "vmTnRt2nmMsVSM",
     "name": "Money FM 89.3",
     "stream_urls": [
+      "https://22243.live.streamtheworld.com/MONEY_893AAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac"
     ],
     "country": "sg",
@@ -174,12 +206,37 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H10XVLFs9jdJuQ",
+    "name": "Oli 968",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "tam"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wA8Fv4r432JW7U",
     "name": "One FM 91.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
-      "https://28093.live.streamtheworld.com/ONE_FM_913AAC_SC"
+      "https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4SWnYjTkFtnW0J",
+    "name": "Power 98 Love Songs",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3"
     ],
     "country": "sg",
     "languages": [
@@ -191,11 +248,26 @@
     "nanoid": "4AkDUUkpfp88sS",
     "name": "Ria 897",
     "stream_urls": [
-      "https://22393.live.streamtheworld.com/RIA897FM_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+      "https://22393.live.streamtheworld.com/RIA897FM_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac"
     ],
     "country": "sg",
     "languages": [
       "msa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pfpIXV1gdb05lN",
+    "name": "Symphony 924",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -213,12 +285,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Eg9Zxv8ui0mP7F",
+    "name": "Warna 942",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "msa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cYGS4MtYI1wrJI",
     "name": "YES 933",
     "stream_urls": [
       "https://22903.live.streamtheworld.com/YES933AAC_SC",
-      "https://28453.live.streamtheworld.com/YES933AAC.aac",
-      "https://22893.live.streamtheworld.com/YES933_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+      "https://28453.live.streamtheworld.com/YES933AAC.aac"
     ],
     "country": "sg",
     "languages": [

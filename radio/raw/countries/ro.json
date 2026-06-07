@@ -75,10 +75,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h1T43uBpGUzPr7",
+    "name": "Autobaza Radio",
+    "stream_urls": [
+      "https://s3.myradiostream.com:7022/listen.m4a"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "exXlmtsOcH3aiL",
     "name": "Bistrița FM 92.6",
     "stream_urls": [
       "https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F8mIaiS38fpIzh",
+    "name": "Bitter Sweet Music",
+    "stream_urls": [
+      "https://sonicssl.namehost.ro/8520/stream"
     ],
     "country": "ro",
     "languages": [
@@ -115,18 +139,6 @@
     "name": "BOOM Rock",
     "stream_urls": [
       "https://stream.radioboom.ro/listen/boom_rock/radio.mp3"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8rUDLvi9lPD1dW",
-    "name": "București FM",
-    "stream_urls": [
-      "https://stream4.srr.ro:8443/bucuresti-fm"
     ],
     "country": "ro",
     "languages": [
@@ -222,6 +234,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GkRSEBfJwOyn6s",
+    "name": "Deep House Radio",
+    "stream_urls": [
+      "https://live.dancemusic.ro:7000/stream",
+      "https://live.dancemusic.ro:7000/radio.mp3"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uohblEfZkXKgC8",
     "name": "Digi 24 FM",
     "stream_urls": [
@@ -250,18 +275,6 @@
     "name": "DJ Radio Romania",
     "stream_urls": [
       "https://stream.djradio.ro/radio/8000/stream.mp3"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KkuIcAUxkCH73J",
-    "name": "Dux Radio",
-    "stream_urls": [
-      "https://radio.duxradio.ro:8002/stream"
     ],
     "country": "ro",
     "languages": [
@@ -407,8 +420,8 @@
     "name": "EBS Radio",
     "stream_urls": [
       "https://azura.ebsmedia.ro/listen/live/live128.mp3",
-      "https://azura.ebsmedia.ro/listen/live/live96.aac",
-      "https://azura.ebsmedia.ro/listen/live/live320.aac"
+      "https://azura.ebsmedia.ro/listen/live/live320.aac",
+      "https://azura.ebsmedia.ro/listen/live/live96.aac"
     ],
     "country": "ro",
     "languages": [
@@ -568,6 +581,18 @@
     "name": "Fun Radio",
     "stream_urls": [
       "https://online.webcastradio.ro/fun"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1qCzryIyP7kPRT",
+    "name": "Getarum Radio",
+    "stream_urls": [
+      "https://stream.clever-host.ro/8010/stream"
     ],
     "country": "ro",
     "languages": [
@@ -808,8 +833,8 @@
     "nanoid": "d3RH2kNQTY0JKO",
     "name": "Magic FM Party Mix",
     "stream_urls": [
-      "https://live.magicfm.ro/magic.party.mix",
-      "https://live.kissfm.ro/magic.party.mix"
+      "https://live.kissfm.ro/magic.party.mix",
+      "https://live.magicfm.ro/magic.party.mix"
     ],
     "country": "ro",
     "languages": [
@@ -834,6 +859,18 @@
     "name": "Magic FM Sunset",
     "stream_urls": [
       "https://live.magicfm.ro/magic.lite"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bimFs84kexLj1V",
+    "name": "Marionet Radio",
+    "stream_urls": [
+      "https://stream.clever-host.ro/8006/stream"
     ],
     "country": "ro",
     "languages": [
@@ -930,8 +967,8 @@
     "nanoid": "qgNPmLGC5m3guf",
     "name": "One FM",
     "stream_urls": [
-      "https://live.onefm.ro/onefm.aacp",
-      "https://live.kissfm.ro/onefm.aacp"
+      "https://live.kissfm.ro/onefm.aacp",
+      "https://live.onefm.ro/onefm.aacp"
     ],
     "country": "ro",
     "languages": [
@@ -1005,9 +1042,9 @@
     "nanoid": "E3ATprdZjU6nLa",
     "name": "Play Radio",
     "stream_urls": [
+      "https://live.playradio.org:8443/90HD",
       "https://live.playradio.org:8443/FMHD",
-      "https://live.playradio.org:9090/FMHD",
-      "https://live.playradio.org:8443/90HD"
+      "https://live.playradio.org:9090/FMHD"
     ],
     "country": "ro",
     "languages": [
@@ -1019,8 +1056,8 @@
     "nanoid": "BNRnBymijlBvuL",
     "name": "Play Urban",
     "stream_urls": [
-      "https://live.playradio.org:9090/UrbanHD",
-      "https://live.playradio.org:8443/UrbanHD"
+      "https://live.playradio.org:8443/UrbanHD",
+      "https://live.playradio.org:9090/UrbanHD"
     ],
     "country": "ro",
     "languages": [
@@ -1359,8 +1396,8 @@
     "nanoid": "0PdJkkY4eOJJA3",
     "name": "Radio Calea Spre Cer Copii",
     "stream_urls": [
-      "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3",
-      "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3"
+      "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3",
+      "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3"
     ],
     "country": "ro",
     "languages": [
@@ -1385,18 +1422,6 @@
     "name": "Radio Cartier Romania",
     "stream_urls": [
       "https://live.radiocartier.eu:8048/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PKwuomXGftNJhR",
-    "name": "Radio Claudia",
-    "stream_urls": [
-      "https://ssl.kenhost.ro:8091/stream"
     ],
     "country": "ro",
     "languages": [
@@ -1549,10 +1574,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bJl8sGPu2WC7lA",
+    "name": "Radio Doza Urban",
+    "stream_urls": [
+      "https://stream.zeno.fm/cezx5b1nw98uv"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rwi96xF9Svr2Bx",
     "name": "Radio Easy Bacău",
     "stream_urls": [
       "https://ssl.asculta.live/8108/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BiSQstkvXl7qc7",
+    "name": "Radio Eco Natura",
+    "stream_urls": [
+      "https://n0a.radiojar.com/fp5c3fgbyzzuv"
     ],
     "country": "ro",
     "languages": [
@@ -1792,30 +1841,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EPSIrRIA3CJMgg",
-    "name": "Radio GMusic Funky",
-    "stream_urls": [
-      "https://play.webradio-hosting.com:8036/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QQvf3pCUsC2yXw",
-    "name": "Radio GMusic Relax",
-    "stream_urls": [
-      "https://play.webradio-hosting.com:8002/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CO6d6KSy8T9bIu",
     "name": "Radio GMusic Retro",
     "stream_urls": [
@@ -1892,6 +1917,18 @@
     "name": "Radio Guerrilla",
     "stream_urls": [
       "https://live.guerrillaradio.ro:8443/guerrilla.aac"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZW8cmbymdGYGxY",
+    "name": "Radio Impuls",
+    "stream_urls": [
+      "https://live.radio-impuls.ro/stream"
     ],
     "country": "ro",
     "languages": [
@@ -2033,6 +2070,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sqQGMgp4iKA6aI",
+    "name": "Radio Manele Petrecere",
+    "stream_urls": [
+      "https://ssl.servereradio.ro/8123/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qCbv7wn9dNt0Ex",
     "name": "Radio Marketescu House & Minimal",
     "stream_urls": [
@@ -2096,8 +2145,8 @@
     "nanoid": "tg54J3tsTbxTO7",
     "name": "Radio Noise",
     "stream_urls": [
-      "https://live.radionoise.ro:9100/stream",
-      "https://live.radionoise.ro:9100/;"
+      "https://live.radionoise.ro:9100/;",
+      "https://live.radionoise.ro:9100/stream"
     ],
     "country": "ro",
     "languages": [
@@ -2450,8 +2499,8 @@
     "nanoid": "9jNAV7sI1cEq20",
     "name": "Radio Stil Mix Manele",
     "stream_urls": [
-      "https://stream.zeno.fm/zt84vax7ptzuv",
-      "https://stream.zeno.fm/87sktrysmuqtv"
+      "https://stream.zeno.fm/87sktrysmuqtv",
+      "https://stream.zeno.fm/zt84vax7ptzuv"
     ],
     "country": "ro",
     "languages": [
@@ -2472,10 +2521,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iRDcbillLVi3vu",
-    "name": "Radio Stil România Popular",
+    "nanoid": "4ZQH7KPvXwp9Tx",
+    "name": "Radio Stil România Manele",
     "stream_urls": [
-      "https://popular.radiostill.ro/8176/stream"
+      "https://mp3.radiostill.ro:8888/stream"
     ],
     "country": "ro",
     "languages": [
@@ -2484,10 +2533,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBhGWeJrQ0ZooH",
-    "name": "Radio Sud Craiova",
+    "nanoid": "iRDcbillLVi3vu",
+    "name": "Radio Stil România Popular",
     "stream_urls": [
-      "https://radiosud.ro/stream"
+      "https://popular.radiostill.ro/8176/stream"
     ],
     "country": "ro",
     "languages": [
@@ -2580,6 +2629,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F928KdNedVTKH3",
+    "name": "Radio Tequila Dance",
+    "stream_urls": [
+      "https://dance.radiotequila.ro/7000/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4l4hsQPMhhADJr",
     "name": "Radio Tequila Manele",
     "stream_urls": [
@@ -2655,8 +2716,8 @@
     "nanoid": "EZ0inlNhjhC2MP",
     "name": "Radio Top Suceava",
     "stream_urls": [
-      "https://live.radiotop.ro/radio/8000/radio.mp3",
-      "https://live.radiotop.ro:8000/radio.mp3"
+      "https://live.radiotop.ro:8000/radio.mp3",
+      "https://live.radiotop.ro/radio/8000/radio.mp3"
     ],
     "country": "ro",
     "languages": [
@@ -2870,23 +2931,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wmoeg4GuNvOKKw",
-    "name": "Radio UMF Craiova",
-    "stream_urls": [
-      "https://sonic2-rbx.cloud-center.ro/8072/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WcMXHLzHkkT9Lb",
     "name": "Radio Underland",
     "stream_urls": [
-      "https://radio.underland.team/radio/8000/radio.mp3",
-      "https://radio.underland.team:8000/radio.mp3"
+      "https://radio.underland.team:8000/radio.mp3",
+      "https://radio.underland.team/radio/8000/radio.mp3"
     ],
     "country": "ro",
     "languages": [
@@ -2959,8 +3008,8 @@
     "nanoid": "To9I1YwL1BrJWf",
     "name": "Radio VIP",
     "stream_urls": [
-      "https://live1.radiovip.ro:8969/stream",
-      "https://live1.radiovip.ro:8969/;"
+      "https://live1.radiovip.ro:8969/;",
+      "https://live1.radiovip.ro:8969/stream"
     ],
     "country": "ro",
     "languages": [
@@ -3090,18 +3139,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hL5LG5Xesn0BK5",
-    "name": "Realitatea FM",
-    "stream_urls": [
-      "https://shout.realitatea.net:8001/rfmweb"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eGwDvl3nPB8KxS",
     "name": "Régió Rádió",
     "stream_urls": [
@@ -3190,18 +3227,6 @@
     "name": "Rocker Inside",
     "stream_urls": [
       "https://cast4.my-control-panel.com/proxy/fountai1/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5E2AuY3MMAslQL",
-    "name": "Rockradio.ro",
-    "stream_urls": [
-      "https://online.webcastradio.ro/rock-u.aac"
     ],
     "country": "ro",
     "languages": [
@@ -3391,18 +3416,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vd2GtrEjEOQmGe",
-    "name": "Squad Radio",
-    "stream_urls": [
-      "https://a7.asurahosting.com:8190/radio.mp3"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2hysf3nOxYF2Ae",
     "name": "Star FM Făgăraș",
     "stream_urls": [
@@ -3503,8 +3516,8 @@
     "nanoid": "9s55Nu3sZ1jJiV",
     "name": "Supersonic Radio",
     "stream_urls": [
-      "https://radiotrucker.com/en/play/supersonic-radio",
-      "https://s5.radio.co/s08e5c5875/listen"
+      "https://s5.radio.co/s08e5c5875/listen",
+      "https://radiotrucker.com/en/play/supersonic-radio"
     ],
     "country": "ro",
     "languages": [
@@ -3684,18 +3697,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TvlAmxWwF614HN",
-    "name": "Viva FM Botoșani",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8006/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pYtN1Z9efuHnKL",
     "name": "Viva FM Deep Music",
     "stream_urls": [
@@ -3708,70 +3709,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mhnj5IIfFVfIAV",
-    "name": "Viva FM Fălticeni",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8012/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggcJbnyIdDR6Kd",
-    "name": "Viva FM Hârlău",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8002/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3rra7p1pyc1Tw1",
     "name": "Viva FM Iași",
     "stream_urls": [
       "https://cloud.radiosonicpanel.ro/8002/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NnxCFDRk6zLwTk",
-    "name": "Viva FM Piatra Neamț",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8008/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GggIDBYe8JHgW4",
-    "name": "Viva FM Rădăuți",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8014/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bhawX7Rklc4x1K",
-    "name": "Viva FM Suceava",
-    "stream_urls": [
-      "https://cloud.radiosonicpanel.ro:8004/stream"
     ],
     "country": "ro",
     "languages": [
@@ -3844,18 +3785,6 @@
     "name": "Xtend Radio",
     "stream_urls": [
       "https://live.xtendradio.ro/mp3"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0exe8DAjNjs9S1",
-    "name": "YOU FM România",
-    "stream_urls": [
-      "https://sonic2-rbx.cloud-center.ro/8034/stream"
     ],
     "country": "ro",
     "languages": [
