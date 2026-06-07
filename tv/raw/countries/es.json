@@ -26,33 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KB99Wa2uILCWk1",
-    "name": "3Cat Exclusiu 1",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "j3tl4h3LoJOG0p",
-    "name": "3Cat Exclusiu 2",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
     "stream_urls": [
@@ -156,19 +129,6 @@
     ],
     "country": "es",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5OMRq0f5EVNrGL",
-    "name": "Actualidad 360",
-    "stream_urls": [
-      "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "UPwxwqMsILNzE5",
@@ -419,19 +379,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ppVAYeEG6FqcRw",
-    "name": "Canal 2000",
-    "stream_urls": [
-      "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LtD5RiPuecwLxV",
     "name": "Canal Coin TV",
     "stream_urls": [
@@ -555,7 +502,9 @@
       "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
       "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IDATjO45An8"
+    ],
     "languages": [
       "spa"
     ],
@@ -645,7 +594,6 @@
     "nanoid": "7rliUvMeXLIrgh",
     "name": "Cine Western",
     "stream_urls": [
-      "https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8",
       "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -667,20 +615,6 @@
     ],
     "country": "es",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "HMkADRVzF88Xlb",
@@ -772,34 +706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IgIhtSlDnhWcsL",
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
@@ -830,33 +736,6 @@
     "name": "Emporda TV",
     "stream_urls": [
       "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cF058Sx0L9pwW3",
-    "name": "Esport3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -949,19 +828,6 @@
     "name": "EWTN Spain & Latin America",
     "stream_urls": [
       "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ep6n7moIe4Ru3N",
-    "name": "Fibwi",
-    "stream_urls": [
-      "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1090,34 +956,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pV0og9AjUUraI8",
-    "name": "La 1",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3A0Eci8EhuLpsb",
-    "name": "La 1 Canarias",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "LEP2yAUVAvVur6",
     "name": "La 1 Catalunya",
     "stream_urls": [
@@ -1131,33 +969,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "GHi6V9VFxBsZxp",
@@ -1186,19 +997,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tE3WIvWTPSPArw",
-    "name": "Love The Planet ES",
-    "stream_urls": [
-      "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "tTaC1IoTJHes6h",
     "name": "M95 Television Marbella",
     "stream_urls": [
@@ -1220,6 +1018,19 @@
     "youtube_urls": [],
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMIWUh9FjBPLOx",
+    "name": "Molahits TV",
+    "stream_urls": [
+      "https://ventdelnord.tv:8080/mola/directe.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1382,19 +1193,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Cliy0YRCsxozG",
-    "name": "PTV Linares",
-    "stream_urls": [
-      "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MUGH45wnKxFBS7",
     "name": "Punt 3",
     "stream_urls": [
@@ -1457,43 +1255,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9yewxbvb9FUiND",
-    "name": "Rakuten TV Action Movies Spain",
-    "stream_urls": [
-      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
-    "stream_urls": [
-      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
-    "stream_urls": [
-      "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1658,33 +1419,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pIMH6WPwb6VNHf",
-    "name": "SX3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Gwo0Rl1MzhMfE6",
-    "name": "Taroteame",
-    "stream_urls": [
-      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "whwil7KthXJUyX",
     "name": "TBN Espana",
     "stream_urls": [
@@ -1724,19 +1458,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYfMxL6JZWi97a",
-    "name": "Teledeporte",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "QXO7Ca6Qev84ww",
     "name": "Teleganes",
     "stream_urls": [
@@ -1756,6 +1477,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Z3oqQPLeLa4"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
+    "stream_urls": [
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -1818,7 +1552,6 @@
     "nanoid": "UIWLgTqTBtbo6l",
     "name": "Todo Novelas",
     "stream_urls": [
-      "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
       "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -1879,33 +1612,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kPwmKAQVMJQRJJ",
-    "name": "TV3",
-    "stream_urls": [
-      "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6FDSNx2ecdee6w",
-    "name": "TV3CAT",
-    "stream_urls": [
-      "https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8",
-      "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "GAhdvDWq8TxmT0",
     "name": "TVE Internacional Europe",
     "stream_urls": [
@@ -1934,19 +1640,6 @@
     ],
     "country": "es",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZLXArsAwZ4HS4v",
-    "name": "TVG2",
-    "stream_urls": [
-      "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "glg"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "ofMevJFkJJi256",

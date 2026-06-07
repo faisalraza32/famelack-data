@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kc3HHZPOGrmJWv",
-    "name": "Atacama Noticias",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1Gs106kwXgodNe",
     "name": "Atacama TV",
     "stream_urls": [
@@ -382,7 +369,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9jCkSCP08Qs"
+      "https://www.youtube-nocookie.com/embed/ooukxkN2RkI"
     ],
     "languages": [],
     "country": "cl",
@@ -461,7 +448,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TlYwZISsD9I"
+      "https://www.youtube-nocookie.com/embed/snqXdpCYsOs"
     ],
     "languages": [
       "spa"
@@ -693,19 +680,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xTf3bbxqRJQgMl",
-    "name": "TVO San Vicente",
-    "stream_urls": [
-      "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HeeVS1iRWuDC3B",
     "name": "TVR",
     "stream_urls": [
@@ -736,6 +710,20 @@
     "name": "U Los Lagos TV",
     "stream_urls": [
       "https://tv.ulagos.cl/web/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kTSEb5mta8wgr6",
+    "name": "UATV",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

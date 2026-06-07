@@ -195,6 +195,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j1Mx0NYk5KtzPX",
+    "name": "Canal 4 San Juan",
+    "stream_urls": [
+      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5btDuTFed3BZvV",
     "name": "Canal 5 Del Pueblo",
     "stream_urls": [
@@ -590,19 +603,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YK4jerPW8Ia03w",
-    "name": "Chaco TV",
-    "stream_urls": [
-      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VgCWRw9yOKndDY",
     "name": "Cronica TV",
     "stream_urls": [],
@@ -812,15 +812,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
+    "nanoid": "hUmeKtS1x9uzCD",
+    "name": "Metro TV",
     "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+      "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "ar",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "nCjEym27rIb7Sc",
@@ -869,19 +871,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vGNglKWqwcQ"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Xt24rqtDs7DtGk",
-    "name": "Radio Conexion Web TV",
-    "stream_urls": [
-      "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -1058,12 +1047,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cu0B5Lao4vI"
+    "nanoid": "0RDZ86LiXSDIjn",
+    "name": "TIV Television",
+    "stream_urls": [
+      "https://videohd.live:19360/8008/8008.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -1167,7 +1156,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O7nmlxS9X8U"
+      "https://www.youtube-nocookie.com/embed/1Hih6TnQH-s"
     ],
     "languages": [
       "spa"

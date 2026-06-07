@@ -26,33 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KB99Wa2uILCWk1",
-    "name": "3Cat Exclusiu 1",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "j3tl4h3LoJOG0p",
-    "name": "3Cat Exclusiu 2",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
     "stream_urls": [
@@ -178,7 +151,9 @@
       "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
       "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IDATjO45An8"
+    ],
     "languages": [
       "spa"
     ],
@@ -199,20 +174,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "HMkADRVzF88Xlb",
     "name": "CMM TV",
     "stream_urls": [
@@ -221,61 +182,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cF058Sx0L9pwW3",
-    "name": "Esport3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -321,34 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pV0og9AjUUraI8",
-    "name": "La 1",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3A0Eci8EhuLpsb",
-    "name": "La 1 Canarias",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "LEP2yAUVAvVur6",
     "name": "La 1 Catalunya",
     "stream_urls": [
@@ -359,47 +237,6 @@
     "languages": [
       "cat",
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "stream_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pIMH6WPwb6VNHf",
-    "name": "SX3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": true

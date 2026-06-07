@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IbE1EyU5igXIWS",
+    "name": "Al Iraqia News",
+    "stream_urls": [
+      "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "roeCDcGE1uwKQ6",
     "name": "Al Iraqia Sport",
     "stream_urls": [
@@ -186,12 +199,26 @@
     "name": "Channel8",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/T8sbeiC5hzI"
+      "https://www.youtube-nocookie.com/embed/IbOR-TPXExw"
     ],
     "languages": [
       "ara",
       "eng",
       "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIpBDCxySOyKyM",
+    "name": "Dijlah TV",
+    "stream_urls": [
+      "https://ghaasiflu.online/Dijlah/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara",
+      "eng"
     ],
     "country": "iq",
     "isGeoBlocked": false
