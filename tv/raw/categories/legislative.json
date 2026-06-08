@@ -553,16 +553,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zXnZtysd9jWieA",
-    "name": "Escambia County TV",
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
     "stream_urls": [
-      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
+      "https://dumatv.iptv2022.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -667,19 +667,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tsY7Oi70RUlWEA",
-    "name": "Icrtv Colima",
-    "stream_urls": [
-      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -974,6 +961,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
+    "stream_urls": [
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "stream_urls": [
@@ -1220,7 +1220,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_WBw_1GdsSw"
+      "https://www.youtube-nocookie.com/embed/jQibsskpJh8"
     ],
     "languages": [
       "por"

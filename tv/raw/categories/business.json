@@ -81,6 +81,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Tl12ojqlqKkMqp",
+    "name": "Asharq Radio",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OTtgOdMuzH3Ad4",
     "name": "Ausbiz TV",
     "stream_urls": [
@@ -259,6 +272,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vrlS9LYggqZr3W",
+    "name": "Class CNBC",
+    "stream_urls": [
+      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "stream_urls": [],
@@ -379,7 +405,9 @@
   {
     "nanoid": "su2eDwMfYQsEMR",
     "name": "Ekhon TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://tvsen6.aynaott.com/ekhontv/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UH72EKRA3Ao"
     ],
@@ -585,7 +613,7 @@
     "name": "한국경제TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NJUjU9ALj4A"
+      "https://www.youtube-nocookie.com/embed/bRBtOPYU414"
     ],
     "languages": [
       "kor"

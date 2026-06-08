@@ -16,6 +16,7 @@
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "stream_urls": [
+      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
     ],
     "youtube_urls": [],
@@ -592,20 +593,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qo704xbyXZJTCe",
-    "name": "En Lengua de Senas TV",
-    "stream_urls": [
-      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa",
-      "ssp"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "stream_urls": [
@@ -1103,19 +1090,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "stream_urls": [
-      "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sI8hLOEw48l5jP",
     "name": "Santa Cecilia TV",
     "stream_urls": [
@@ -1152,6 +1126,19 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wG03qaF80rSneK",
+    "name": "Telepace 3",
+    "stream_urls": [
+      "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1447,6 +1434,19 @@
     "name": "XHPBZC-TDT2",
     "stream_urls": [
       "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "47o1HNzoeOQk95",
+    "name": "XHUNES-TDT",
+    "stream_urls": [
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
