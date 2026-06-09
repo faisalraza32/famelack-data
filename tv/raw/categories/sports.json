@@ -93,6 +93,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4yrheWVjNwUlPw",
+    "name": "Arryadia HD1",
+    "stream_urls": [
+      "https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y4G6VFZuPlus4N",
     "name": "Arryadia HD2",
     "stream_urls": [
@@ -162,6 +175,19 @@
     "name": "Bahrain Sports 1",
     "stream_urls": [
       "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "bh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SBDiIYv6gMiZbW",
+    "name": "Bahrain Sports 2",
+    "stream_urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -280,6 +306,7 @@
     "name": "DD Sports",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
       "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
@@ -481,12 +508,26 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -687,6 +728,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmWslnOWPvjsHQ",
+    "name": "KHL",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1216,6 +1270,7 @@
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "stream_urls": [
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
     ],
@@ -1283,22 +1338,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O4sDVfeWkHAv9g",
-    "name": "Star Sports 2",
-    "stream_urls": [
-      "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "hin",
-      "tam",
-      "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FKwCdU6RG0k0cZ",
     "name": "SuperTennis",
     "stream_urls": [
@@ -1352,6 +1391,19 @@
     ],
     "country": "bd",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rewsLY5oFERqX5",
+    "name": "TAP Edge",
+    "stream_urls": [
+      "https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "4Me0RU4rvtok1Y",
@@ -1749,6 +1801,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8Ndns6qOA3E0TP",
+    "name": "WWE",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gu1NVHglHFY"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KfPyDEuOOc6z6o",

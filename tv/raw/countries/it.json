@@ -1323,22 +1323,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "pLY3FvdnGbSkPJ",
-    "name": "Rai 2",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/Rai2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "stream_urls": [
+      "https://srv1.adriatelekom.com/Rai3/index.m3u8",
       "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1360,19 +1348,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ilmq7YqEXqJqfJ",
-    "name": "Rai Scuola",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiScuola/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "cJWhyMp2lb4jeP",
@@ -1401,10 +1376,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "stream_urls": [
-      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1414,10 +1389,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oURW9nLoHQEwxm",
-    "name": "Rakuten TV Sci-Fi Italy",
+    "nanoid": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
     "stream_urls": [
-      "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
+      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1689,6 +1664,7 @@
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "stream_urls": [
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
       "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
     ],
@@ -1877,20 +1853,6 @@
     "name": "Telecolor Lombardia",
     "stream_urls": [
       "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QLi5BfwUTlLrmx",
-    "name": "Telefoggia",
-    "stream_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8",
-      "https://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2248,6 +2210,19 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fsNNUTc8HGEMyV",
+    "name": "Umbria TV",
+    "stream_urls": [
+      "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
     "country": "it",
     "isGeoBlocked": false
   },

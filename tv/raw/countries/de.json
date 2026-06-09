@@ -187,6 +187,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dSBUaKYtXm09an",
+    "name": "Cira TV",
+    "stream_urls": [
+      "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6A5ze3h8nnCjde",
     "name": "Dark Monkey Music: Dark Minimal Techno Trip",
     "stream_urls": [],
@@ -313,7 +326,7 @@
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
       "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -860,17 +873,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "stream_urls": [
-      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9oFKf7u6XNNE0e",
     "name": "NDR Hamburg",
     "stream_urls": [
@@ -1363,13 +1365,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gaIbE0ft11ifJV",
-    "name": "Rakuten TV Romance Movies Germany",
+    "nanoid": "jrhvPj9Sfa0uyr",
+    "name": "Rakuten TV Family Movies Germany",
     "stream_urls": [
-      "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },
