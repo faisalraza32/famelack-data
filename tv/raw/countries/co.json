@@ -106,19 +106,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/calimatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "stream_urls": [
@@ -358,6 +345,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "stream_urls": [
+      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8MkrJaxHtTluMW",
     "name": "El Mundo del Campo",
     "stream_urls": [
@@ -384,6 +384,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "stream_urls": [
+      "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GnCb5ceUbTkz25",
     "name": "La Cantina Memorias",
     "stream_urls": [
@@ -395,6 +408,19 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "nDbtRavjpP3dpF",
+    "name": "La Cheverisima Radio TV",
+    "stream_urls": [
+      "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wzR0TNYEFfuhVq",
@@ -702,7 +728,8 @@
     "nanoid": "nBCtUGxdm8WZSP",
     "name": "Suram TV",
     "stream_urls": [
-      "https://us.streaminghd.cl/suramtv/index.m3u8"
+      "https://us.streaminghd.cl/suramtv/index.m3u8",
+      "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -719,6 +746,33 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aJPAtWT0lETbk1",
+    "name": "Telebolivar",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NNAoypPSm0OCzN",
+    "name": "Teleislas",
+    "stream_urls": [
+      "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "icr",
       "spa"
     ],
     "country": "co",
@@ -755,19 +809,6 @@
     "name": "Tu Universo TV",
     "stream_urls": [
       "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VcAQv2UIywMiiL",
-    "name": "TV San Jorge",
-    "stream_urls": [
-      "https://asucap.com/livestream/asucap_envivo.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -955,10 +955,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "stream_urls": [
+      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zH1wikEA6iyust",
     "name": "Padre Pio TV",
     "stream_urls": [
       "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "goJdBBUxKzhIiT",
+    "name": "Paradise TV",
+    "stream_urls": [
+      "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1312,7 +1338,6 @@
     "nanoid": "Ow01MUb56XjNYI",
     "name": "Rai 1",
     "stream_urls": [
-      "https://srv1.adriatelekom.com/Rai1/index.m3u8",
       "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1326,7 +1351,6 @@
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "stream_urls": [
-      "https://srv1.adriatelekom.com/Rai3/index.m3u8",
       "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1335,69 +1359,6 @@
     ],
     "country": "it",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "12pVI96AuXJIE6",
-    "name": "Rai Gulp",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiGulp/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cJWhyMp2lb4jeP",
-    "name": "Rai Sport",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiSport/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LWZDtgK1acZAb3",
-    "name": "Rai Storia",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiStoria/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "rW6tKgiQ7jM4rF",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "stream_urls": [
-      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YfU8ScWMpQTPUo",
-    "name": "Rakuten TV Romance Movies Italy",
-    "stream_urls": [
-      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "mwaE9Of5KjZvBf",

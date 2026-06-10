@@ -158,6 +158,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qCNy2ojifNspg9",
+    "name": "FomixTV",
+    "stream_urls": [
+      "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v32sHMlPXTjtGY",
     "name": "frequenzy: Acoustic/Folk",
     "stream_urls": [],
@@ -553,19 +566,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nVpsvaBycf2VlN",
-    "name": "Omroep Lingewaard",
-    "stream_urls": [
-      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mgcwl4ZNsvp5P5",
     "name": "Omroep Peelrand",
     "stream_urls": [
@@ -931,20 +931,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bdBmeA8W9ieof9",
-    "name": "RTV Noordoost Friesland",
-    "stream_urls": [
-      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
-      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "stream_urls": [
@@ -1166,33 +1152,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O0kpowmkTJLDCA",
-    "name": "SRC TV",
-    "stream_urls": [
-      "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dAXeuFzPs6OaT0",
-    "name": "StreekTV",
-    "stream_urls": [
-      "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
-      "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vO7ItMw9qBUGew",
     "name": "Studio Rheden",
     "stream_urls": [
@@ -1222,7 +1181,6 @@
     "nanoid": "80Bzo5gghASeEz",
     "name": "TV Ellef",
     "stream_urls": [
-      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8",
       "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],

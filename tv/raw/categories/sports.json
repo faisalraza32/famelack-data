@@ -41,19 +41,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "stream_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FsR4OMNuaQ7RDi",
     "name": "Africa 24 Sport",
     "stream_urls": [
@@ -306,7 +293,6 @@
     "name": "DD Sports",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
       "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
@@ -1082,19 +1068,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cJWhyMp2lb4jeP",
-    "name": "Rai Sport",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiSport/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jhjHiCahsHYjT7",
     "name": "Rally TV",
     "stream_urls": [
@@ -1314,6 +1287,7 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1335,6 +1309,36 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o1MUxdE4bvBqff",
+    "name": "Star Sports 1",
+    "stream_urls": [
+      "https://tvsen7.aynaott.com/sspts1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "kan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O4sDVfeWkHAv9g",
+    "name": "Star Sports 2",
+    "stream_urls": [
+      "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1391,19 +1395,6 @@
     ],
     "country": "bd",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rewsLY5oFERqX5",
-    "name": "TAP Edge",
-    "stream_urls": [
-      "https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "4Me0RU4rvtok1Y",
