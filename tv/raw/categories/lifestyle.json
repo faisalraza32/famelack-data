@@ -57,7 +57,8 @@
     "nanoid": "BdWu9IrQ3fzNGW",
     "name": "Ayush TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/221/master.m3u8"
+      "https://cdn-6.pishow.tv/live/221/master.m3u8",
+      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -175,13 +176,26 @@
     "nanoid": "hWjqV9dGq58pYr",
     "name": "Fashion TV",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350200&st=RRhh01CY6iYIRs_Kyoc3lw"
+      "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cihRbiX7gws0cD",
+    "name": "FashionBox",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch369/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -424,6 +438,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
     "stream_urls": [
@@ -547,6 +575,7 @@
     "name": "The Jamie Oliver Channel",
     "stream_urls": [
       "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
       "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
     ],
     "youtube_urls": [],
@@ -557,10 +586,23 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "2gvbHx7OrU70G2",
+    "name": "TV5MONDE Chefs",
+    "stream_urls": [
+      "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1PSkwvPNlldAvj",
     "name": "UA Fashion TV",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA"
+      "https://iptv.prosto.tv/ch216/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

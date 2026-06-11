@@ -106,6 +106,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/calimatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "stream_urls": [
@@ -149,7 +162,6 @@
     "nanoid": "HWwY0spLi6jDxU",
     "name": "Canal Mundo Vision",
     "stream_urls": [
-      "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
       "https://video.ejeserver.com/live/mundovisiontv.m3u8"
     ],
     "youtube_urls": [],
@@ -255,6 +267,7 @@
     "nanoid": "DJujsKbajr1MwV",
     "name": "CMB Television",
     "stream_urls": [
+      "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
       "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
     ],
     "youtube_urls": [],
@@ -475,20 +488,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/masmusica.m3u8",
-      "https://video.ejeserver.com/live/masmusica.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "stream_urls": [
@@ -612,7 +611,7 @@
     "name": "Noticias Caracol",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fmkKMFNAeuI"
+      "https://www.youtube-nocookie.com/embed/Mgv5YdaZJZM"
     ],
     "languages": [
       "spa"
@@ -638,6 +637,19 @@
     "name": "NSTV",
     "stream_urls": [
       "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p54OBJMG5m0fdl",
+    "name": "Oasis TV",
+    "stream_urls": [
+      "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -792,10 +804,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BTUtiIKXJH39q3",
-    "name": "TeveColombia",
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
     "stream_urls": [
-      "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

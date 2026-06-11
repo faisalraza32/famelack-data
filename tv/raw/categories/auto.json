@@ -16,7 +16,7 @@
     "nanoid": "F9LfVyG31TYOvT",
     "name": "Avtoradio Ukraine",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch392/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&e=1783348400&st=frMNmWZJOWD8OrGKGpkBtAy5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q"
+      "https://iptv.prosto.tv/ch392/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -44,7 +44,7 @@
     "nanoid": "lRn4zECLeGzUvI",
     "name": "Cars & Stars TV",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch111/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q"
+      "https://iptv.prosto.tv/ch111/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -64,6 +64,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

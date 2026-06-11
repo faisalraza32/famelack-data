@@ -171,19 +171,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SBDiIYv6gMiZbW",
-    "name": "Bahrain Sports 2",
-    "stream_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "stream_urls": [],
@@ -293,6 +280,7 @@
     "name": "DD Sports",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
       "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
@@ -301,6 +289,21 @@
     ],
     "country": "in",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Io7xRK2WVkGiOM",
+    "name": "DP World Tour",
+    "stream_urls": [
+      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
+      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "KGBMTUYjkdpD8D",
@@ -399,7 +402,7 @@
     "nanoid": "WjfdMU5WtET4gX",
     "name": "Fast&FunBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783249561&st=-CNEhLDi2VkEY_caCemBGQ"
+      "https://iptv.prosto.tv/ch120/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -512,19 +515,6 @@
       "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bEcVkioYMco"
-    ],
     "languages": [
       "eng"
     ],
@@ -694,7 +684,8 @@
     "nanoid": "5y6EYwtqdTyabX",
     "name": "Jordan Sport",
     "stream_urls": [
-      "https://93.184.10.248/JordanSport/index.m3u8"
+      "https://93.184.10.248/JordanSport/index.m3u8",
+      "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1043,8 +1034,7 @@
     "name": "Racer Network",
     "stream_urls": [
       "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
-      "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8",
-      "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
+      "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1259,8 +1249,8 @@
     "name": "Sportitalia Solocalcio",
     "stream_urls": [
       "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-      "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-      "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+      "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+      "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1358,7 +1348,7 @@
     "nanoid": "TnYj2ZiJkibGxp",
     "name": "Suspilne. Sport",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g"
+      "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?21yo=0&e=1783247457&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=jPS6nYqNZLDECF8uSDa74g"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1449,19 +1439,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NLxpS0aCx5evGr",
-    "name": "TennisChannel 2",
-    "stream_urls": [
-      "https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "vtSycR8Kbn52EY",
@@ -1777,21 +1754,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Io7xRK2WVkGiOM",
-    "name": "World Poker Tour US",
-    "stream_urls": [
-      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
-      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
-      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "8Ndns6qOA3E0TP",

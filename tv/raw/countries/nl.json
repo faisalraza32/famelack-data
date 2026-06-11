@@ -29,7 +29,7 @@
     "nanoid": "CReHCdZVKTCuD1",
     "name": "360TuneBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ"
+      "https://iptv.prosto.tv/ch141/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -132,6 +132,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cihRbiX7gws0cD",
+    "name": "FashionBox",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch369/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0eoKVJV2pq7Jz8",
     "name": "Feel Good TV",
     "stream_urls": [
@@ -148,7 +161,7 @@
     "nanoid": "iPLSWaME1Eh8cp",
     "name": "FilmBox Arthouse",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193843&st=TtdsKDYQcxuuOa_50TuApw"
+      "https://iptv.prosto.tv/ch63/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -216,6 +229,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e7CM2kGoqXg"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KG7zrdGqErjlji",
+    "name": "Gametoon",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch256/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -436,19 +462,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GNlR02NgwiOglp",
-    "name": "MaLive",
-    "stream_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UTqOJF9u8dQBzt",
     "name": "MerweTV",
     "stream_urls": [
@@ -557,6 +570,19 @@
     "name": "Omroep Land van Cuijk",
     "stream_urls": [
       "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nVpsvaBycf2VlN",
+    "name": "Omroep Lingewaard",
+    "stream_urls": [
+      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -931,6 +957,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bdBmeA8W9ieof9",
+    "name": "RTV Noordoost Friesland",
+    "stream_urls": [
+      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "stream_urls": [
@@ -1152,6 +1192,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
+    "stream_urls": [
+      "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dAXeuFzPs6OaT0",
+    "name": "StreekTV",
+    "stream_urls": [
+      "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
+      "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vO7ItMw9qBUGew",
     "name": "Studio Rheden",
     "stream_urls": [
@@ -1181,6 +1248,7 @@
     "nanoid": "80Bzo5gghASeEz",
     "name": "TV Ellef",
     "stream_urls": [
+      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8",
       "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],

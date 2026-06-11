@@ -12,7 +12,7 @@
   },
   {
     "nanoid": "Ppn5dhp1iiI1tV",
-    "name": "A New Life In The Sun",
+    "name": "A New Life in the Sun",
     "stream_urls": [
       "https://d36zu8tswi4fqu.cloudfront.net/playlist.m3u8"
     ],
@@ -175,10 +175,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "A7FjWEoxfZfQRg",
-    "name": "BBC News Europe",
+    "nanoid": "31U63I8METsDXI",
+    "name": "BBC News (HEVC)",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -188,11 +189,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "31U63I8METsDXI",
-    "name": "BBC News HD",
+    "nanoid": "A7FjWEoxfZfQRg",
+    "name": "BBC News Europe",
     "stream_urls": [
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -760,19 +760,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6bV62QbdgsCop",
-    "name": "FMTV",
-    "stream_urls": [
-      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y9tmDdGOMUn9pB",
     "name": "Garshom TV",
     "stream_urls": [
@@ -1125,6 +1112,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5S04usaOtVwXZU",
+    "name": "Jail",
+    "stream_urls": [
+      "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hZnck01GsH43td",
     "name": "Kalemeh TV",
     "stream_urls": [
@@ -1305,7 +1303,6 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1316,13 +1313,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KAUyMj1FhX2oLB",
-    "name": "Most Haunted",
+    "nanoid": "lUe0NaFHoGcU2K",
+    "name": "Most Haunted UK",
     "stream_urls": [
       "https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1572,7 +1571,7 @@
   },
   {
     "nanoid": "T0TMY0MmpuHlBC",
-    "name": "NatureTime UK",
+    "name": "Nature Time",
     "stream_urls": [
       "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -1881,28 +1880,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
     "stream_urls": [
-      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+      "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
     "stream_urls": [
-      "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1971,20 +1966,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "NegCVOJcL5pipg",
-    "name": "S4C",
-    "stream_urls": [
-      "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cym",
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": true
   },

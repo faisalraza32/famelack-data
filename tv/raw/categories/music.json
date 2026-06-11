@@ -3,7 +3,7 @@
     "nanoid": "axFoablbn00mt1",
     "name": "¡Viva Latino!",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch138/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=8a9f3acf84249fbe&uid=9szoe89y&cs_track=false&e=1783163037&st=907ywHdZsxDhbfHEV52usw"
+      "https://iptv.prosto.tv/ch138/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -57,7 +57,7 @@
     "nanoid": "KRCfBPZnilbuy5",
     "name": "4ever Music",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw"
+      "https://iptv.prosto.tv/ch132/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -104,19 +104,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OlGSowZnWs82o6",
-    "name": "7S Music",
-    "stream_urls": [
-      "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -241,7 +228,7 @@
     "nanoid": "CReHCdZVKTCuD1",
     "name": "360TuneBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ"
+      "https://iptv.prosto.tv/ch141/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -288,6 +275,19 @@
       "wol"
     ],
     "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AkH8avUBkXTLm9",
+    "name": "Aaryaa TV",
+    "stream_urls": [
+      "https://stream.ottlive.co.in/aryatvtamil/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -419,19 +419,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Bj0YsaSRZpcr4",
-    "name": "Andy Haryana",
-    "stream_urls": [
-      "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -741,15 +728,28 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "stream_urls": [
-      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
       "https://cmc-kowdtv.amagi.tv/playlist.m3u8",
-      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
+      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -763,6 +763,45 @@
       "spa"
     ],
     "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BN8UK0JlgAMrEm",
+    "name": "City Eden Birma Play",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QICcmd6W79YgPC",
+    "name": "City Eden Meditation Music",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47410/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -857,6 +896,19 @@
       "pap"
     ],
     "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v1yMI7GiExjw2o",
+    "name": "Couleur 3",
+    "stream_urls": [
+      "https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "ch",
     "isGeoBlocked": false
   },
   {
@@ -1042,19 +1094,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E3Fuo7LqwAfWE9",
-    "name": "Deluxe Dance",
-    "stream_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "stream_urls": [
@@ -1160,6 +1199,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HQxmczuRTCLJHk",
+    "name": "Ellinikos FM",
+    "stream_urls": [
+      "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ratiMYbPjlz1Pp",
     "name": "EnerGeek Radio",
     "stream_urls": [
@@ -1176,7 +1228,7 @@
     "nanoid": "Ma2cDDVzIa07ro",
     "name": "EU Music",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg"
+      "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1241,6 +1293,7 @@
     "nanoid": "FuiSRD0mYmX331",
     "name": "Farra Play",
     "stream_urls": [
+      "https://159.203.148.226/live/farra.m3u8",
       "https://stream.farra.com.py/live/farra_low.m3u8"
     ],
     "youtube_urls": [],
@@ -1288,19 +1341,6 @@
       "spa"
     ],
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D6bV62QbdgsCop",
-    "name": "FMTV",
-    "stream_urls": [
-      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1618,19 +1658,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2m0gEtXYdWeCIN",
-    "name": "Infinita TV",
-    "stream_urls": [
-      "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "stream_urls": [
@@ -1829,20 +1856,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j2PNx5Xg25mTJj",
-    "name": "KpopTV Play",
-    "stream_urls": [
-      "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor",
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0U8AHRskM6eU3e",
     "name": "Kronehit",
     "stream_urls": [
@@ -1984,19 +1997,6 @@
     ],
     "country": "hn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jkKIWp8tVeKWkO",
-    "name": "La Voz del Tropico",
-    "stream_urls": [
-      "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "ESeEpgafREEMIe",
@@ -2175,6 +2175,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aTKMVMY4VnZK2B",
+    "name": "M1",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch122/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tw81DnoVlplmdm",
+    "name": "M2",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch123/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZF9e1n3GNe54qv",
     "name": "m2o TV",
     "stream_urls": [
@@ -2227,19 +2253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xpVI5qvhacSMib",
-    "name": "Maimon TV Canal 3",
-    "stream_urls": [
-      "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMbg1qFUrHD6uy",
     "name": "Makao TV",
     "stream_urls": [
@@ -2279,20 +2292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/masmusica.m3u8",
-      "https://video.ejeserver.com/live/masmusica.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4GP05gaKgeZLke",
     "name": "MBC America",
     "stream_urls": [
@@ -2323,7 +2322,7 @@
     "nanoid": "Kf2cIv40QQrS0I",
     "name": "MCM Top",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch137/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783194291&st=-kALbkeUiNVyIGhNiqT7QA"
+      "https://iptv.prosto.tv/ch137/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2369,19 +2368,6 @@
       "deu"
     ],
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8JZH2jVeoWilfK",
-    "name": "Melody FM",
-    "stream_urls": [
-      "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "jo",
     "isGeoBlocked": false
   },
   {
@@ -2533,7 +2519,7 @@
     "name": "Molek TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mIaYkjKTfXI"
+      "https://www.youtube-nocookie.com/embed/uRMrToRteyE"
     ],
     "languages": [
       "msa"
@@ -5258,19 +5244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PqhSs4QgiYSTPX",
-    "name": "TV Exitos",
-    "stream_urls": [
-      "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qfMepn6hwcvIUS",
     "name": "TVCHOSUN JOY",
     "stream_urls": [],
@@ -5288,7 +5261,7 @@
     "name": "TVCHOSUN MUSIC",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IgqWZSXHK7A"
+      "https://www.youtube-nocookie.com/embed/x00-5SoWDeU"
     ],
     "languages": [
       "kor"
@@ -5352,7 +5325,7 @@
     "nanoid": "iazCRJ8KYA4VWe",
     "name": "UA Music",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch133/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=222194235acf2898&uid=9szoe89y&cs_track=false&e=1783247230&st=uVQZwetlK44ZjJhTBpFGiQ"
+      "https://iptv.prosto.tv/ch133/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -5366,7 +5339,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hGBPKUc1RQY"
+      "https://www.youtube-nocookie.com/embed/E2WYgp0LKQ0"
     ],
     "languages": [
       "spa"
@@ -5411,19 +5384,6 @@
       "tam"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Agpaf3T79hzFYc",
-    "name": "Vallenato Internacional",
-    "stream_urls": [
-      "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -5693,6 +5653,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KTfqjR2nJysy7l",
     "name": "VM Latino",
     "stream_urls": [
@@ -5729,6 +5702,19 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "stream_urls": [
+      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

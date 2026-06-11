@@ -13,19 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FLJTgXx5Ik6ljh",
-    "name": "Angel TV Chinese",
-    "stream_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "stream_urls": [
@@ -37,6 +24,19 @@
     ],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "qF4K7YKWjkSybG",
+    "name": "Bread TV",
+    "stream_urls": [
+      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cmn"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "1ygWi2hNNf9GHE",
@@ -535,7 +535,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M6Ogzy4Gl-8"
+      "https://www.youtube-nocookie.com/embed/oLmKrm2t2yU"
     ],
     "languages": [
       "zho"
