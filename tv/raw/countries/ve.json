@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -26,6 +39,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "stream_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ShvwvF1bv7BYEt",
     "name": "Canal 21 Tachira",
     "stream_urls": [
@@ -39,10 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
     "stream_urls": [
-      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+      "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -107,7 +133,7 @@
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8"
+      "https://stream.guarotv.net:3592/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -287,10 +313,37 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
+    "stream_urls": [
+      "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hWlY6DCrbQlbH1",
     "name": "Telecolor",
     "stream_urls": [
       "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERqsOEd0yp02p0",
+    "name": "Telesur",
+    "stream_urls": [
+      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -353,19 +406,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "stream_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdOMLij5yy08uC",
     "name": "TVM para ti",
     "stream_urls": [
@@ -388,6 +428,17 @@
     "languages": [
       "spa"
     ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lupM9TqioABtUb",
+    "name": "UN24",
+    "stream_urls": [
+      "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "ve",
     "isGeoBlocked": false
   },
