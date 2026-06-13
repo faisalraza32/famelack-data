@@ -525,20 +525,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "hboH9AkWIrBLT1",
     "name": "Clifford the Big Red Dog: Classic",
     "stream_urls": [],
@@ -974,32 +960,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yZWjBAUrvEg"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "stream_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "stream_urls": [
@@ -1201,6 +1161,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1541,7 +1502,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tBTuAb4iyDg"
+      "https://www.youtube-nocookie.com/embed/pbFHahbEkR0"
     ],
     "languages": [
       "por"
@@ -1838,6 +1799,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5_eGR3mg3yg"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
@@ -1880,8 +1854,7 @@
     "nanoid": "pIMH6WPwb6VNHf",
     "name": "SX3",
     "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2200,7 +2173,8 @@
     "name": "ZooMoo",
     "stream_urls": [
       "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2227,7 +2201,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RrLYUtc_Ya8"
+      "https://www.youtube-nocookie.com/embed/rZJi56326D8"
     ],
     "languages": [
       "zho"
