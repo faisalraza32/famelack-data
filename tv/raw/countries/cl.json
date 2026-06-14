@@ -104,10 +104,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Gs106kwXgodNe",
     "name": "Atacama TV",
     "stream_urls": [
       "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cH9kmLlt6EwKQQ",
+    "name": "CampusTV",
+    "stream_urls": [
+      "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -177,19 +203,6 @@
     "youtube_urls": [],
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
       "spa"
     ],
     "country": "cl",
@@ -274,19 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fho666tDNHtuPI",
-    "name": "EnerGeek FAN",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ratiMYbPjlz1Pp",
     "name": "EnerGeek Radio",
     "stream_urls": [
@@ -356,7 +356,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qutHpF8x5wI"
+      "https://www.youtube-nocookie.com/embed/alWv5Qyv1DQ"
     ],
     "languages": [],
     "country": "cl",
@@ -435,7 +435,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/viwQC1FB27g"
+      "https://www.youtube-nocookie.com/embed/W8rXl1qbA5w"
     ],
     "languages": [
       "spa"
@@ -474,6 +474,19 @@
     "name": "Santa Maria Television",
     "stream_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RtV9rPOW8b3zIG",
+    "name": "Solo Bailalo",
+    "stream_urls": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -601,19 +614,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "stream_urls": [
-      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "byUbvXPv80AteN",
     "name": "TV Senado",
     "stream_urls": [
@@ -708,7 +708,6 @@
     "nanoid": "kTSEb5mta8wgr6",
     "name": "UATV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],

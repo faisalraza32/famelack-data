@@ -453,9 +453,9 @@
     "nanoid": "AQflHxNei4CCgO",
     "name": "AccuWeather NOW",
     "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
-      "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
+      "https://accuweather-xumo.amagi.tv/playlist.m3u8",
+      "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1200,6 +1200,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "stream_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "stream_urls": [
@@ -1508,8 +1521,7 @@
     "name": "AWE Encore",
     "stream_urls": [
       "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8",
-      "https://aweencore-vizio.amagi.tv/playlist.m3u8"
+      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2080,7 +2092,7 @@
     "name": "Bloomberg Business News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iEpJwprxDdk"
+      "https://www.youtube-nocookie.com/embed/QB5BNdBFujE"
     ],
     "languages": [
       "eng"
@@ -2301,7 +2313,7 @@
     "name": "BTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
+      "https://www.youtube-nocookie.com/embed/BXB9NlVKoEQ"
     ],
     "languages": [
       "eng"
@@ -2463,8 +2475,8 @@
     "name": "California Music Channel",
     "stream_urls": [
       "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
-      "https://cmc-kowdtv.amagi.tv/playlist.m3u8",
-      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
+      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2945,9 +2957,7 @@
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b2-X91tbNMo"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -5567,7 +5577,8 @@
     "nanoid": "65zkeXa7x4DlZ8",
     "name": "Free Speech TV",
     "stream_urls": [
-      "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8"
+      "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8",
+      "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -6501,6 +6512,17 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "As1a59LBPcbNCx",
+    "name": "In Touch+",
+    "stream_urls": [
+      "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -9187,19 +9209,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "6gLQAbRVRpuZxV",
-    "name": "MyTime Movie Network East",
-    "stream_urls": [
-      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VsE7ydvbu6o7hE",
     "name": "Naruto US",
     "stream_urls": [
@@ -9645,6 +9654,19 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q8agflF5shjdE5",
+    "name": "News12 Westchester",
+    "stream_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jLGAHvaIG3O3uP",
@@ -11215,9 +11237,7 @@
     "nanoid": "wEvx40zXiwaQMx",
     "name": "Real Wild",
     "stream_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
-      "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
-      "https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -12217,7 +12237,6 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -12386,19 +12405,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5_eGR3mg3yg"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -13483,8 +13489,7 @@
     "nanoid": "fahcTwI5XQy8zE",
     "name": "Tin TV",
     "stream_urls": [
-      "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
-      "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8"
+      "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -13716,19 +13721,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "hUIt6diRlUntb4",
-    "name": "Tropical Music TV",
-    "stream_urls": [
-      "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "6NuHhUX0cPzJlO",
@@ -14548,19 +14540,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Agpaf3T79hzFYc",
-    "name": "Vallenato Internacional",
-    "stream_urls": [
-      "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tRFrXY7YNQbr73",
     "name": "Van Helsing",
     "stream_urls": [
@@ -14588,8 +14567,8 @@
     "nanoid": "fnsN4s1Nk39gF9",
     "name": "Vegas Life TV",
     "stream_urls": [
-      "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
-      "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8",
+      "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -16730,7 +16709,7 @@
     "name": "WWE",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gu1NVHglHFY"
+      "https://www.youtube-nocookie.com/embed/2A_OLvCo_q8"
     ],
     "languages": [
       "eng"
