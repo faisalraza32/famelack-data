@@ -151,7 +151,6 @@
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "stream_urls": [
-      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
       "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -346,6 +345,7 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -549,6 +549,20 @@
     ],
     "country": "in",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc4FxqftW4YwtA",
+    "name": "Clan",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hboH9AkWIrBLT1",
@@ -1289,19 +1303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1JYYpqQgnjcE3u",
-    "name": "NickOnline",
-    "stream_urls": [
-      "https://x1co.com.br/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "stream_urls": [],
@@ -1312,19 +1313,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VvHhOWwHL2G6fH",
-    "name": "NickToons Brasil",
-    "stream_urls": [
-      "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1514,7 +1502,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nferUU2U_Do"
+      "https://www.youtube-nocookie.com/embed/7puUfeMz1yY"
     ],
     "languages": [
       "por"
@@ -1651,19 +1639,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rMs4GJqhYqs"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -1861,6 +1836,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pIMH6WPwb6VNHf",
+    "name": "SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "99DtWOF0uOZLNA",
@@ -2200,7 +2189,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/doYo5jAYzOI"
+      "https://www.youtube-nocookie.com/embed/YR3Vtw-MuqE"
     ],
     "languages": [
       "zho"

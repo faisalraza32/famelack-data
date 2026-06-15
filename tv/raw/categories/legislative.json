@@ -539,6 +539,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "stream_urls": [
@@ -594,7 +607,8 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1232,7 +1246,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O3vqXnATp9A"
+      "https://www.youtube-nocookie.com/embed/vwKYrJqgYxc"
     ],
     "languages": [
       "por"

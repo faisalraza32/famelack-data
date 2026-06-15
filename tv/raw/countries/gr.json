@@ -144,19 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9nOkMHgBurW2UW",
-    "name": "Blue Sky TV",
-    "stream_urls": [
-      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BQ588mGGkNcDqS",
     "name": "Center TV",
     "stream_urls": [
@@ -235,19 +222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W3ePyy3g6gIjfs",
-    "name": "ENA Channel",
-    "stream_urls": [
-      "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GI28zdliqFumzw",
     "name": "ERT Cosmos",
     "stream_urls": [
@@ -316,7 +290,8 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -475,19 +450,6 @@
     "name": "Star Kentrikis Elladas",
     "stream_urls": [
       "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "axcim7j9dTO22W",
-    "name": "Start TV",
-    "stream_urls": [
-      "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
