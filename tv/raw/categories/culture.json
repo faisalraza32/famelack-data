@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "qrJk7Z0w2ndHZn",
-    "name": "13C",
-    "stream_urls": [
-      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "stream_urls": [
@@ -146,7 +133,7 @@
   },
   {
     "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
+    "name": "BBC Four HD",
     "stream_urls": [
       "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8"
     ],
@@ -156,19 +143,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
-    "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "L3YkR6AcwrR8JI",
@@ -182,20 +156,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bYTvtLA2rlhnbu",
-    "name": "Bonaire.tv",
-    "stream_urls": [
-      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "bq",
     "isGeoBlocked": false
   },
   {
@@ -283,7 +243,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0nMNU5bzpXI"
+      "https://www.youtube-nocookie.com/embed/L0YehwKlEI0"
     ],
     "languages": [
       "fas"
@@ -303,6 +263,19 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -512,19 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31Wi6UqtxsYAm3",
-    "name": "Ev-tele",
-    "stream_urls": [
-      "https://playtv4k.live/live/EVTELE/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -575,19 +535,6 @@
       "mal"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -711,6 +658,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "kon",
+      "lin"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iHcwCYBoO04vaV",
+    "name": "Kajou TV",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TU3kJ8kVqHd9Es",
     "name": "KBPX-LD 46.5",
     "stream_urls": [
@@ -801,6 +776,21 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VOTDSHArm72ENB",
+    "name": "Luys TV",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/mt_2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hye",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EwK4bC43UwqpBP",
@@ -1033,6 +1023,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "stream_urls": [
+      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DKHLUT1IqpMkXM",
     "name": "Presumiendo Mexico",
     "stream_urls": [
@@ -1251,6 +1254,19 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x4lyf4pNwLJhfT",
+    "name": "The Indonesia Channel",
+    "stream_urls": [
+      "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
