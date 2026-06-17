@@ -89,9 +89,7 @@
       "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
       "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z8tNIqCrz6k"
-    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -229,9 +227,7 @@
   {
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/P3wREkPcQ1U"
     ],
@@ -274,19 +270,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/W-wgfi-XdN8"
     ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
-    "stream_urls": [
-      "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -452,6 +435,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7zpnk23E__0"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GcJmEq9rilBOie",
+    "name": "Deniz Postasi TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -1243,10 +1239,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nqB0UTFTWvT5hK",
-    "name": "Mar TV",
+    "nanoid": "mtrakHpwzJnbET",
+    "name": "Malatya Vuslat TV",
     "stream_urls": [
-      "https://yayin1.canlitv.fun/canlitv/marmaratv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+      "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1554,6 +1550,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mighzagP16kd5V",
+    "name": "Semerkand Way",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/mt_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e6ku1z7iZYh6lv",
+    "name": "Show Max",
+    "stream_urls": [
+      "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "415mzJdt7wNzLf",
+    "name": "Show TV",
+    "stream_urls": [
+      "https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "stream_urls": [],
@@ -1645,6 +1676,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pTUvBY4x4L3ji9",
+    "name": "Telenews",
+    "stream_urls": [
+      "https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rqkOBR323x5UjG",
     "name": "Tempo TV",
     "stream_urls": [
@@ -1714,10 +1758,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jyZjfANXhE76zX",
+    "name": "Toprak TV",
+    "stream_urls": [
+      "https://yayin1.canlitv.fun/canlitv/topraktv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FBBGW2J5SzIqYo",
     "name": "Trabzon Buyuksehir Belediyesi TV FHD",
     "stream_urls": [
       "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DvCN8WstHjmxKR",
+    "name": "Trakya Turk",
+    "stream_urls": [
+      "https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1904,10 +1974,47 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNlSvYLttCaBWF",
+    "name": "TV 8.5",
+    "stream_urls": [
+      "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "igB1dezqADqux2",
+    "name": "TV 38",
+    "stream_urls": [
+      "https://yayin1.canlitv.fun/canlitv/tv38.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "deH7vlwlXSBCxY",
     "name": "TV 41",
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UjJLXGxInD7yE1",
+    "name": "TV 42",
+    "stream_urls": [
+      "https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1958,12 +2065,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LUZizEkznJO2EQ",
+    "name": "TV Kayseri",
+    "stream_urls": [
+      "https://yayin1.canlitv.fun/canlitv/tvkayseri.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fiUFmaRESDKun4",
     "name": "TVNET",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Z5bqy4gwEmc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dti0xsuIDuqqFU",
+    "name": "TYT Turk",
+    "stream_urls": [
+      "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -2005,6 +2138,30 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cTOiQDPmuUY"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FL2IWvZEDW76oL",
+    "name": "World Turk TV",
+    "stream_urls": [
+      "https://yayin1.canlitv.fun/canlitv/worldturk.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DiOw5jRW7KAiyN",
+    "name": "Yaban TV",
+    "stream_urls": [
+      "https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],

@@ -27,19 +27,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "stream_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y2dtfZFJHxfB6A",
     "name": "AMP 2",
     "stream_urls": [
@@ -132,19 +119,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four HD",
-    "stream_urls": [
-      "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
     "stream_urls": [
@@ -156,6 +130,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bYTvtLA2rlhnbu",
+    "name": "Bonaire.tv",
+    "stream_urls": [
+      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "country": "bq",
     "isGeoBlocked": false
   },
   {
@@ -243,7 +231,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L0YehwKlEI0"
+      "https://www.youtube-nocookie.com/embed/winc2jJIQK4"
     ],
     "languages": [
       "fas"
@@ -342,6 +330,19 @@
       "spa"
     ],
     "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XDbtm1nI0M6XvU",
+    "name": "Cultura Online",
+    "stream_urls": [
+      "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -485,6 +486,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "31Wi6UqtxsYAm3",
+    "name": "Ev-tele",
+    "stream_urls": [
+      "https://playtv4k.live/live/EVTELE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -515,6 +529,7 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -535,6 +550,19 @@
       "mal"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -890,7 +918,6 @@
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "stream_urls": [
-      "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
       "https://nhk.lls.pbs.org/index.m3u8",
       "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
     ],
@@ -1088,32 +1115,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "stream_urls": [
@@ -1213,19 +1214,6 @@
       "xms"
     ],
     "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7omf3emk4fDdL8",
-    "name": "STZ TV",
-    "stream_urls": [
-      "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {

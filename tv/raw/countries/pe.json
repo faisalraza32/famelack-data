@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "mljCXXuG95o31y",
+    "name": "America Television",
+    "stream_urls": [
+      "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yPFftXaL6zAl9S",
     "name": "Antares Television",
     "stream_urls": [
@@ -78,6 +91,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NcbX3D5e7HA0Yx",
+    "name": "Cadena TV",
+    "stream_urls": [
+      "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Tx6FQUGbACDss",
     "name": "Canal 8 Catacaos",
     "stream_urls": [
@@ -110,19 +136,6 @@
       "https://live.obslivestream.com/conecta2/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uttZwpytIM0"
-    ],
     "languages": [
       "spa"
     ],
@@ -362,36 +375,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ygSClri36pKd9x",
-    "name": "RN Television",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AQVGMaAFvW9hRl",
     "name": "RSelvaTV",
     "stream_urls": [
       "https://live.obslivestream.com/selvatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qgnWAKQV0prTA",
-    "name": "Senal Peru TV",
-    "stream_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -418,6 +405,19 @@
     "name": "Telecolor Yurimaguas",
     "stream_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IzsSiDZXZvJ27Q",
+    "name": "Telelima",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -483,19 +483,6 @@
     "name": "Top TV",
     "stream_urls": [
       "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mdiVt9k5G6ApIq",
-    "name": "Trivu",
-    "stream_urls": [
-      "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
