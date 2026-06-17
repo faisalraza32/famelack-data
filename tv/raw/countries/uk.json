@@ -175,19 +175,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four HD",
-    "stream_urls": [
-      "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "31U63I8METsDXI",
     "name": "BBC News (HEVC)",
     "stream_urls": [
@@ -490,19 +477,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uw0P7oD0FAo"
-    ],
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1100,17 +1074,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "eaLExqWZXvp5pC",
-    "name": "INTER 24/7",
-    "stream_urls": [
-      "https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tOgrmVxWlQxOPo",
     "name": "Intervention",
     "stream_urls": [
@@ -1546,6 +1509,7 @@
     "nanoid": "MDjiS0YoXPCIql",
     "name": "Mystery TV UK",
     "stream_urls": [
+      "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
       "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
     ],
@@ -1790,7 +1754,7 @@
     "stream_urls": [
       "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-      "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+      "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1906,10 +1870,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
     "stream_urls": [
-      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1926,6 +1890,17 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "stream_urls": [
+      "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -1970,20 +1945,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "NegCVOJcL5pipg",
-    "name": "S4C",
-    "stream_urls": [
-      "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cym",
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": true
   },
@@ -2574,6 +2535,17 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PdlsmNwPyLUBKV",
+    "name": "Wheels & Steel",
+    "stream_urls": [
+      "https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "a70tGgKnt6OXwc",

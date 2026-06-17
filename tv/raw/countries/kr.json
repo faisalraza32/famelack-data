@@ -323,10 +323,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hJP0GSnYM15Xax",
-    "name": "HLAJ-DTV",
+    "nanoid": "cqIhg7ovb7n2hP",
+    "name": "Gugak TV",
     "stream_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+      "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -336,10 +336,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LeEKq1Wp81fOe3",
-    "name": "HLAN-DTV",
+    "nanoid": "hJP0GSnYM15Xax",
+    "name": "HLAJ-DTV",
     "stream_urls": [
-      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -457,7 +457,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b0LNtQ3y5xE"
+      "https://www.youtube-nocookie.com/embed/NMNn6kZ2MUg"
     ],
     "languages": [
       "kor"
@@ -470,7 +470,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QZS6V7fxXxI"
+      "https://www.youtube-nocookie.com/embed/iDFkVVpAaI8"
     ],
     "languages": [
       "kor"
@@ -557,10 +557,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "stream_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GPfN3XUpvverSy",
     "name": "NS Shop+",
     "stream_urls": [
       "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "stream_urls": [
+      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -600,7 +626,7 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A2HOycGCfOA"
+      "https://www.youtube-nocookie.com/embed/B_1Vus6Wr60"
     ],
     "languages": [
       "kor"

@@ -1,9 +1,23 @@
 [
   {
+    "nanoid": "fp34BcAXOlbIfX",
+    "name": "¡OPA!",
+    "stream_urls": [
+      "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "3gZO8yQ0WOkQ8B",
     "name": "88 Stereo",
     "stream_urls": [
-      "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+      "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+      "https://s1.tvdatta.com:3972/live/88stereolive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -56,6 +70,7 @@
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "stream_urls": [
+      "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
       "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     ],
     "youtube_urls": [],
@@ -69,6 +84,7 @@
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
       "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
@@ -117,10 +133,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rbhi1IeYnyJ3gG",
+    "name": "Cedros TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bK2TlT0v8UWAuh",
     "name": "Colosal TV",
     "stream_urls": [
       "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iiLr4bWIeoPOWM",
+    "name": "Conexión Positiva Televisión",
+    "stream_urls": [
+      "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,6 +211,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lsjQzbEuXqR8w7",
+    "name": "CTV LIMÓN",
+    "stream_urls": [
+      "https://server5.cloundmediacp.in/roger1341/roger1341/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xMyWNZNLNYysjq",
     "name": "Enlace",
     "stream_urls": [
@@ -200,6 +255,19 @@
     "name": "Extrema TV",
     "stream_urls": [
       "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0qduamfMKf5AXL",
+    "name": "GAM TV",
+    "stream_urls": [
+      "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -339,6 +407,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cjWWqp2uLiAYNE",
+    "name": "Oldies Hits",
+    "stream_urls": [
+      "https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gVTlfz80oD0tzA",
     "name": "Quince UCR",
     "stream_urls": [
@@ -420,6 +499,7 @@
     "nanoid": "djrpK6AnIX1OhR",
     "name": "Tele Uno",
     "stream_urls": [
+      "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
       "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -495,15 +575,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xLJatClo1nNRli",
-    "name": "TicaVision",
+    "nanoid": "oFBYYfrHTKyW0r",
+    "name": "TV Nosara",
     "stream_urls": [
-      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      "https://latamvdo.com:3870/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

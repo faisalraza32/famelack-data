@@ -210,23 +210,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "udSOaNy3d31JFB",
+    "name": "Chamber TV",
+    "stream_urls": [
+      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "ltz"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zzIInP1RoY4ur6",
     "name": "Channel 10",
     "stream_urls": [
       "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jBe008vis1MIBq",
-    "name": "City of Fort Pierce",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -350,19 +351,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uttZwpytIM0"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -739,8 +727,8 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "stream_urls": [
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -813,19 +801,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV FHD",
-    "stream_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -960,19 +935,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "stream_urls": [
-      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
@@ -1069,7 +1031,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N5x63bWabO4"
+      "https://www.youtube-nocookie.com/embed/Ua3ewNYPzEA"
     ],
     "languages": [
       "por"
@@ -1245,7 +1207,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8JoQHNsoc9Q"
+      "https://www.youtube-nocookie.com/embed/hDOyZheGawA"
     ],
     "languages": [
       "por"
