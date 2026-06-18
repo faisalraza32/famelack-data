@@ -78,7 +78,9 @@
   {
     "nanoid": "Gmuy6SpwOogHJz",
     "name": "Africanews English",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -408,6 +410,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x5fWrafkMRpDW8",
+    "name": "Euronews Greek",
+    "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xrA5xgdFcK6f66",
     "name": "Euronews Italiano",
     "stream_urls": [],
@@ -468,6 +483,19 @@
     ],
     "languages": [
       "ron"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsUZSvBNUz3yiT",
+    "name": "Euronews Spanish",
+    "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -968,21 +996,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "stream_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
     "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1112,6 +1130,28 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "stream_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "stream_urls": [
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1357,6 +1397,7 @@
     "name": "Trace Latina",
     "stream_urls": [
       "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],

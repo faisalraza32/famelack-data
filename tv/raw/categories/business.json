@@ -41,19 +41,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "stream_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "stream_urls": [
@@ -497,23 +484,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "stream_urls": [
-      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CEAdR8bknBDUPA",
     "name": "RBK-TV",
     "stream_urls": [
-      "https://online-video.rbc.ru/online2/rbctv.m3u8",
       "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
     ],
     "youtube_urls": [],
@@ -548,6 +521,19 @@
       "pol"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Buf371rRZBbDSG",
+    "name": "Tevex",
+    "stream_urls": [
+      "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
