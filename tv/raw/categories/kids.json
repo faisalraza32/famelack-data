@@ -5,9 +5,7 @@
     "stream_urls": [
       "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HxEcfPpyLMA"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -138,7 +136,6 @@
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "stream_urls": [
-      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
       "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -540,20 +537,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "hboH9AkWIrBLT1",
     "name": "Clifford the Big Red Dog: Classic",
     "stream_urls": [],
@@ -920,6 +903,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YeBBetrnBt0"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFnZBS7uvG9E90",
     "name": "Gulli Girl",
     "stream_urls": [
@@ -984,19 +980,6 @@
       "fra"
     ],
     "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EDJsRoJArkwgcL",
-    "name": "Jetix",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MjijgFvC8Xw"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1583,7 +1566,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S0-eKwcxa90"
+      "https://www.youtube-nocookie.com/embed/gyje0SP7OaU"
     ],
     "languages": [
       "por"
@@ -1720,19 +1703,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TkhGhxIH674"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -2264,6 +2234,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "stream_urls": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "stream_urls": [],
@@ -2281,8 +2264,7 @@
     "name": "ZooMoo",
     "stream_urls": [
       "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2309,7 +2291,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ClPGxDnk6vc"
+      "https://www.youtube-nocookie.com/embed/waPSx9QCvXE"
     ],
     "languages": [
       "zho"

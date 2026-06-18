@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
-    "stream_urls": [
-      "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "roeCDcGE1uwKQ6",
     "name": "Al Iraqia Sport",
     "stream_urls": [
@@ -134,19 +121,6 @@
     "name": "Al-Jawadain TV",
     "stream_urls": [
       "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oH3JHlocRjrWih",
-    "name": "Alquran",
-    "stream_urls": [
-      "https://ktvlive.online/stream/hls/ch1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -444,6 +418,19 @@
     "youtube_urls": [],
     "languages": [
       "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PhXDu5yXp9uaMZ",
+    "name": "Samarra TV",
+    "stream_urls": [
+      "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false
