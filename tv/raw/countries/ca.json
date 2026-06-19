@@ -540,19 +540,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J0CqDMWbn8VHaM",
-    "name": "CityNews Toronto",
-    "stream_urls": [
-      "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4SBy98qBTVlxwW",
     "name": "CityNews Vancouver",
     "stream_urls": [
@@ -728,7 +715,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -744,6 +732,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/V7AHU5NFPZ4"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -795,7 +796,7 @@
     "stream_urls": [
       "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
       "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+      "https://gusto-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1635,7 +1636,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VC_cmA5oN5Y"
+      "https://www.youtube-nocookie.com/embed/bca9gL5JYhk"
     ],
     "languages": [
       "eng"
@@ -1648,7 +1649,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qtm8M9h2Apg"
+      "https://www.youtube-nocookie.com/embed/totDrAd4QpA"
     ],
     "languages": [
       "eng"
@@ -1661,7 +1662,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1eLZVF1ZVw8"
+      "https://www.youtube-nocookie.com/embed/ZlFWWzekWdg"
     ],
     "languages": [
       "eng"
