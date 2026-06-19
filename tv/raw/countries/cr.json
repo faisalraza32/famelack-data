@@ -3,7 +3,7 @@
     "nanoid": "fp34BcAXOlbIfX",
     "name": "¡OPA!",
     "stream_urls": [
-      "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+      "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -56,8 +56,7 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -98,8 +97,7 @@
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -109,21 +107,23 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
-    "stream_urls": [
-      "https://latamvdo.com:3870/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
       "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rbhi1IeYnyJ3gG",
+    "name": "Cedros TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -290,20 +290,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "no0bNa1IOmbWsV",
     "name": "Guatuso TV",
     "stream_urls": [
@@ -373,7 +359,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yKHm_zQgY_8"
+      "https://www.youtube-nocookie.com/embed/UAjiJWJy_rk"
     ],
     "languages": [
       "spa"
@@ -462,19 +448,6 @@
     "name": "Sarapiqui TV",
     "stream_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -589,17 +562,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oFBYYfrHTKyW0r",
-    "name": "TV Nosara",
-    "stream_urls": [
-      "https://latamvdo.com:3870/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "stream_urls": [
@@ -630,32 +592,6 @@
     "name": "Video Tour Channel",
     "stream_urls": [
       "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

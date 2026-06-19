@@ -134,7 +134,8 @@
     "name": "Horse & Country TV",
     "stream_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -147,6 +148,7 @@
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
+      "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -309,6 +311,19 @@
       "deu"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
+    "stream_urls": [
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
