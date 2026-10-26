@@ -1,5 +1,20 @@
 [
   {
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8889/hls/4fk.m3u8",
+        "https://stream.4fun.tv:8889/hd/kids_hd_high.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "sources": {
@@ -36,34 +51,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LH4VxLk1PuQ"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vpmw5YCzbuvKxE",
-    "name": "ATM Rozrywka REWORK",
-    "sources": {
-      "streams": [
-        "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -132,6 +119,20 @@
     },
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -414,6 +415,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNpOE0EguTlVfK",
+    "name": "Radio RAM",
+    "sources": {
+      "streams": [
+        "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "sources": {
@@ -578,7 +607,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oH4gTUpSLuU"
+        "https://www.youtube-nocookie.com/embed/rh8D8V6HxKM"
       ]
     },
     "languages": [
@@ -620,7 +649,7 @@
     "name": "Telewizja Olsztyn",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7Xl7zDfMU5I"
+        "https://www.youtube-nocookie.com/embed/hANB37tPeJA"
       ]
     },
     "languages": [
@@ -690,7 +719,7 @@
     "name": "Telewizja wPolsce",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lx56Ajgrmw8"
+        "https://www.youtube-nocookie.com/embed/kQ61Qr_nfVU"
       ]
     },
     "languages": [
@@ -704,7 +733,21 @@
     "name": "Telewizja Zabrze",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/D5pE6bru9-w"
+        "https://www.youtube-nocookie.com/embed/6GSCCKAx1XI"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfdmNYbszO1KPF",
+    "name": "Telewizja Żary",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XN1Zj0JWZCk"
       ]
     },
     "languages": [
@@ -750,20 +793,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zm99zgCQP8EGKf",
-    "name": "Top Movies Polska",
-    "sources": {
-      "streams": [
-        "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -863,6 +892,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HC4lvJqJkoI"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

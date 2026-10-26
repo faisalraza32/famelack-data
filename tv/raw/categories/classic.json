@@ -28,31 +28,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "nqC1XmTU0qJuuy",
-    "name": "Bollywood Film",
+    "nanoid": "TZNdjDVfVrlQUD",
+    "name": "Bollywood Classic Romania",
     "sources": {
       "streams": [
-        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8"
       ]
     },
     "languages": [
+      "hin",
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d8w13QXT1QMGcP",
-    "name": "BRIDGE Classic",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -70,6 +57,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tabafcg5kRDnTr",
+    "name": "Film Atölyesi: Şener Şen Filmleri",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OqVhyaoOBco"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "52cUdXgN2lEt5P",
     "name": "FilmRise Classic TV",
     "sources": {
@@ -79,6 +80,20 @@
     },
     "languages": [],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rk4CX2TtGGZ6cO",
+    "name": "Gülşah Film: Kemal Sunal Filmleri",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IJKuZnfv_eA"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -114,27 +129,13 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lk7BZpk1PZ4"
+        "https://www.youtube-nocookie.com/embed/l0pRA4JWFAg"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E0XOi7kyOzOH98",
-    "name": "Nostalgia",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -163,6 +164,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UNigLBaZrxsC5x",
+    "name": "Retro Cartoon",
+    "sources": {
+      "streams": [
+        "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -200,7 +215,7 @@
     "name": "Shout! Studios: Bonanza (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4XC-lFiU8Ho"
+        "https://www.youtube-nocookie.com/embed/7NorduvZmI4"
       ]
     },
     "languages": [
@@ -214,7 +229,7 @@
     "name": "Shout! Studios: Elvira's Movie Macabre",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/99Qr1DR1p3g"
+        "https://www.youtube-nocookie.com/embed/2RXFl4u0JHs"
       ]
     },
     "languages": [
@@ -222,6 +237,48 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6UMqfCWAL6fJyw",
+    "name": "Smotrim 100% Klassika",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X20ezVvgfOtILT",
+    "name": "TCM East",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "iKamvnY73w2HJ6",
+    "name": "TCM West",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "qZJLmt0dETdzDZ",
@@ -266,11 +323,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8C51NnX0GtN4iN",
+    "name": "TMF HD FAST",
+    "sources": {
+      "streams": [
+        "https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYHc3ofoTIdcA8",
     "name": "TokuSHOUTsu: Kamen Rider Series",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/34p1anWUxDo"
+        "https://www.youtube-nocookie.com/embed/x3PtKUqFz1U"
       ]
     },
     "languages": [
@@ -481,20 +552,6 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xae9GkiaWEJxkK",
-    "name": "Warner Bros. Rewind: Classic Battle Scenes",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/syGEWLIT_aM"
       ]
     },
     "languages": [

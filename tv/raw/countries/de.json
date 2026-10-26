@@ -230,6 +230,7 @@
     "name": "Das Erste",
     "sources": {
       "streams": [
+        "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
         "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
       ]
     },
@@ -237,7 +238,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "FM7JnUFlNQHUFD",
@@ -297,6 +298,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nSzgFY1wA728Rf",
+    "name": "Disney Channel",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/disneyX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "04DHM2NaCjakkb",
     "name": "DMF",
     "sources": {
@@ -348,7 +363,7 @@
       "streams": [
         "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
         "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=109"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -358,7 +373,7 @@
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "H4HR8svz54XngH",
@@ -532,6 +547,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gTV3Fyovgig"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "sources": {
@@ -676,7 +705,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
+        "https://www.youtube-nocookie.com/embed/YO54qTdz6QI"
       ]
     },
     "languages": [
@@ -700,12 +729,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RefcIuSWqtTcds",
+    "name": "kabel eins Doku",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/dokuX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0ijH2Oxomh8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "sources": {
       "streams": [
-        "https://elephant.t62a.com/hls/8103/index.m3u8",
-        "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
+        "https://elephant.t62a.com/hls/8103/index.m3u8"
       ]
     },
     "languages": [
@@ -1095,6 +1151,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D4nMjd2d15gJap",
     "name": "OK Kaiserslautern",
     "sources": {
@@ -1121,6 +1191,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "TAd1Ubg7TEmAUU",
+    "name": "OK Kiel",
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WXS0fra9wbJjZY",
@@ -1263,6 +1347,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZDDOpXN3O4NOok",
+    "name": "ProSieben Maxx",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/pro7maxxX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OLmlejUUhCqlk2",
     "name": "QVC",
     "sources": {
@@ -1319,26 +1417,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FfKKaHEk2MpmA6",
-    "name": "Radio Weser TV Bremen",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "sources": {
       "streams": [
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
-    "sources": {
-      "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
@@ -1353,6 +1436,18 @@
     "sources": {
       "streams": [
         "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
       ]
     },
     "languages": [],
@@ -1448,7 +1543,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1645,7 +1741,7 @@
     "name": "Shop LC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xquOEKhK2Uc"
+        "https://www.youtube-nocookie.com/embed/xJjQOnixRtA"
       ]
     },
     "languages": [
@@ -1795,6 +1891,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JC3Zk1LuuJp1Jk",
+    "name": "TELE 5",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tele5X/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "APsiDTtaBUvYQA",
     "name": "teltOwkanal",
     "sources": {
@@ -1809,11 +1920,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
+    "sources": {
+      "streams": [
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OR0bcDdbzNJR50",
     "name": "Terra Mater WILD English",
     "sources": {
       "streams": [
-        "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
         "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
       ]
     },
@@ -1822,6 +1944,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OfmMpkKE1FtNkl",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tlcX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zSAQDtp3HsePwB",

@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LH4VxLk1PuQ"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -300,7 +286,6 @@
     "name": "Da Vinci",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -770,7 +755,7 @@
     "name": "FGN Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tJpxOKMFLqI"
+        "https://www.youtube-nocookie.com/embed/T2ILgM2oRNg"
       ]
     },
     "languages": [
@@ -798,8 +783,8 @@
     "name": "Gyandarshan",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/14/master.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8"
+        "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/14/master.m3u8"
       ]
     },
     "languages": [
@@ -1163,7 +1148,8 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+        "https://tvsen7.aynascope.net/pbskids/index.m3u8"
       ]
     },
     "languages": [
@@ -1314,20 +1300,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ilmq7YqEXqJqfJ",
-    "name": "Rai Scuola",
-    "sources": {
-      "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
     "sources": {
@@ -1388,7 +1360,7 @@
     "name": "SQOOL TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fvdwGoCynIQ"
+        "https://www.youtube-nocookie.com/embed/BpgRs80nd1k"
       ]
     },
     "languages": [
@@ -1423,6 +1395,20 @@
       "spa"
     ],
     "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "sources": {
+      "streams": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1482,20 +1468,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LSV8LWxmVrWxS3",
-    "name": "TV Cuatro 4.4",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "r1oGqxJA7bXTXS",
     "name": "TV Maya",
     "sources": {
@@ -1535,20 +1507,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VxXPHwWoMl0QhJ",
-    "name": "TV Universidad",
-    "sources": {
-      "streams": [
-        "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1664,6 +1622,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "sources": {
@@ -1689,6 +1661,20 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1745,6 +1731,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
     "isGeoBlocked": false
   },
   {

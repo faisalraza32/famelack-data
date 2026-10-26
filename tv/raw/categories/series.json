@@ -85,6 +85,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xcUkg7UZiNSkId",
+    "name": "AMC Series Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/AMC/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "sources": {
@@ -229,20 +243,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -478,6 +478,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "aUMgSxs4t83jMD",
+    "name": "Emret Komutanım",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sU0Jly79jLs"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VX5kVJoRiCmbKU",
     "name": "Europa Europa",
     "sources": {
@@ -490,6 +504,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kQcoVGJEguMaJQ",
+    "name": "Farscape",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lo6XhOlFTFs"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -584,6 +612,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nbJaIRnlOXsI50",
+    "name": "HBO East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b9hyRXnC242UxT",
+    "name": "HBO Hits East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0zblbZ45u2Fyw",
     "name": "Hell's Kitchen UK",
     "sources": {
@@ -661,7 +719,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lk7BZpk1PZ4"
+        "https://www.youtube-nocookie.com/embed/l0pRA4JWFAg"
       ]
     },
     "languages": [
@@ -817,6 +875,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fvdk4Kaaoqz9LQ",
+    "name": "ON Cine",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KnQ1j8Phu3BSgy",
     "name": "OuterSphere",
     "sources": {
@@ -926,7 +998,7 @@
     "name": "Shout! Studios: Dennis the Menace",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/S7dehZP7oJ8"
+        "https://www.youtube-nocookie.com/embed/WXO-MHe_fYg"
       ]
     },
     "languages": [
@@ -940,13 +1012,55 @@
     "name": "Shout! Studios: Father Knows Best",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xE098Hrr-co"
+        "https://www.youtube-nocookie.com/embed/1vs0tkRsJH0"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rkSBlkz2deLyQZ",
+    "name": "Shout! Studios: Get A Life",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nTa6iGUH70A"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AEW5rUSukyBObX",
+    "name": "Smotrim 100% Lyubov",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xskSlYuVIwl8pa",
+    "name": "Smotrim 100% Muzhskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1127,7 +1241,7 @@
     "name": "TokuSHOUTsu: Kamen Rider Ryuki",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gomRKw9dQlo"
+        "https://www.youtube-nocookie.com/embed/u4dRY7S-Ve0"
       ]
     },
     "languages": [

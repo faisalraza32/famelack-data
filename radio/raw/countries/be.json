@@ -725,34 +725,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k8QqP8js520ZrB",
-    "name": "Halloween Radio",
-    "sources": {
-      "streams": [
-        "https://radio1.streamserver.link/radio/8000/hrm-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k3DeG8YqjrKVfi",
-    "name": "Halloween Radio Atmosphere",
-    "sources": {
-      "streams": [
-        "https://radio1.streamserver.link/radio/8040/hra-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7lcSO66idSSO0P",
     "name": "Impact Radio",
     "sources": {
@@ -2020,6 +1992,20 @@
     },
     "languages": [
       "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kLxVKBY2QxQaKk",
+    "name": "Radio Qui Chifel",
+    "sources": {
+      "streams": [
+        "https://stream.rqc.be/listen.pls/"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "be",
     "isGeoBlocked": false

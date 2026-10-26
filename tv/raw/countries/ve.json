@@ -18,21 +18,7 @@
     "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ciUS0lRhmTtePT",
-    "name": "Anzoategui TV",
-    "sources": {
-      "streams": [
-        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        "https://stream.aguacatetv.com:3949/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -89,20 +75,6 @@
     "sources": {
       "streams": [
         "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
-    "sources": {
-      "streams": [
-        "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8"
       ]
     },
     "languages": [
@@ -253,6 +225,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jm0NQzDK6O3XDE",
+    "name": "Lara en Redes",
+    "sources": {
+      "streams": [
+        "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
     "sources": {
@@ -394,20 +380,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8UCD3Qx8hCNOEd",
-    "name": "Siembra TV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hf8hQXiCJxWSk6",
     "name": "Somos TV",
     "sources": {
@@ -427,6 +399,20 @@
     "sources": {
       "streams": [
         "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -554,7 +540,7 @@
     "name": "TV Oasis Monay",
     "sources": {
       "streams": [
-        "https://servilive.com:3562/live/vav4c8z38live.m3u8"
+        "https://live.teve.pro/live/tvoasis/index.m3u8"
       ]
     },
     "languages": [
@@ -588,6 +574,32 @@
     "languages": [
       "spa"
     ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plr8p8zjDPs7Ks",
+    "name": "TVS",
+    "sources": {
+      "streams": [
+        "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lupM9TqioABtUb",
+    "name": "UN24",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ve",
     "isGeoBlocked": false
   },

@@ -46,7 +46,7 @@
     "name": "FairON",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0S-jGDLn_bY"
+        "https://www.youtube-nocookie.com/embed/H9UWof1Thm0"
       ]
     },
     "languages": [
@@ -254,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gRCF1WhcrFMXld",
+    "name": "ORF 1",
+    "sources": {
+      "streams": [
+        "https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2YKn96rbCyY3de",
     "name": "ORF III",
     "sources": {
@@ -326,20 +340,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LmXiHP1vY6XyzS",
-    "name": "RTV",
-    "sources": {
-      "streams": [
-        "https://streamtest.rtv-ooe.at/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xO850u0sWlzEEk",
     "name": "Salzburg AG",
     "sources": {
@@ -359,20 +359,6 @@
     "sources": {
       "streams": [
         "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FprwnAkCKvi17W",
-    "name": "Steiermark TV",
-    "sources": {
-      "streams": [
-        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
       ]
     },
     "languages": [

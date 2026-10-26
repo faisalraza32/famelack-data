@@ -102,6 +102,7 @@
     "name": "Antena 3 CNN",
     "sources": {
       "streams": [
+        "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
         "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8"
       ]
     },
@@ -197,14 +198,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nqC1XmTU0qJuuy",
-    "name": "Bollywood Film",
+    "nanoid": "TZNdjDVfVrlQUD",
+    "name": "Bollywood Classic Romania",
     "sources": {
       "streams": [
-        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8"
       ]
     },
     "languages": [
+      "hin",
       "ron"
     ],
     "country": "ro",
@@ -309,20 +311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qFwIIjAFYuKLPE",
-    "name": "Etno TV",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Aw91unFPHKA4b2",
     "name": "Euronews Romania",
     "sources": {
@@ -405,6 +393,20 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DS0ehq9kdFE5AD",
+    "name": "Formula 1 AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -606,6 +608,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dfvV9SkyUqJgjs",
+    "name": "MeteoTV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/CchwfN0XThc"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "sources": {
@@ -625,78 +641,6 @@
     "sources": {
       "streams": [
         "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wAAXdhWFrvqJmH",
-    "name": "Mooz Dance",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDDs1fELyb6Zbe",
-    "name": "Mooz Love",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M4hlHF27RchkXg",
-    "name": "Mooz Retro",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8"
       ]
     },
     "languages": [
@@ -762,15 +706,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xb6sSVxIqQCLnS",
-    "name": "Nostalgia TV",
+    "nanoid": "19bVQttgqOEZ2W",
+    "name": "NHL AntenaPlay",
     "sources": {
       "streams": [
-        "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
+        "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -785,20 +729,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z71jjGo1p2SVWS",
-    "name": "Prima News",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -832,6 +762,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o2mdLct3Etcuk8",
+    "name": "Qub TV",
+    "sources": {
+      "streams": [
+        "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V2O33fBcF0imvd",
     "name": "Radio Fx Net",
     "sources": {
@@ -841,20 +785,6 @@
     },
     "languages": [
       "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mJwYIq4WQH48qf",
-    "name": "Radio Romania 3Net",
-    "sources": {
-      "streams": [
-        "https://media.3netmedia.ro/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -917,6 +847,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bUaFKYa76wVfhc",
+    "name": "Sangeorz TV",
+    "sources": {
+      "streams": [
+        "https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "trH7SqpEADmNbG",
+    "name": "Smart Radio",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4apagZXEOsADeK",
     "name": "SperantaTV",
     "sources": {
@@ -959,6 +918,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Njn8bJGKqOkI3F",
+    "name": "Tele7music",
+    "sources": {
+      "streams": [
+        "https://live.tele7music.ro/hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hIj4Fm6gOaC8Wj",
     "name": "TeleMoldova +",
     "sources": {
@@ -987,11 +960,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jEPGXGbsLAf0No",
+    "name": "Tequila Music TV",
+    "sources": {
+      "streams": [
+        "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXZGbTAyHEypM",
+    "name": "TraLaLa DSN",
+    "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XUYPIY4ntZdroJ",
     "name": "TraLaLa TV",
     "sources": {
       "streams": [
         "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lYU8MwJ7rLlvO8",
+    "name": "Travel Mix",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1019,7 +1034,7 @@
     "name": "Tu Decizi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DqL7PwiZ3uY"
+        "https://www.youtube-nocookie.com/embed/XNbwnDZ0e94"
       ]
     },
     "languages": [
@@ -1202,6 +1217,20 @@
     "sources": {
       "streams": [
         "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wEoUUNJpcYsZs6",
+    "name": "Z-TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/R6AcaQ8h8AM"
       ]
     },
     "languages": [

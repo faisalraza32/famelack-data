@@ -70,6 +70,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "qF4K7YKWjkSybG",
+    "name": "Bread TV",
+    "sources": {
+      "streams": [
+        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cmn"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -273,9 +287,6 @@
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0t5RT9FYCF8"
       ]
     },
     "languages": [
@@ -346,6 +357,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zAj5NzeQEJLQeG",
+    "name": "Dragon TV International",
+    "sources": {
+      "streams": [
+        "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "l2c248PtwB0qu4",
     "name": "Guangzhou TV",
     "sources": {
@@ -394,6 +419,20 @@
       "streams": [
         "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
         "https://event.pull.hebtv.com/live/live101.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bPR0rI0GNI56FZ",
+    "name": "Hunan Economy Channel",
+    "sources": {
+      "streams": [
+        "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8"
       ]
     },
     "languages": [
@@ -549,7 +588,8 @@
     "name": "Xinjiang TV 2",
     "sources": {
       "streams": [
-        "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0"
+        "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0",
+        "https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877"
       ]
     },
     "languages": [
@@ -779,42 +819,6 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "sources": {
-      "streams": [
-        "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2D80wABwXq6SL0",
-    "name": "浙江 I 绍兴影视",
-    "sources": {
-      "streams": [
-        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWjSdo4t72dhtd",
-    "name": "浙江 I 绍兴综合",
-    "sources": {
-      "streams": [
-        "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "q3imX08R99F529",

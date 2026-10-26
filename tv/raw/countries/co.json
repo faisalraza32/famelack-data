@@ -156,11 +156,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
     "sources": {
       "streams": [
-        "https://eu1.servers10.com:8081/8056/index.m3u8"
+        "https://movil.ejeserver.com/live/calimatv.m3u8"
       ]
     },
     "languages": [
@@ -270,6 +270,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pTxoOzbrB9RhS5",
+    "name": "Canal RCN",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/RCN/RCN.isml/RCN.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KjfXoBdjtuGuIn",
     "name": "Canal Telefamilia",
     "sources": {
@@ -317,6 +331,20 @@
     "sources": {
       "streams": [
         "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FGFsYk2A3OACLA",
+    "name": "Caracol Internacional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8"
       ]
     },
     "languages": [
@@ -511,6 +539,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mshfkhqs41pHqb",
+    "name": "Fiesta TV",
+    "sources": {
+      "streams": [
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vrb0tQpIhi4WoL",
     "name": "Frecuencia F TV",
     "sources": {
@@ -653,20 +695,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5rbGMc3RXFNkA",
-    "name": "Nexo TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zI3NybQoMP9Xkx",
     "name": "Noticias Caracol",
     "sources": {
@@ -784,7 +812,8 @@
     "name": "RCN Novelas",
     "sources": {
       "streams": [
-        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1067,6 +1096,20 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmiFkXyyhlLrz0",
+    "name": "Veo Televisión",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

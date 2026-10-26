@@ -28,6 +28,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZJCzbVc31LkU2Y",
+    "name": "CAtv",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8216/8216.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mS9qxq2CzcaNUI",
     "name": "CDM Internacional",
     "sources": {
@@ -52,6 +67,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F82Ha47NfXUgZA",
+    "name": "EBN Television WIDP",
+    "sources": {
+      "streams": [
+        "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "pr",
     "isGeoBlocked": false
@@ -209,18 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vETwdWDS6Ys3LC",
-    "name": "WDWL-DT1 (Teleadoración/Enlace PR)",
-    "sources": {
-      "streams": [
-        "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCErNDOF1ndRX6",
     "name": "WECN",
     "sources": {
@@ -253,8 +270,7 @@
     "name": "WIPR-TV 6.1",
     "sources": {
       "streams": [
-        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8",
-        "https://streamwipr.pr/hls/stream/index.m3u8"
+        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8"
       ]
     },
     "languages": [

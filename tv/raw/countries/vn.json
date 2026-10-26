@@ -1,13 +1,28 @@
 [
   {
-    "nanoid": "BqR3EbjIIGHUh7",
-    "name": "360 Entertainment - Bolero & Nhạc Vàng",
+    "nanoid": "79lqDZYF5l4OvA",
+    "name": "An Ninh TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/AzbhOYU4YxE"
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=20"
       ]
     },
     "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MW4dJ69gdqJN9m",
+    "name": "Asian Food Network Vietnam",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=215"
+      ]
+    },
+    "languages": [
+      "eng",
       "vie"
     ],
     "country": "vn",
@@ -86,7 +101,7 @@
     "name": "DGV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BTI-eJWC7ro"
+        "https://www.youtube-nocookie.com/embed/_63_RuRXOg0"
       ]
     },
     "languages": [
@@ -114,6 +129,7 @@
     "name": "Dong Nai TV 1",
     "sources": {
       "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=53",
         "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8"
       ]
     },
@@ -121,13 +137,14 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "uqY1lmyz1EQJF2",
     "name": "Dong Nai TV 2",
     "sources": {
       "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=255",
         "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8"
       ]
     },
@@ -152,11 +169,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P9F04WuZHvAcsW",
+    "name": "Lang Son TV",
+    "sources": {
+      "streams": [
+        "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PYD65sKTsyBg8u",
+    "name": "Lao Cai TV",
+    "sources": {
+      "streams": [
+        "https://live.baolaocai.vn/channel2/stream.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nfUMYUgBEhhJaP",
     "name": "Lao SV TV",
     "sources": {
       "streams": [
         "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MCfXk6TQbmHJMZ",
+    "name": "Nghe An TV",
+    "sources": {
+      "streams": [
+        "https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fvdk4Kaaoqz9LQ",
+    "name": "ON Cine",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=176"
       ]
     },
     "languages": [
@@ -208,6 +279,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1MCy1aaHLTwmEY",
+    "name": "ON Music",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TkKPx05Xyb5rMG",
+    "name": "ON Vie Giai Tri",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dnAjiRdyXVXCGu",
+    "name": "Outdoor Channel Vietnam",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=216"
+      ]
+    },
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Z09wt5wx76BFs",
     "name": "QPVN",
     "sources": {
@@ -226,7 +340,21 @@
     "name": "Quang Lập Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rQZ9j6r0wro"
+        "https://www.youtube-nocookie.com/embed/2CD-lLZW_gg"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H71VIaKYOBP3i5",
+    "name": "Quang Nam TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=80"
       ]
     },
     "languages": [
@@ -289,7 +417,7 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WDpo6d5ejxs4be",
@@ -499,7 +627,7 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OHw1zTMDs2YTrv",
@@ -539,20 +667,6 @@
     },
     "languages": [
       "eng",
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "so5fgKy39odQZy",
-    "name": "VSBet HD",
-    "sources": {
-      "streams": [
-        "https://live05.meung.app/live/16226575.m3u8"
-      ]
-    },
-    "languages": [
       "vie"
     ],
     "country": "vn",

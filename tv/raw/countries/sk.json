@@ -18,7 +18,7 @@
     "name": "Česko-Slovenská regionálna televízia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8lPucLXbNmc"
+        "https://www.youtube-nocookie.com/embed/gscn9oXh0W4"
       ]
     },
     "languages": [
@@ -63,20 +63,6 @@
     "sources": {
       "streams": [
         "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NuK9jsc16AOLPv",
-    "name": "LifeTv",
-    "sources": {
-      "streams": [
-        "https://lifetv.mpks.sk/s.m3u8"
       ]
     },
     "languages": [
@@ -142,6 +128,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LO7rHSgznxpZgY",
+    "name": "Televizia Mocenok",
+    "sources": {
+      "streams": [
+        "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "or5ZXEVHlJydwD",
     "name": "Turbo TV",
     "sources": {
@@ -160,7 +160,22 @@
     "name": "TV Central",
     "sources": {
       "streams": [
+        "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
         "https://dash4.antik.sk/live/test_central/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ulsMU1MaHTBaTP",
+    "name": "TV DK",
+    "sources": {
+      "streams": [
+        "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -216,7 +231,7 @@
     "name": "TV Nitra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EJDZx1kt8Eg"
+        "https://www.youtube-nocookie.com/embed/KRtA36vKdGA"
       ]
     },
     "languages": [
@@ -329,6 +344,20 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_tv9/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lY0NSe1C5uyuBW",
+    "name": "TVT",
+    "sources": {
+      "streams": [
+        "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8"
       ]
     },
     "languages": [
